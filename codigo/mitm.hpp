@@ -3,7 +3,7 @@
 
 ResultadoProblema MITM(const ConjLineal& s, const DatosProblema& dp){
     ResultadoProblema res;
-    int mitad = s.size()/2;
+    auto mitad = s.size()/2;
 
     std::vector<Tupla_ConjBT> A;
     std::vector<Tupla_ConjBT> B;
@@ -15,16 +15,16 @@ ResultadoProblema MITM(const ConjLineal& s, const DatosProblema& dp){
 
     // Genero subconjuntos de la primer mitad, me guardo el numero con el que los cree(i) y su beneficio y tamanio totales
     for(ID_t i = 0;i < std::pow(2, div1.size());i++){
-        int t = tamanio_conj_id(i, dp, div1);
-        int b = beneficio_conj_id(i, dp, div1);
+        unsigned int t = tamanio_conj_id(i, dp, div1);
+        unsigned int b = beneficio_conj_id(i, dp, div1);
         if (t <= dp.W)
             A.emplace_back(i, b, t);
     }
 
     // Genero subconjuntos de la segunda mitad, me guardo el numero con el que los cree(i) y su beneficio y tamanio totales
     for(ID_t i = 0;i < std::pow(2, div2.size());i++){
-        int t = tamanio_conj_id(i, dp, div2);
-        int b = beneficio_conj_id(i, dp, div2);
+        unsigned int t = tamanio_conj_id(i, dp, div2);
+        unsigned int b = beneficio_conj_id(i, dp, div2);
         if (t <= dp.W)
             B.emplace_back(i, b, t);
     }
@@ -36,17 +36,17 @@ ResultadoProblema MITM(const ConjLineal& s, const DatosProblema& dp){
 
     // Armo una lista que contenga en cada indice i, el indice j al elemento de mayor beneficio en el rango (0, i) de la segunda mitad
 
-    std::vector<int> maximos_div2(B.size(), -1);
+    std::vector<ConjLineal::size_type> maximos_div2(B.size(), -1);
     maximos_div2[0] = 0;
 
-    for(int idx = 1; idx < (int)B.size();idx++){
+    for(ConjLineal::size_type idx = 1; idx < B.size();idx++){
         if (B[idx].b_total > B[maximos_div2[idx-1]].b_total)
             maximos_div2[idx] = idx;
         else
             maximos_div2[idx] = maximos_div2[idx - 1];
     }
 
-    int beneficio_sol = -1; 
+    unsigned int beneficio_sol = 0; 
 
     for(auto j = A.begin(); j != A.end(); j++){
 
