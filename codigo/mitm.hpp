@@ -16,26 +16,27 @@ ResultadoProblema MITM(const ConjLineal& s, const DatosProblema& dp){
     // Genero subconjuntos de la primer mitad, me guardo el numero con el que los cree(i) y su beneficio y tamanio totales
     for(ID_t i = 0;i < std::pow(2, div1.size());i++){
         unsigned int t = tamanio_conj_id(i, dp, div1);
-        unsigned int b = beneficio_conj_id(i, dp, div1);
-        if (t <= dp.W)
+        if (t <= dp.W){
+            unsigned int b = beneficio_conj_id(i, dp, div1);
             A.emplace_back(i, b, t);
+        }
     }
 
     // Genero subconjuntos de la segunda mitad, me guardo el numero con el que los cree(i) y su beneficio y tamanio totales
     for(ID_t i = 0;i < std::pow(2, div2.size());i++){
         unsigned int t = tamanio_conj_id(i, dp, div2);
-        unsigned int b = beneficio_conj_id(i, dp, div2);
-        if (t <= dp.W)
+        if (t <= dp.W){
+            unsigned int b = beneficio_conj_id(i, dp, div2);
             B.emplace_back(i, b, t);
+        }
     }
 
     // Ordeno elementos de la segunda mitad por tamaño
     std::sort(B.begin(), B.end(), [](const Tupla_ConjBT& a, const Tupla_ConjBT& b){
-            return a.t_total < b.t_total;
-            });
+        return a.t_total < b.t_total;
+    });
 
     // Armo una lista que contenga en cada indice i, el indice j al elemento de mayor beneficio en el rango (0, i) de la segunda mitad
-
     std::vector<ConjLineal::size_type> maximos_div2(B.size(), -1);
     maximos_div2[0] = 0;
 
@@ -52,7 +53,7 @@ ResultadoProblema MITM(const ConjLineal& s, const DatosProblema& dp){
 
         // Buscamos de forma binaria el primero elemento de la division 2 que no cumple la restriccion para el j actual
         auto techo_restriccion = std::upper_bound(B.cbegin(),B.cend(), (*j), [dp](const Tupla_ConjBT& a, const Tupla_ConjBT& b){
-                return b.t_total + a.t_total > dp.W;
+            return b.t_total + a.t_total > dp.W;
         });
 
         // Buscamos el maximo beneficio en el rango (0, techo-1)
