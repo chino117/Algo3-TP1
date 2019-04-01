@@ -1,49 +1,54 @@
 #include "tipos_aux.h"
+#include <algorithm>
 
-void Solve_Backtracking_Fact(const ConjLineal& s, const DatosProblema& dp, int b_candidato, int t_candidato, unsigned int& sol, unsigned int idx_elem, int& nodos){
+using namespace std;
+
+void Solve_Backtracking_Fact(const ConjLineal& s, const DatosProblema& dp, unsigned int b_candidato, unsigned int t_candidato, unsigned int& sol, unsigned int idx_elem, unsigned int& nodos){
     nodos++;
-    if (idx_elem <= s.size() && (unsigned int)b_candidato > sol)
-        sol = (unsigned int)b_candidato;
-    if(idx_elem == s.size())return;
-    // Si el elemento actual entra, lo agrego y busco las soluciones que lo contengan
-    if(t_candidato + dp.ws[s[idx_elem]] <= dp.W){
-        b_candidato += dp.ps[s[idx_elem]];
-        t_candidato += dp.ws[s[idx_elem]];
-        Solve_Backtracking_Fact(s, dp, b_candidato, t_candidato,sol, idx_elem+1, nodos);
-        b_candidato -= dp.ps[s[idx_elem]];
-        t_candidato -= dp.ws[s[idx_elem]];
+
+    if(b_candidato + dp.ps[s[idx_elem]] > sol && t_candidato + dp.ws[s[idx_elem]] <= dp.W){
+        sol = b_candidato + dp.ps[s[idx_elem]];
+        cout<<"Cambio la solucion en nodo "<<idx_elem<<endl;
+        cout<<"#Nodo: "<<nodos<<"| Beneficio: "<<b_candidato + dp.ps[s[idx_elem]] <<endl; 
     }
+
+    cout<<"Nodo idx: "<<idx_elem<<"| Beneficio: "<<dp.ps[s[idx_elem]]<<"| Peso: "<<dp.ws[s[idx_elem]]<<endl;
+
+    if(idx_elem < s.size()){
+    // Si el elemento actual entra, lo agrego y busco las soluciones que lo contengan
+        if(t_candidato + dp.ws[s[idx_elem]] <= dp.W){
+            b_candidato += dp.ps[s[idx_elem]];
+            t_candidato += dp.ws[s[idx_elem]];
+            Solve_Backtracking_Fact(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
+            b_candidato -= dp.ps[s[idx_elem]];
+            t_candidato -= dp.ws[s[idx_elem]];
+        }
     // Sin considerar el item actual, si el elemento del proximo idx_elem entra
     // Vemos las soluciones de ver ese idx_elem. Si no, al estar ordenado S
-    // En orden creciente por tamaño, los demas idx_elemes tampoco entran
+    // En orden creciente por tamaño, las demas soluciones tampoco entran
     // Por lo que los ignoramos
-    if(t_candidato + dp.ws[s[idx_elem + 1]] <= dp.W){
-        Solve_Backtracking_Fact(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
+        if(idx_elem+1 < s.size() && t_candidato + dp.ws[s.at(idx_elem + 1)] <= dp.W)
+            Solve_Backtracking_Fact(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
     }
-    return;
 }
 
 ResultadoProblema Backtracking_Fact(const ConjLineal& s, const DatosProblema& dp){
     ResultadoProblema res;
     ConjLineal orig(s);
-    auto start_time = std::chrono::steady_clock::now();
+    auto start_time = chrono::steady_clock::now();
 
-    unsigned int b = 0;
-    std::sort(orig.begin(), orig.end(), [dp](const int& a, const int& b){
+    sort(orig.begin(), orig.end(), [dp](const int& a, const int& b){
             return (dp.ws[a] < dp.ws[b]);
             });
-    //for(auto& a : orig)
-        //std::cout<<dp.ws[a]<<" ";
-    //std::cout<<'\n';
-    Solve_Backtracking_Fact(orig, dp, 0, 0, b, 0, res.nodos);
 
-    auto end_time = std::chrono::steady_clock::now();
+    Solve_Backtracking_Fact(orig, dp, 0, 0, res.b, 0, res.nodos);
+
+    auto end_time = chrono::steady_clock::now();
     auto diff_time = end_time - start_time;
 
-    //std::cout<<"Nodos recorridos backtracking fact: "<<res.nodos<<std::endl;
-    res.b = b;
+    cout<<"Nodos recorridos backtracking fact: "<<res.nodos<<endl;
     res.metodo = 3;
-    res.tiempo = std::chrono::duration <double, std::milli> (diff_time);
+    res.tiempo = chrono::duration <double, milli> (diff_time);
 
     return res;
 }

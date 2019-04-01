@@ -2,10 +2,9 @@
 #include "fuerza_bruta.hpp"
 #include "mitm.hpp"
 #include "backtracking_simple.hpp"
-/*#include "backtracking_poda_fact.hpp"
-#include "backtracking_poda_opt.hpp"
+#include "backtracking_poda_fact.hpp"
+/* #include "backtracking_poda_opt.hpp" */
 #include "backtracking_poda_ambas.hpp"
-*/
 #include "dinamica_top_down.hpp"
 #include <iostream>
 #include <string>
@@ -136,16 +135,14 @@ int main(int argc, char** argv)
                 res[metodo] = Backtracking_Simple(orig, r);
                 break;
             case 3:
-                res[metodo] = Backtracking_Simple(orig, r);
-                //res[metodo] = Backtracking_Fact(orig, r);
+                res[metodo] = Backtracking_Fact(orig, r);
                 break;
             case 4:
                 res[metodo] = Backtracking_Simple(orig, r);
                 //res[metodo] = Backtracking_Opt(orig, r);
                 break;
             case 5:
-                res[metodo] = Backtracking_Simple(orig, r);
-                //res[metodo] = Backtracking_Ambas(orig, r);
+                res[metodo] = Backtracking_Ambas(orig, r);
                 break;
             case 6:
                 res[metodo] = Dinamica_TD(orig, r);
