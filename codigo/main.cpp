@@ -32,7 +32,7 @@ void Guardar_Resultados(const string& path, const ResultadoProblema& res, const 
 void Mostrar_Ayuda()
 {
     cout<<"Modo de uso: ./main <modo> [archivo de salida] <valores de entrada>\n"
-    <<"Se pueden pasar los datos de entrada com parametros (en <valores de entrada>) o por el stdin usando pipes, ej: cat test.txt | ./main <modo> [archivo salida]\n"
+    <<"Se pueden pasar los datos de entrada con parametros (en <valores de entrada>) o por el stdin usando pipes, ej: cat test.txt | ./main <modo> [archivo salida]\n"
     <<"Valores de Modo: 0 = Fuerza bruta.\n"
     <<"                 1 = MITM.\n"
     <<"                 2 = Backtracking sin podas.\n"
@@ -165,7 +165,6 @@ int main(int argc, char** argv)
 
         if(!todos_iguales)
             return 1;
-        // Descomentar para que guarde en el archivo output los valores para cada algoritmo
         else{
             cout<<res[0].b<<"\n";
             for(unsigned int i = 0; i < CANT_MODOS;i++)
