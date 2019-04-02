@@ -5,9 +5,10 @@ using namespace std;
 // Backtracking sin podas, es parecido a fuerza bruta
 void Solve_Backtracking_Simple(const ConjLineal& s, const DatosProblema& dp, ConjLineal& candidato, unsigned int& sol, int idx_elem, unsigned int& nodos){
     nodos++;
-    cout<<"Nodo: "<<nodos<<"| Beneficio: "<<beneficio_conj(candidato, dp)<<endl; 
-    if (beneficio_conj(candidato, dp) > sol && tamanio_conj(candidato, dp) <= dp.W)
-        sol = beneficio_conj(candidato, dp);
+    unsigned int beneficio_candidato = beneficio_conj(candidato, dp);
+    cout<<"Nodo: "<<nodos<<"| Beneficio: "<<beneficio_candidato<<endl; 
+    if (beneficio_candidato > sol && tamanio_conj(candidato, dp) <= dp.W)
+        sol = beneficio_candidato;
     for(int i = idx_elem; i < (int)s.size();i++){
         candidato.push_back(s[i]);
         Solve_Backtracking_Simple(s, dp, candidato, sol, i+1, nodos);
