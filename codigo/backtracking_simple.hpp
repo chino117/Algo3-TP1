@@ -7,7 +7,7 @@ void Solve_Backtracking_Simple(const ConjLineal& s, const DatosProblema& dp, Con
     nodos++;
 
     unsigned int b_nodo = beneficio_conj(candidato, dp);
-    cout<<"Nodo: "<<nodos<<"| Beneficio: "<<b_nodo<<endl; 
+    //cout<<"Nodo: "<<nodos<<"| Beneficio: "<<b_nodo<<endl; 
     if (b_nodo > sol && tamanio_conj(candidato, dp) <= dp.W)
         sol = b_nodo;
 
@@ -28,7 +28,7 @@ ResultadoProblema Backtracking_Simple(const ConjLineal& s, const DatosProblema& 
     auto end_time = chrono::steady_clock::now();
     auto diff_time = end_time - start_time;
 
-    cout<<"Total nodos recorridos backtracking simple: "<<res.nodos<<endl;
+    //cout<<"Total nodos recorridos backtracking simple: "<<res.nodos<<endl;
     res.metodo = 2;
     res.tiempo = chrono::duration <double, milli> (diff_time);
 

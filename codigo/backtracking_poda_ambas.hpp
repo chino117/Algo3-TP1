@@ -27,11 +27,11 @@ void Solve_Backtracking_Ambas(const ConjLineal& s, const DatosProblema& dp, unsi
     if (b_candidato + dp.ps[s[idx_elem]] > sol && t_candidato + dp.ws[s[idx_elem]] <= dp.W){
         sol = b_candidato + dp.ps[s[idx_elem]];
 
-        cout<<"Cambio la solucion en nodo "<<idx_elem<<endl;
-        cout<<"#Nodo: "<<nodos<<"| Beneficio: "<<b_candidato + dp.ps[s[idx_elem]] <<endl; 
+        /* cout<<"Cambio la solucion en nodo "<<idx_elem<<endl; */
+        /* cout<<"#Nodo: "<<nodos<<"| Beneficio: "<<b_candidato + dp.ps[s[idx_elem]] <<endl; */ 
     }
 
-    cout<<"Nodo idx: "<<idx_elem<<"| Beneficio: "<<dp.ps[s[idx_elem]]<<"| Peso: "<<dp.ws[s[idx_elem]]<<endl;
+    /* cout<<"Nodo idx: "<<idx_elem<<"| Beneficio: "<<dp.ps[s[idx_elem]]<<"| Peso: "<<dp.ws[s[idx_elem]]<<endl; */
 
     if (idx_elem < s.size()){
         if(t_candidato + dp.ws[s[idx_elem]] <= dp.W){
@@ -60,7 +60,7 @@ ResultadoProblema Backtracking_Ambas(const ConjLineal& s, const DatosProblema& d
     auto end_time = chrono::steady_clock::now();
     auto diff_time = end_time - start_time;
 
-    cout<<"Nodos recorridos backtracking ambas: "<<res.nodos<<endl;
+    /* cout<<"Nodos recorridos backtracking ambas: "<<res.nodos<<endl; */
 
     res.metodo = 5;
     res.tiempo = chrono::duration <double, milli> (diff_time);

@@ -7,20 +7,30 @@
 #include "backtracking_poda_ambas.hpp"
 #include "dinamica_top_down.hpp"
 #include <iostream>
+#include <iomanip>
 #include <string>
 #include <chrono>
 #include <sstream>
 
 using namespace std;
 
+const unsigned int CANT_MODOS = 8;
+const string red("\033[0;31m");
+const string green("\033[1;32m");
+const string yellow("\033[1;33m");
+const string cyan("\033[0;36m");
+const string magenta("\033[0;35m");
+const string reset("\033[0m");
+const string nombres_metodos[CANT_MODOS] = {"Fuerza Bruta", 
+                                            "MITM", 
+                                            "Backtracking_simple", 
+                                            "Backtracking_fact", 
+                                            "Backtracking_opt", 
+                                            "Backtracking_ambas", 
+                                            "Dinamica_Top_Down",
+                                            "Todos"};
+
 void Guardar_Resultados(const string& path, const ResultadoProblema& res, const DatosProblema& dp){
-    string nombres_metodos[7] = {"Fuerza Bruta", 
-                                      "MITM", 
-                                      "Backtracking_simple", 
-                                      "Backtracking_fact", 
-                                      "Backtracking_opt", 
-                                      "Backtracking_ambas", 
-                                      "Dinamica_Top_Down"};
     fstream f(path, fstream::app | fstream::out);
     f<<dp.n<<","<<dp.W<<","<<res.b<<","<<res.tiempo.count()<<","<<nombres_metodos[res.metodo]<<",";
     if(res.nodos > 0)
@@ -33,15 +43,11 @@ void Mostrar_Ayuda()
 {
     cout<<"Modo de uso: ./main <modo> [archivo de salida] <valores de entrada>\n"
     <<"Se pueden pasar los datos de entrada con parametros (en <valores de entrada>) o por el stdin usando pipes, ej: cat test.txt | ./main <modo> [archivo salida]\n"
-    <<"Valores de Modo: 0 = Fuerza bruta.\n"
-    <<"                 1 = MITM.\n"
-    <<"                 2 = Backtracking sin podas.\n"
-    <<"                 3 = Backtracking con poda factibilidad.\n"
-    <<"                 4 = Backtracking con poda optimalidad.\n"
-    <<"                 5 = Backtracking ambas podas.\n"
-    <<"                 6 = Programacion Dinamica Top-Down.\n"
-    <<"                 7 = Corre todos los metodos y compara sus resultados, si alguno difiere, informa. Ignora archivo salida\n"
-    <<"Archivo de salida: Debe ser un archivo de formato .csv donde se adjutaran datos del problema como n, W, Beneficio Alcanzado, Tiempo de computo y Metodo utilizado."<<endl;
+    <<"Valores de Modo:\n";
+    for(unsigned int i = 0; i < CANT_MODOS;i++)
+        cout<<setw(18)<<i<<" = "<<nombres_metodos[i]<<".\n";
+    cout<<"Cuando ejecuta todos los metodos (metodo 7), compara los resultados e informa cuándo difieren y cuáles métodos difieren\n";
+    cout<<"Archivo de salida: Debe ser un archivo de formato .csv donde se adjutaran datos del problema como n, W, Beneficio Alcanzado, Tiempo de computo, Metodo utilizado y, para los metodos de backtracking, cantidad de nodos recorridos."<<endl;
 }
 
 int main(int argc, char** argv)
@@ -49,7 +55,6 @@ int main(int argc, char** argv)
     DatosProblema r;
 
     string output;
-    const unsigned int CANT_MODOS = 7;
     unsigned int modo = CANT_MODOS;
 
     if(argc == 1){
@@ -117,13 +122,14 @@ int main(int argc, char** argv)
 
     // Si ultimo_metodo == 7, vamos a correr todos los metodos y los comparamos al final
     // Si no, solo corremos el metodo determinado por modo
-    if (ultimo_metodo < CANT_MODOS)
+    if (ultimo_metodo < CANT_MODOS - 1)
         primer_metodo = ultimo_metodo;
     else
         ultimo_metodo--;
 
-    ResultadoProblema res[CANT_MODOS];
+    ResultadoProblema res[CANT_MODOS - 1];
     for(unsigned int metodo = primer_metodo;metodo <= ultimo_metodo;metodo++){
+        cout<<"Ejecutando metodo "<<nombres_metodos[metodo]<<endl;
         switch (metodo){
             case 0: 
                 res[metodo] = Fuerza_Bruta(r, orig);
@@ -147,17 +153,21 @@ int main(int argc, char** argv)
             case 6:
                 res[metodo] = Dinamica_TD(orig, r);
                 break;
+            default:
+                break;
         }
     }
 
     //Comparo resultados de todos los metodos para ver si difieren
-    if (modo == CANT_MODOS){
+    if (modo == CANT_MODOS-1){
         bool todos_iguales = true;
-        for(unsigned int i = 0;i < CANT_MODOS;i++){
-            for(unsigned int j = i + 1;j < CANT_MODOS;j++){
+        for(unsigned int i = 0;i < CANT_MODOS-1;i++){
+            for(unsigned int j = i + 1;j < CANT_MODOS-1;j++){
                 if(res[i].b != res[j].b){
-                    cout<<i<<" difiere de "<<j<<"\n";
-                    cout<<res[i].b<<" "<<res[j].b<<"\n";
+                    cout<<red<<"ERROR: "
+                    <<nombres_metodos[i]<<" difiere de "<<nombres_metodos[j]<<"\n"
+                    <<res[i].b<<" "<<res[j].b<<"\n"
+                    <<reset;
                     todos_iguales = false;
                 }
             }
@@ -167,7 +177,7 @@ int main(int argc, char** argv)
             return 1;
         else{
             cout<<res[0].b<<"\n";
-            for(unsigned int i = 0; i < CANT_MODOS;i++)
+            for(unsigned int i = 0; i < CANT_MODOS-1;i++)
                 Guardar_Resultados(output, res[i], r);
         }
     }
