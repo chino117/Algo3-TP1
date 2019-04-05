@@ -14,7 +14,7 @@
 
 using namespace std;
 
-const unsigned int CANT_MODOS = 8;
+const unsigned int CANT_MODOS = 9;
 const string red("\033[0;31m");
 const string green("\033[1;32m");
 const string yellow("\033[1;33m");
@@ -28,7 +28,8 @@ const string nombres_metodos[CANT_MODOS] = {"Fuerza Bruta",
                                             "Backtracking_opt", 
                                             "Backtracking_ambas", 
                                             "Dinamica_Top_Down",
-                                            "Todos"};
+                                            "Todos",
+                                            "Todos excepto FB y MITM"};
 
 void Guardar_Resultados(const string& path, const ResultadoProblema& res, const DatosProblema& dp){
     /* Vemos si el archivo ya existe */
@@ -58,7 +59,7 @@ void Mostrar_Ayuda()
     <<"Valores de Modo:\n";
     for(unsigned int i = 0; i < CANT_MODOS;i++)
         cout<<setw(18)<<i<<" = "<<nombres_metodos[i]<<".\n";
-    cout<<"Cuando ejecuta todos los metodos (metodo 7), compara los resultados e informa cuándo difieren y cuáles métodos difieren\n";
+    cout<<"Cuando ejecuta todos los metodos (metodo 7 y 8), compara los resultados e informa cuándo difieren y cuáles métodos difieren\n";
     cout<<"Archivo de salida: Debe ser un archivo de formato .csv donde se adjutaran datos del problema como n, W, Beneficio Alcanzado, Tiempo de computo, Metodo utilizado y, para los metodos de backtracking, cantidad de nodos recorridos."<<endl;
 }
 
@@ -129,54 +130,55 @@ int main(int argc, char** argv)
     for(ConjLineal::size_type i = 0;i < orig.size();i++)
         orig[i] = i;
 
-    unsigned int primer_metodo = 0;
-    unsigned int ultimo_metodo = modo;
 
-    // Si ultimo_metodo == 7, vamos a correr todos los metodos y los comparamos al final
-    // Si no, solo corremos el metodo determinado por modo
-    if (ultimo_metodo < CANT_MODOS - 1)
-        primer_metodo = ultimo_metodo;
+    vector<unsigned int> metodos_ejecutar;
+    if(modo == CANT_MODOS-1)
+        metodos_ejecutar = {2, 3, 4, 5, 6};
+    else if(modo == CANT_MODOS-2)
+        metodos_ejecutar = {0, 1, 2, 3, 4, 5, 6};
     else
-        ultimo_metodo--;
+        metodos_ejecutar.push_back(modo);
 
-    ResultadoProblema res[CANT_MODOS - 1];
-    for(unsigned int metodo = primer_metodo;metodo <= ultimo_metodo;metodo++){
+    vector<ResultadoProblema> res;
+    for(auto metodo : metodos_ejecutar){
         cout<<"Ejecutando metodo "<<nombres_metodos[metodo]<<endl;
+        ResultadoProblema t;
         switch (metodo){
             case 0: 
-                res[metodo] = Fuerza_Bruta(r, orig);
+                t = Fuerza_Bruta(r, orig);
                 break;
             case 1:
-                res[metodo] = MITM(orig, r);
+                t = MITM(orig, r);
                 break;
             case 2:
-                res[metodo] = Backtracking_Simple(orig, r);
+                t = Backtracking_Simple(orig, r);
                 break;
             case 3:
-                res[metodo] = Backtracking_Fact(orig, r);
+                t = Backtracking_Fact(orig, r);
                 break;
             case 4:
-                res[metodo] = Backtracking_Opt(orig, r);
+                t = Backtracking_Opt(orig, r);
                 break;
             case 5:
-                res[metodo] = Backtracking_Ambas(orig, r);
+                t = Backtracking_Ambas(orig, r);
                 break;
             case 6:
-                res[metodo] = Dinamica_TD(orig, r);
+                t = Dinamica_TD(orig, r);
                 break;
             default:
                 break;
         }
+        res.push_back(t);
     }
 
     //Comparo resultados de todos los metodos para ver si difieren
-    if (modo == CANT_MODOS-1){
+    if (modo >= CANT_MODOS-2){
         bool todos_iguales = true;
-        for(unsigned int i = 0;i < CANT_MODOS-1;i++){
-            for(unsigned int j = i + 1;j < CANT_MODOS-1;j++){
+        for(unsigned int i = 0;i < res.size();i++){
+            for(unsigned int j = i + 1;j < res.size();j++){
                 if(res[i].b != res[j].b){
                     cout<<red<<"ERROR: "
-                    <<nombres_metodos[i]<<" difiere de "<<nombres_metodos[j]<<"\n"
+                    <<nombres_metodos[res[i].metodo]<<" difiere de "<<nombres_metodos[res[j].metodo]<<"\n"
                     <<res[i].b<<" "<<res[j].b<<"\n"
                     <<reset;
                     todos_iguales = false;
@@ -187,16 +189,16 @@ int main(int argc, char** argv)
         if(!todos_iguales)
             return 1;
         else{
-            cout<<res[0].b<<"\n";
-            for(unsigned int i = 0; i < CANT_MODOS-1;i++)
-                Guardar_Resultados(output, res[i], r);
+            cout<<res.front().b<<"\n";
+            for(auto& i : res)
+                Guardar_Resultados(output, i, r);
         }
     }
     else{
         // Habilitar esto para cumplir con el enunciado
-        cout<<res[modo].b<<"\n";
+        cout<<res.front().b<<"\n";
         // Descomentar para que guarde valores de tiempo y etc
-        Guardar_Resultados(output, res[modo], r);
+        Guardar_Resultados(output, res.front(), r);
     }
     return 0;
 }
