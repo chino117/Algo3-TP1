@@ -33,14 +33,13 @@ void Solve_Backtracking_Ambas(const ConjLineal& s, const DatosProblema& dp, unsi
 
     /* cout<<"Nodo idx: "<<idx_elem<<"| Beneficio: "<<dp.ps[s[idx_elem]]<<"| Peso: "<<dp.ws[s[idx_elem]]<<endl; */
 
-    if (idx_elem < s.size()){
+    if (idx_elem+1 < s.size()){
         if(t_candidato + dp.ws[s[idx_elem]] <= dp.W){
             b_candidato += dp.ps[s[idx_elem]];
             t_candidato += dp.ws[s[idx_elem]];
             Solve_Backtracking_Ambas(s, dp, b_candidato, t_candidato,sol, idx_elem+1, nodos);
             b_candidato -= dp.ps[s[idx_elem]];
             t_candidato -= dp.ws[s[idx_elem]];
-
         }
         if (Cota_Sup_Ambas(s, dp, b_candidato, t_candidato, idx_elem+1) > sol) 
             Solve_Backtracking_Ambas(s, dp, b_candidato, t_candidato,sol, idx_elem+1, nodos);

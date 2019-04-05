@@ -14,12 +14,18 @@ void Solve_Backtracking_Fact(const ConjLineal& s, const DatosProblema& dp, unsig
 
     /* cout<<"Nodo idx: "<<idx_elem<<"| Beneficio: "<<dp.ps[s[idx_elem]]<<"| Peso: "<<dp.ws[s[idx_elem]]<<endl; */
 
-    if(idx_elem < s.size()){
+    if(idx_elem+1 < s.size()){
         // Si el elemento actual entra, lo agrego y busco las soluciones que lo contengan
+        // Ademas si el elemento del proximo idx_elem entra
+        // vemos las soluciones de ver ese idx_elem. Si no, al estar ordenado S
+        // En orden creciente por tamaño, las demas soluciones tampoco entran
+        // Por lo que los ignoramos
+
         if(t_candidato + dp.ws[s[idx_elem]] <= dp.W){
             b_candidato += dp.ps[s[idx_elem]];
             t_candidato += dp.ws[s[idx_elem]];
-            Solve_Backtracking_Fact(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
+            if(t_candidato + dp.ws[s[idx_elem+1]] <= dp.W) 
+                Solve_Backtracking_Fact(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
             b_candidato -= dp.ps[s[idx_elem]];
             t_candidato -= dp.ws[s[idx_elem]];
         }
@@ -27,7 +33,7 @@ void Solve_Backtracking_Fact(const ConjLineal& s, const DatosProblema& dp, unsig
         // Vemos las soluciones de ver ese idx_elem. Si no, al estar ordenado S
         // En orden creciente por tamaño, las demas soluciones tampoco entran
         // Por lo que los ignoramos
-        if(idx_elem+1 < s.size() && t_candidato + dp.ws[s[idx_elem+1]] <= dp.W) 
+        if(t_candidato + dp.ws[s[idx_elem+1]] <= dp.W) 
             Solve_Backtracking_Fact(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
     }
 }

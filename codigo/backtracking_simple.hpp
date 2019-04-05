@@ -13,18 +13,17 @@ void Solve_Backtracking_Simple(const ConjLineal& s, const DatosProblema& dp, uns
 
     /* cout<<"Nodo idx: "<<idx_elem<<"| Beneficio: "<<dp.ps[s[idx_elem]]<<"| Peso: "<<dp.ws[s[idx_elem]]<<endl; */
 
-    if(idx_elem < s.size()){
-        // Si el elemento actual entra, lo agrego y busco las soluciones que lo contengan
+    if(idx_elem+1 < s.size()){
+        // Si quedan posibles soluciones por ver y el elemento actual entra, 
+        // lo agrego y busco las soluciones que lo contengan
         if(t_candidato + dp.ws[s[idx_elem]] <= dp.W){
             b_candidato += dp.ps[s[idx_elem]];
             t_candidato += dp.ws[s[idx_elem]];
-            if(idx_elem+1 < s.size())
-                Solve_Backtracking_Simple(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
+            Solve_Backtracking_Simple(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
             b_candidato -= dp.ps[s[idx_elem]];
             t_candidato -= dp.ws[s[idx_elem]];
         }
-        if(idx_elem+1 < s.size()) 
-            Solve_Backtracking_Simple(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
+        Solve_Backtracking_Simple(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
     }
 }
 
