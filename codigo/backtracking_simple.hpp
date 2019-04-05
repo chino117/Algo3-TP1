@@ -3,18 +3,28 @@
 using namespace std;
 
 // Backtracking sin podas, es parecido a fuerza bruta
-void Solve_Backtracking_Simple(const ConjLineal& s, const DatosProblema& dp, ConjLineal& candidato, unsigned int& sol, unsigned int idx_elem, unsigned int& nodos){
+void Solve_Backtracking_Simple(const ConjLineal& s, const DatosProblema& dp, unsigned int b_candidato, unsigned int t_candidato, unsigned int& sol, unsigned int idx_elem, unsigned int& nodos){
     nodos++;
+    if(b_candidato + dp.ps[s[idx_elem]] > sol && t_candidato + dp.ws[s[idx_elem]] <= dp.W){
+        sol = b_candidato + dp.ps[s[idx_elem]];
+        /* cout<<"Cambio la solucion en nodo "<<idx_elem<<endl; */
+        /* cout<<"#Nodo: "<<nodos<<"| Beneficio: "<<b_candidato<<endl; */ 
+    }
 
-    unsigned int b_nodo = beneficio_conj(candidato, dp);
-    //cout<<"Nodo: "<<nodos<<"| Beneficio: "<<b_nodo<<endl; 
-    if (b_nodo > sol && tamanio_conj(candidato, dp) <= dp.W)
-        sol = b_nodo;
+    /* cout<<"Nodo idx: "<<idx_elem<<"| Beneficio: "<<dp.ps[s[idx_elem]]<<"| Peso: "<<dp.ws[s[idx_elem]]<<endl; */
 
-    for(unsigned int i = idx_elem; i < s.size();i++){
-        candidato.push_back(s[i]);
-        Solve_Backtracking_Simple(s, dp, candidato, sol, i+1, nodos);
-        candidato.pop_back();
+    if(idx_elem < s.size()){
+        // Si el elemento actual entra, lo agrego y busco las soluciones que lo contengan
+        if(t_candidato + dp.ws[s[idx_elem]] <= dp.W){
+            b_candidato += dp.ps[s[idx_elem]];
+            t_candidato += dp.ws[s[idx_elem]];
+            if(idx_elem+1 < s.size())
+                Solve_Backtracking_Simple(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
+            b_candidato -= dp.ps[s[idx_elem]];
+            t_candidato -= dp.ws[s[idx_elem]];
+        }
+        if(idx_elem+1 < s.size()) 
+            Solve_Backtracking_Simple(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
     }
 }
 
@@ -22,8 +32,7 @@ ResultadoProblema Backtracking_Simple(const ConjLineal& s, const DatosProblema& 
     ResultadoProblema res;
     auto start_time = chrono::steady_clock::now();
 
-    ConjLineal temp;
-    Solve_Backtracking_Simple(s, dp, temp, res.b, 0, res.nodos);
+    Solve_Backtracking_Simple(s, dp, 0, 0, res.b, 0, res.nodos);
 
     auto end_time = chrono::steady_clock::now();
     auto diff_time = end_time - start_time;
