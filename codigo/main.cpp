@@ -31,7 +31,19 @@ const string nombres_metodos[CANT_MODOS] = {"Fuerza Bruta",
                                             "Todos"};
 
 void Guardar_Resultados(const string& path, const ResultadoProblema& res, const DatosProblema& dp){
+    /* Vemos si el archivo ya existe */
+    fstream v(path, fstream::in);
+    bool escribir_header = !v.good();
+    v.close();
+
     fstream f(path, fstream::app | fstream::out);
+    if(!f.good()){
+        cerr<<"ERROR: No se puede abrir archivo de salida "<<path<<endl;
+        return;
+    }
+    /* Si no existe, luego de crearlo, escribimos el encabezado */
+    if(escribir_header)
+        f<<"n,W,b,Tiempo,Metodo,nodo\n";
     f<<dp.n<<","<<dp.W<<","<<res.b<<","<<res.tiempo.count()<<","<<nombres_metodos[res.metodo]<<",";
     if(res.nodos > 0)
         f<<res.nodos;

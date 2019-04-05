@@ -12,7 +12,7 @@ def elegir_dist(dist):
         f = lambda x, y: int(((random.exponential() + x) * y) % y)
     return f
 
-def crear_datos_entrada(n, W, dist):
+def crear_datos_entrada(n, W, dist="u"):
     f = elegir_dist(dist)
     m = dict()
     l = [str(n), str(W)]
