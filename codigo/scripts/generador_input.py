@@ -19,6 +19,14 @@ def crear_datos_entrada(n, W, dist="u"):
     l.extend([k for j in range(0, n) for k in (str(f(1, W)), str(f(1, 100)))])
     return " ".join(l)
 
+def crear_datos_entrada_1_sol(n, W, dist="u"):
+    f = elegir_dist(dist)
+    m = dict()
+    l = [str(n), str(W)]
+    l.extend([str(W-1), str(1000000)])
+    l.extend([k for j in range(0, n-1) for k in (str(f(W, W + 10)), str(f(W+100, W+10000)))])
+    return " ".join(l)
+
 def crear_datos_entrada_ordenados(n, W, dist, porTamanio=True, creciente=True):
     f = elegir_dist(dist)
     m = dict()
@@ -37,5 +45,5 @@ if __name__ == "__main__":
     parser.add_argument("--dist", help="Tipo de distribucion de donde generar datos (u=uniforme, e=exponencial, n=normal)", default="u")
 
     args = parser.parse_args()
-    data = crear_datos_entrada(args.n, args.w, args.dist)
+    data = crear_datos_entrada_1_sol(args.n, args.w, args.dist)
     print(data)

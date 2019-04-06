@@ -2,8 +2,6 @@
 #include "fuerza_bruta.hpp"
 #include "mitm.hpp"
 #include "backtracking_simple.hpp"
-#include "backtracking_poda_fact.hpp"
-#include "backtracking_poda_opt.hpp"
 #include "backtracking_poda_ambas.hpp"
 #include "dinamica_top_down.hpp"
 #include <iostream>
@@ -14,22 +12,20 @@
 
 using namespace std;
 
-const unsigned int CANT_MODOS = 9;
+const unsigned int CANT_MODOS = 7;
 const string red("\033[0;31m");
 const string green("\033[1;32m");
 const string yellow("\033[1;33m");
 const string cyan("\033[0;36m");
 const string magenta("\033[0;35m");
 const string reset("\033[0m");
-const string nombres_metodos[CANT_MODOS] = {"Fuerza Bruta", 
+const string nombres_metodos[CANT_MODOS] = {"Fuerza_Bruta", 
                                             "MITM", 
                                             "Backtracking_simple", 
-                                            "Backtracking_fact", 
-                                            "Backtracking_opt", 
-                                            "Backtracking_ambas", 
-                                            "Dinamica_Top_Down",
+                                            "Backtracking_podas", 
+                                            "Dinamica",
                                             "Todos",
-                                            "Todos excepto FB y MITM"};
+                                            "Solo backtracking con podas y dinamica"};
 
 void Guardar_Resultados(const string& path, const ResultadoProblema& res, const DatosProblema& dp){
     /* Vemos si el archivo ya existe */
@@ -59,7 +55,7 @@ void Mostrar_Ayuda()
     <<"Valores de Modo:\n";
     for(unsigned int i = 0; i < CANT_MODOS;i++)
         cout<<setw(18)<<i<<" = "<<nombres_metodos[i]<<".\n";
-    cout<<"Cuando ejecuta todos los metodos (metodo 7 y 8), compara los resultados e informa cuándo difieren y cuáles métodos difieren\n";
+    cout<<"Cuando ejecuta todos los metodos (metodo 5 y 6), compara los resultados e informa cuándo difieren y cuáles métodos difieren\n";
     cout<<"Archivo de salida: Debe ser un archivo de formato .csv donde se adjutaran datos del problema como n, W, Beneficio Alcanzado, Tiempo de computo, Metodo utilizado y, para los metodos de backtracking, cantidad de nodos recorridos."<<endl;
 }
 
@@ -130,12 +126,11 @@ int main(int argc, char** argv)
     for(ConjLineal::size_type i = 0;i < orig.size();i++)
         orig[i] = i;
 
-
     vector<unsigned int> metodos_ejecutar;
     if(modo == CANT_MODOS-1)
-        metodos_ejecutar = {2, 3, 4, 5, 6};
+        metodos_ejecutar = {3, 4};
     else if(modo == CANT_MODOS-2)
-        metodos_ejecutar = {0, 1, 2, 3, 4, 5, 6};
+        metodos_ejecutar = {0, 1, 2, 3, 4};
     else
         metodos_ejecutar.push_back(modo);
 
@@ -154,15 +149,9 @@ int main(int argc, char** argv)
                 t = Backtracking_Simple(orig, r);
                 break;
             case 3:
-                t = Backtracking_Fact(orig, r);
-                break;
-            case 4:
-                t = Backtracking_Opt(orig, r);
-                break;
-            case 5:
                 t = Backtracking_Ambas(orig, r);
                 break;
-            case 6:
+            case 4:
                 t = Dinamica_TD(orig, r);
                 break;
             default:

@@ -23,54 +23,16 @@ void Solve_Backtracking_Simple(const ConjLineal& s, const DatosProblema& dp, uns
             b_candidato -= dp.ps[s[idx_elem]];
             t_candidato -= dp.ws[s[idx_elem]];
         }
+        // Veo las posibles soluciones sin considerar el elemento actual como parte de la solucion
         Solve_Backtracking_Simple(s, dp, b_candidato, t_candidato, sol, idx_elem+1, nodos);
     }
 }
-
-void Solver_Backtracking_Simple2(const ConjLineal& s, const DatosProblema& dp, vector<bool> parcial, unsigned int& nodos, bool& encontre, unsigned int& sol){
-    nodos++;
-    if(parcial.size() == s.size()){
-        unsigned int b_sum = 0;
-        unsigned int t_sum = 0;
-        for(vector<bool>::size_type i = 0;i < parcial.size();i++){
-            if(parcial[i]){
-                b_sum += dp.ps[s[i]];
-                t_sum += dp.ws[s[i]];
-            }
-        }
-        if(b_sum > sol && t_sum <= dp.W){
-            encontre = true;
-            sol = b_sum;
-        }
-    }
-    
-    for(unsigned int i = 0;i < s.size();i++){
-        unsigned int b_sum = 0;
-        unsigned int t_sum = 0;
-        for(vector<bool>::size_type i = 0;i < parcial.size();i++){
-            if(parcial[i]){ 
-                b_sum += dp.ps[s[i]];
-                t_sum += dp.ws[s[i]];
-            }
-        }
-        bool sirveParcial = t_sum <= dp.W; 
-        if(sirveParcial){
-            parcial.push_back(true);
-            Solver_Backtracking_Simple2(s, dp, parcial, nodos, encontre, sol);
-            parcial.pop_back();
-        }
-    }
-}
-
 
 ResultadoProblema Backtracking_Simple(const ConjLineal& s, const DatosProblema& dp){
     ResultadoProblema res;
     auto start_time = chrono::steady_clock::now();
 
     Solve_Backtracking_Simple(s, dp, 0, 0, res.b, 0, res.nodos);
-    /* vector<bool> parcial; */
-    /* bool encontre; */
-    /* Solver_Backtracking_Simple2(s, dp, parcial, res.nodos, encontre, res.b); */
 
     auto end_time = chrono::steady_clock::now();
     auto diff_time = end_time - start_time;

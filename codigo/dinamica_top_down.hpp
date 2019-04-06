@@ -31,7 +31,7 @@ ResultadoProblema Dinamica_TD(const ConjLineal& s, const DatosProblema& dp){
     auto end_time = chrono::steady_clock::now();
     auto diff_time = end_time - start_time;
 
-    res.metodo = 6;
+    res.metodo = 4;
     res.tiempo = chrono::duration <double, std::milli> (diff_time);
 
     return res;
