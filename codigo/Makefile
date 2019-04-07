@@ -1,10 +1,14 @@
 .PHONY: all clean debug
 
-all: main.cpp
-	g++ -std=c++11 -Wall -O2 -o main $^
+src = $(wildcard src/*.cpp)
+obj = $(src:.cpp=.o)
+CCX = g++
+FLAGS = -std=c++11 -Wall -O2
+DEBUG_FLAGS = -std=c++11 -Wall -g -Og
 
-debug: main.cpp
-	g++ -std=c++11 -Wall -g -Og -o main $^
-
+all: $(obj)
+	$(CCX) $(FLAGS) -o main $^
+debug: $(obj)
+	$(CCX) $(DEBUG_FLAGS) -o main $^
 clean:
-	rm -f main *.o
+	rm -f $(obj) main
