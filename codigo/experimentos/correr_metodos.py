@@ -33,11 +33,17 @@ def correr_back_y_dinamica():
     print("Fin experimentos")
 
 def correr_exp_especial_back():
-    print("Corriendo experimentos de input especial de back y dinamica")
-    correr_metodos(3, len(metodos), paths["casos_especiales"])
+    print("Corriendo experimentos de input especial de back")
+    correr_metodos(3, 4, os.path.join(paths["casos_especiales"], "backtracking"))
+    print("Fin experimentos")
+
+def correr_exp_especial_dinamica():
+    print("Corriendo experimentos de input especial de dinamica")
+    correr_metodos(4, 5, os.path.join(paths["casos_especiales"], "dinamica"))
     print("Fin experimentos")
 
 if __name__=="__main__":
     correr_todos_metodos()
     correr_back_y_dinamica()
     correr_exp_especial_back()
+    correr_exp_especial_dinamica()
