@@ -1,4 +1,4 @@
-n,W,b,Tiempo,Metodo,Nodos
+n,W,b,Tiempo,Metodo,nodos
 2,100,80,0.003348,Backtracking_simple,4
 3,100,17,0.003967,Backtracking_simple,8
 4,100,164,0.004681,Backtracking_simple,16

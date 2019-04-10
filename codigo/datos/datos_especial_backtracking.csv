@@ -1,0 +1,4 @@
+n,W,b,Tiempo,Metodo,nodos
+50,30,9691,0.03785,Backtracking_podas,1
+5000,30,1000000,44.414,Backtracking_podas,5000
+5000,30,10028,43.9921,Backtracking_podas,1

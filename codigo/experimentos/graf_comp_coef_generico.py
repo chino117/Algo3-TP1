@@ -5,7 +5,8 @@ import seaborn as sns
 import argparse
 
 def graficar_exp(mediciones):
-    coef = "r = %.5f" % mediciones.drop(columns=["W", "b"]).corr()["cota"][0]
+    mediciones = mediciones.drop(columns=["n", "W", "b"])
+    coef = "r = %.5f" % mediciones.corr()["cota"][0]
     ax1 = sns.lmplot(x="Tiempo", y="cota", data=mediciones)
     ax1.fig.text(0.5, 0.85, coef, horizontalalignment="left", size="medium", color="black")
     plt.ylabel("Cota")
