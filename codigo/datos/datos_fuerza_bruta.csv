@@ -1,2614 +1,2614 @@
 n,W,b,Tiempo,Metodo,nodos
-2,100,75,0.00794,Fuerza Bruta
-2,100,75,0.005085,Fuerza Bruta
-3,100,93,0.008348,Fuerza Bruta
-4,100,191,0.009075,Fuerza Bruta
-5,100,205,0.013224,Fuerza Bruta
-6,100,242,0.017535,Fuerza Bruta
-7,100,90,0.026026,Fuerza Bruta
-8,100,261,0.046978,Fuerza Bruta
-9,100,361,0.087044,Fuerza Bruta
-10,100,444,0.166432,Fuerza Bruta
-11,100,269,0.347818,Fuerza Bruta
-12,100,262,0.671733,Fuerza Bruta
-13,100,271,1.33854,Fuerza Bruta
-14,100,292,2.78189,Fuerza Bruta
-15,100,283,5.55294,Fuerza Bruta
-16,100,171,11.9476,Fuerza Bruta
-17,100,207,22.2473,Fuerza Bruta
-18,100,328,44.9043,Fuerza Bruta
-19,100,162,91.1482,Fuerza Bruta
-20,100,456,183.43,Fuerza Bruta
-21,100,329,373.734,Fuerza Bruta
-22,100,576,744.846,Fuerza Bruta
-23,100,316,1530.4,Fuerza Bruta
-24,100,274,3099.07,Fuerza Bruta
-25,100,299,6228.96,Fuerza Bruta
-26,100,251,12579,Fuerza Bruta
-27,100,427,25520.7,Fuerza Bruta
-28,100,452,56526.3,Fuerza Bruta
-29,100,343,127230,Fuerza Bruta
-30,100,538,273907,Fuerza Bruta
-31,100,496,519753,Fuerza Bruta
-32,100,535,1.04772e+06,Fuerza Bruta
-33,100,388,1.77627e+06,Fuerza Bruta
-34,100,449,3.56024e+06,Fuerza Bruta
-35,100,513,7.24258e+06,Fuerza Bruta
-36,100,556,1.44406e+07,Fuerza Bruta
-2,2,138,0.022512,Fuerza Bruta
-3,2,81,0.020671,Fuerza Bruta
-4,2,113,0.019483,Fuerza Bruta
-5,2,155,0.022263,Fuerza Bruta
-6,2,175,0.031723,Fuerza Bruta
-7,2,158,0.06821,Fuerza Bruta
-8,2,176,0.098352,Fuerza Bruta
-9,2,165,0.184714,Fuerza Bruta
-10,2,185,0.447293,Fuerza Bruta
-11,2,174,0.650893,Fuerza Bruta
-12,2,184,1.32697,Fuerza Bruta
-13,2,191,2.80581,Fuerza Bruta
-14,2,164,6.20331,Fuerza Bruta
-15,2,178,12.6265,Fuerza Bruta
-16,2,180,25.3446,Fuerza Bruta
-17,2,170,44.0314,Fuerza Bruta
-18,2,173,86.0188,Fuerza Bruta
-19,2,191,173.7,Fuerza Bruta
-20,2,183,347.077,Fuerza Bruta
-21,2,183,715.635,Fuerza Bruta
-22,2,190,1465.14,Fuerza Bruta
-23,2,185,2986.2,Fuerza Bruta
-24,2,192,6115.36,Fuerza Bruta
-25,2,169,12447.1,Fuerza Bruta
-26,2,186,25374.2,Fuerza Bruta
-1,3,97,0.00776,Fuerza Bruta
-2,3,105,0.010789,Fuerza Bruta
-3,3,65,0.01992,Fuerza Bruta
-4,3,156,0.020432,Fuerza Bruta
-5,3,105,0.049269,Fuerza Bruta
-6,3,255,0.032525,Fuerza Bruta
-7,3,189,0.058294,Fuerza Bruta
-8,3,175,0.122254,Fuerza Bruta
-9,3,264,0.21344,Fuerza Bruta
-10,3,166,0.406475,Fuerza Bruta
-11,3,230,0.974119,Fuerza Bruta
-12,3,134,1.46954,Fuerza Bruta
-13,3,161,2.55417,Fuerza Bruta
-14,3,235,4.98717,Fuerza Bruta
-15,3,201,12.7573,Fuerza Bruta
-16,3,262,25.2033,Fuerza Bruta
-17,3,206,45.9549,Fuerza Bruta
-18,3,195,86.8314,Fuerza Bruta
-19,3,243,172.753,Fuerza Bruta
-20,3,240,345.169,Fuerza Bruta
-21,3,187,712.512,Fuerza Bruta
-22,3,253,1456.2,Fuerza Bruta
-23,3,213,2983.27,Fuerza Bruta
-24,3,243,6107.85,Fuerza Bruta
-25,3,262,12463.7,Fuerza Bruta
-26,3,262,25296.6,Fuerza Bruta
-1,4,51,0.005932,Fuerza Bruta
-2,4,63,0.015057,Fuerza Bruta
-3,4,226,0.016643,Fuerza Bruta
-4,4,237,0.021522,Fuerza Bruta
-5,4,242,0.038338,Fuerza Bruta
-6,4,302,0.038712,Fuerza Bruta
-7,4,148,0.074758,Fuerza Bruta
-8,4,107,0.084437,Fuerza Bruta
-9,4,137,0.147599,Fuerza Bruta
-10,4,170,0.372818,Fuerza Bruta
-11,4,275,0.703128,Fuerza Bruta
-12,4,268,1.39757,Fuerza Bruta
-13,4,243,3.09267,Fuerza Bruta
-14,4,237,6.53648,Fuerza Bruta
-15,4,326,13.1853,Fuerza Bruta
-16,4,240,20.3917,Fuerza Bruta
-17,4,257,43.9197,Fuerza Bruta
-18,4,277,88.471,Fuerza Bruta
-19,4,313,171.453,Fuerza Bruta
-20,4,286,345.711,Fuerza Bruta
-21,4,265,711.115,Fuerza Bruta
-22,4,301,1451.5,Fuerza Bruta
-23,4,209,2979.03,Fuerza Bruta
-24,4,298,6113.55,Fuerza Bruta
-25,4,355,12412.5,Fuerza Bruta
-26,4,271,25288.5,Fuerza Bruta
-1,5,34,0.006072,Fuerza Bruta
-2,5,65,0.012192,Fuerza Bruta
-3,5,131,0.04191,Fuerza Bruta
-4,5,167,0.060617,Fuerza Bruta
-5,5,132,0.031839,Fuerza Bruta
-6,5,210,0.041457,Fuerza Bruta
-7,5,170,0.05518,Fuerza Bruta
-8,5,119,0.137584,Fuerza Bruta
-9,5,140,0.185723,Fuerza Bruta
-10,5,306,0.311285,Fuerza Bruta
-11,5,181,0.77879,Fuerza Bruta
-12,5,199,1.50787,Fuerza Bruta
-13,5,223,3.01092,Fuerza Bruta
-14,5,378,5.61606,Fuerza Bruta
-15,5,178,15.8455,Fuerza Bruta
-16,5,311,25.135,Fuerza Bruta
-17,5,231,46.2753,Fuerza Bruta
-18,5,358,86.5812,Fuerza Bruta
-19,5,286,173.239,Fuerza Bruta
-20,5,292,350.704,Fuerza Bruta
-21,5,378,703.861,Fuerza Bruta
-22,5,370,1461.86,Fuerza Bruta
-23,5,397,2948.2,Fuerza Bruta
-24,5,375,6066.01,Fuerza Bruta
-25,5,333,12482.8,Fuerza Bruta
-26,5,335,25267.1,Fuerza Bruta
-1,6,12,0.008169,Fuerza Bruta
-2,6,87,0.029473,Fuerza Bruta
-3,6,157,0.042515,Fuerza Bruta
-4,6,286,0.034202,Fuerza Bruta
-5,6,138,0.052487,Fuerza Bruta
-6,6,142,0.045101,Fuerza Bruta
-7,6,173,0.053371,Fuerza Bruta
-8,6,153,0.085864,Fuerza Bruta
-9,6,188,0.228386,Fuerza Bruta
-10,6,166,0.336619,Fuerza Bruta
-11,6,233,0.68232,Fuerza Bruta
-12,6,207,1.30068,Fuerza Bruta
-13,6,320,3.32301,Fuerza Bruta
-14,6,202,5.67082,Fuerza Bruta
-15,6,254,11.3544,Fuerza Bruta
-16,6,279,23.8513,Fuerza Bruta
-17,6,316,40.4992,Fuerza Bruta
-18,6,380,82.1314,Fuerza Bruta
-19,6,304,171.635,Fuerza Bruta
-20,6,422,345.964,Fuerza Bruta
-21,6,291,710.225,Fuerza Bruta
-22,6,342,1448.24,Fuerza Bruta
-23,6,221,2977.72,Fuerza Bruta
-24,6,402,6091.36,Fuerza Bruta
-25,6,333,12430.9,Fuerza Bruta
-26,6,344,25259,Fuerza Bruta
-1,7,23,0.007157,Fuerza Bruta
-2,7,136,0.020322,Fuerza Bruta
-3,7,125,0.024079,Fuerza Bruta
-4,7,103,0.022182,Fuerza Bruta
-5,7,146,0.029819,Fuerza Bruta
-6,7,114,0.03159,Fuerza Bruta
-7,7,132,0.087638,Fuerza Bruta
-8,7,160,0.100503,Fuerza Bruta
-9,7,165,0.206028,Fuerza Bruta
-10,7,234,0.355388,Fuerza Bruta
-11,7,316,0.723242,Fuerza Bruta
-12,7,234,1.23061,Fuerza Bruta
-13,7,181,2.50005,Fuerza Bruta
-14,7,175,5.86374,Fuerza Bruta
-15,7,201,12.3067,Fuerza Bruta
-16,7,160,23.8789,Fuerza Bruta
-17,7,324,45.8402,Fuerza Bruta
-18,7,328,88.569,Fuerza Bruta
-19,7,301,170.755,Fuerza Bruta
-20,7,208,344.001,Fuerza Bruta
-21,7,387,701.456,Fuerza Bruta
-22,7,277,1447.79,Fuerza Bruta
-23,7,364,2960.46,Fuerza Bruta
-24,7,438,6090.15,Fuerza Bruta
-25,7,387,12445.8,Fuerza Bruta
-26,7,377,25234.4,Fuerza Bruta
-1,8,84,0.007871,Fuerza Bruta
-2,8,90,0.01073,Fuerza Bruta
-3,8,123,0.03869,Fuerza Bruta
-4,8,86,0.022122,Fuerza Bruta
-5,8,238,0.027636,Fuerza Bruta
-6,8,107,0.030708,Fuerza Bruta
-7,8,159,0.058639,Fuerza Bruta
-8,8,291,0.08872,Fuerza Bruta
-9,8,186,0.209454,Fuerza Bruta
-10,8,229,0.468165,Fuerza Bruta
-11,8,206,0.827267,Fuerza Bruta
-12,8,176,1.71585,Fuerza Bruta
-13,8,166,2.56474,Fuerza Bruta
-14,8,348,5.85991,Fuerza Bruta
-15,8,292,14.5266,Fuerza Bruta
-16,8,268,20.9127,Fuerza Bruta
-17,8,313,45.7853,Fuerza Bruta
-18,8,250,88.2018,Fuerza Bruta
-19,8,375,170.575,Fuerza Bruta
-20,8,426,342.789,Fuerza Bruta
-21,8,372,704,Fuerza Bruta
-22,8,210,1478.61,Fuerza Bruta
-23,8,323,3006.63,Fuerza Bruta
-24,8,247,6111.32,Fuerza Bruta
-25,8,330,12436.4,Fuerza Bruta
-26,8,277,25273.7,Fuerza Bruta
-1,9,63,0.006503,Fuerza Bruta
-2,9,81,0.016791,Fuerza Bruta
-3,9,48,0.03772,Fuerza Bruta
-4,9,139,0.025653,Fuerza Bruta
-5,9,110,0.01895,Fuerza Bruta
-6,9,160,0.030165,Fuerza Bruta
-7,9,106,0.063046,Fuerza Bruta
-8,9,295,0.108218,Fuerza Bruta
-9,9,272,0.265205,Fuerza Bruta
-10,9,237,0.297285,Fuerza Bruta
-11,9,181,0.802665,Fuerza Bruta
-12,9,379,1.48372,Fuerza Bruta
-13,9,239,3.1926,Fuerza Bruta
-14,9,348,5.80304,Fuerza Bruta
-15,9,224,12.6579,Fuerza Bruta
-16,9,201,25.0105,Fuerza Bruta
-17,9,278,46.0558,Fuerza Bruta
-18,9,344,85.7607,Fuerza Bruta
-19,9,186,175.965,Fuerza Bruta
-20,9,311,343.179,Fuerza Bruta
-21,9,253,709.997,Fuerza Bruta
-22,9,338,1448.41,Fuerza Bruta
-23,9,342,2953.16,Fuerza Bruta
-24,9,300,6097.49,Fuerza Bruta
-25,9,344,12341.2,Fuerza Bruta
-26,9,313,25305.3,Fuerza Bruta
-1,10,69,0.01876,Fuerza Bruta
-2,10,62,0.009143,Fuerza Bruta
-3,10,86,0.018014,Fuerza Bruta
-4,10,136,0.018556,Fuerza Bruta
-5,10,273,0.025623,Fuerza Bruta
-6,10,149,0.035546,Fuerza Bruta
-7,10,117,0.06491,Fuerza Bruta
-8,10,193,0.095631,Fuerza Bruta
-9,10,334,0.185687,Fuerza Bruta
-10,10,193,0.352312,Fuerza Bruta
-11,10,335,0.867186,Fuerza Bruta
-12,10,180,1.41354,Fuerza Bruta
-13,10,349,3.08608,Fuerza Bruta
-14,10,239,5.25527,Fuerza Bruta
-15,10,225,10.2182,Fuerza Bruta
-16,10,451,25.8466,Fuerza Bruta
-17,10,406,41.0115,Fuerza Bruta
-18,10,328,86.2549,Fuerza Bruta
-19,10,323,173.634,Fuerza Bruta
-20,10,226,349.388,Fuerza Bruta
-21,10,361,711.495,Fuerza Bruta
-22,10,382,1453.19,Fuerza Bruta
-23,10,398,2946.82,Fuerza Bruta
-24,10,373,6106.33,Fuerza Bruta
-25,10,459,12378.6,Fuerza Bruta
-26,10,267,25301.9,Fuerza Bruta
-1,11,25,0.006859,Fuerza Bruta
-2,11,95,0.017314,Fuerza Bruta
-3,11,30,0.024766,Fuerza Bruta
-4,11,101,0.026944,Fuerza Bruta
-5,11,192,0.023985,Fuerza Bruta
-6,11,189,0.038381,Fuerza Bruta
-7,11,272,0.048057,Fuerza Bruta
-8,11,234,0.116665,Fuerza Bruta
-9,11,179,0.260709,Fuerza Bruta
-10,11,225,0.365228,Fuerza Bruta
-11,11,141,0.747112,Fuerza Bruta
-12,11,176,1.8747,Fuerza Bruta
-13,11,288,2.90638,Fuerza Bruta
-14,11,279,6.42596,Fuerza Bruta
-15,11,246,14.0226,Fuerza Bruta
-16,11,284,23.9047,Fuerza Bruta
-17,11,462,45.369,Fuerza Bruta
-18,11,170,86.7694,Fuerza Bruta
-19,11,208,173.278,Fuerza Bruta
-20,11,420,342.395,Fuerza Bruta
-21,11,250,710.895,Fuerza Bruta
-22,11,414,1441.16,Fuerza Bruta
-23,11,285,2981.5,Fuerza Bruta
-24,11,330,6121.79,Fuerza Bruta
-25,11,405,12380.5,Fuerza Bruta
-26,11,323,25217.8,Fuerza Bruta
-1,12,20,0.007197,Fuerza Bruta
-2,12,89,0.01312,Fuerza Bruta
-3,12,78,0.032631,Fuerza Bruta
-4,12,156,0.023893,Fuerza Bruta
-5,12,210,0.021513,Fuerza Bruta
-6,12,135,0.032502,Fuerza Bruta
-7,12,108,0.099848,Fuerza Bruta
-8,12,247,0.088986,Fuerza Bruta
-9,12,193,0.160045,Fuerza Bruta
-10,12,209,0.396412,Fuerza Bruta
-11,12,261,0.769215,Fuerza Bruta
-12,12,224,1.55644,Fuerza Bruta
-13,12,309,2.96454,Fuerza Bruta
-14,12,212,5.49341,Fuerza Bruta
-15,12,205,13.947,Fuerza Bruta
-16,12,183,22.8099,Fuerza Bruta
-17,12,348,46.1139,Fuerza Bruta
-18,12,393,87.9681,Fuerza Bruta
-19,12,373,170.2,Fuerza Bruta
-20,12,282,345.372,Fuerza Bruta
-21,12,355,713.257,Fuerza Bruta
-22,12,302,1450,Fuerza Bruta
-23,12,323,2978.48,Fuerza Bruta
-24,12,291,6170.9,Fuerza Bruta
-25,12,310,12403.4,Fuerza Bruta
-26,12,465,25168.6,Fuerza Bruta
-1,13,59,0.006039,Fuerza Bruta
-2,13,60,0.011629,Fuerza Bruta
-3,13,131,0.025415,Fuerza Bruta
-4,13,136,0.036222,Fuerza Bruta
-5,13,360,0.021295,Fuerza Bruta
-6,13,267,0.034007,Fuerza Bruta
-7,13,154,0.076895,Fuerza Bruta
-8,13,197,0.134842,Fuerza Bruta
-9,13,159,0.181722,Fuerza Bruta
-10,13,178,0.344622,Fuerza Bruta
-11,13,229,0.661211,Fuerza Bruta
-12,13,198,1.18062,Fuerza Bruta
-13,13,258,3.0215,Fuerza Bruta
-14,13,168,5.97025,Fuerza Bruta
-15,13,344,13.804,Fuerza Bruta
-16,13,235,22.0768,Fuerza Bruta
-17,13,256,46.9315,Fuerza Bruta
-18,13,309,88.6665,Fuerza Bruta
-19,13,175,173.805,Fuerza Bruta
-20,13,406,344.952,Fuerza Bruta
-21,13,377,702.42,Fuerza Bruta
-22,13,338,1442.34,Fuerza Bruta
-23,13,339,2976.22,Fuerza Bruta
-24,13,269,6111.36,Fuerza Bruta
-25,13,315,12414.3,Fuerza Bruta
-26,13,289,25384,Fuerza Bruta
-1,14,82,0.007671,Fuerza Bruta
-2,14,82,0.012352,Fuerza Bruta
-3,14,126,0.027691,Fuerza Bruta
-4,14,240,0.035627,Fuerza Bruta
-5,14,173,0.038578,Fuerza Bruta
-6,14,167,0.030862,Fuerza Bruta
-7,14,302,0.079336,Fuerza Bruta
-8,14,133,0.136115,Fuerza Bruta
-9,14,123,0.183725,Fuerza Bruta
-10,14,220,0.330867,Fuerza Bruta
-11,14,341,0.741928,Fuerza Bruta
-12,14,375,2.17108,Fuerza Bruta
-13,14,368,3.12982,Fuerza Bruta
-14,14,229,7.28364,Fuerza Bruta
-15,14,325,13.3085,Fuerza Bruta
-16,14,301,25.3117,Fuerza Bruta
-17,14,255,43.0294,Fuerza Bruta
-18,14,144,86.209,Fuerza Bruta
-19,14,214,172.704,Fuerza Bruta
-20,14,436,341.377,Fuerza Bruta
-21,14,251,702.262,Fuerza Bruta
-22,14,282,1452.16,Fuerza Bruta
-23,14,354,2978.3,Fuerza Bruta
-24,14,328,6091.2,Fuerza Bruta
-25,14,444,12398.6,Fuerza Bruta
-26,14,511,24884.1,Fuerza Bruta
-1,15,39,0.007461,Fuerza Bruta
-2,15,49,0.021443,Fuerza Bruta
-3,15,125,0.023352,Fuerza Bruta
-4,15,152,0.02498,Fuerza Bruta
-5,15,165,0.029088,Fuerza Bruta
-6,15,113,0.032183,Fuerza Bruta
-7,15,160,0.076819,Fuerza Bruta
-8,15,221,0.083534,Fuerza Bruta
-9,15,260,0.163018,Fuerza Bruta
-10,15,195,0.344595,Fuerza Bruta
-11,15,266,0.813852,Fuerza Bruta
-12,15,259,1.74698,Fuerza Bruta
-13,15,310,4.15536,Fuerza Bruta
-14,15,253,6.26307,Fuerza Bruta
-15,15,211,16.0054,Fuerza Bruta
-16,15,363,23.7575,Fuerza Bruta
-17,15,296,44.5995,Fuerza Bruta
-18,15,248,85.963,Fuerza Bruta
-19,15,450,171.403,Fuerza Bruta
-20,15,227,344.828,Fuerza Bruta
-21,15,417,698.308,Fuerza Bruta
-22,15,344,1446.87,Fuerza Bruta
-23,15,248,2994.33,Fuerza Bruta
-24,15,211,6107.67,Fuerza Bruta
-25,15,305,12396.6,Fuerza Bruta
-26,15,404,25219.9,Fuerza Bruta
-1,16,60,0.006687,Fuerza Bruta
-2,16,49,0.021674,Fuerza Bruta
-3,16,57,0.024019,Fuerza Bruta
-4,16,120,0.02766,Fuerza Bruta
-5,16,172,0.05414,Fuerza Bruta
-6,16,161,0.048435,Fuerza Bruta
-7,16,174,0.082549,Fuerza Bruta
-8,16,260,0.083007,Fuerza Bruta
-9,16,142,0.191107,Fuerza Bruta
-10,16,55,0.305324,Fuerza Bruta
-11,16,221,0.761307,Fuerza Bruta
-12,16,260,1.73238,Fuerza Bruta
-13,16,192,3.67323,Fuerza Bruta
-14,16,358,7.28104,Fuerza Bruta
-15,16,307,10.4077,Fuerza Bruta
-16,16,365,25.5485,Fuerza Bruta
-17,16,294,44.8436,Fuerza Bruta
-18,16,441,86.0258,Fuerza Bruta
-19,16,294,170.838,Fuerza Bruta
-20,16,226,349.534,Fuerza Bruta
-21,16,191,713.85,Fuerza Bruta
-22,16,368,1443.83,Fuerza Bruta
-23,16,309,2978.07,Fuerza Bruta
-24,16,473,6032.19,Fuerza Bruta
-25,16,369,12413.4,Fuerza Bruta
-26,16,282,25317.8,Fuerza Bruta
-1,17,85,0.005847,Fuerza Bruta
-2,17,57,0.012225,Fuerza Bruta
-3,17,62,0.018009,Fuerza Bruta
-4,17,64,0.020954,Fuerza Bruta
-5,17,158,0.021517,Fuerza Bruta
-6,17,170,0.028948,Fuerza Bruta
-7,17,217,0.048885,Fuerza Bruta
-8,17,194,0.116626,Fuerza Bruta
-9,17,200,0.208269,Fuerza Bruta
-10,17,232,0.368952,Fuerza Bruta
-11,17,246,0.756368,Fuerza Bruta
-12,17,168,1.4513,Fuerza Bruta
-13,17,228,2.57674,Fuerza Bruta
-14,17,235,4.96032,Fuerza Bruta
-15,17,273,12.2048,Fuerza Bruta
-16,17,330,22.8625,Fuerza Bruta
-17,17,321,45.3283,Fuerza Bruta
-18,17,285,86.3016,Fuerza Bruta
-19,17,374,171.299,Fuerza Bruta
-20,17,287,348.365,Fuerza Bruta
-21,17,613,695.602,Fuerza Bruta
-22,17,364,1445.73,Fuerza Bruta
-23,17,449,2948.72,Fuerza Bruta
-24,17,264,6065.74,Fuerza Bruta
-25,17,278,12419.2,Fuerza Bruta
-26,17,393,25244.6,Fuerza Bruta
-1,18,78,0.010489,Fuerza Bruta
-2,18,75,0.014905,Fuerza Bruta
-3,18,26,0.017104,Fuerza Bruta
-4,18,95,0.018321,Fuerza Bruta
-5,18,164,0.038485,Fuerza Bruta
-6,18,110,0.066611,Fuerza Bruta
-7,18,234,0.070647,Fuerza Bruta
-8,18,235,0.085157,Fuerza Bruta
-9,18,251,0.176024,Fuerza Bruta
-10,18,167,0.435631,Fuerza Bruta
-11,18,195,0.756804,Fuerza Bruta
-12,18,306,1.57976,Fuerza Bruta
-13,18,299,2.84505,Fuerza Bruta
-14,18,284,5.83451,Fuerza Bruta
-15,18,231,14.1996,Fuerza Bruta
-16,18,268,23.4038,Fuerza Bruta
-17,18,229,41.4309,Fuerza Bruta
-18,18,278,87.9738,Fuerza Bruta
-19,18,386,172.055,Fuerza Bruta
-20,18,320,343.189,Fuerza Bruta
-21,18,436,698.974,Fuerza Bruta
-22,18,348,1447.37,Fuerza Bruta
-23,18,292,2996.62,Fuerza Bruta
-24,18,474,5991.81,Fuerza Bruta
-25,18,248,12455.7,Fuerza Bruta
-26,18,401,25142.1,Fuerza Bruta
-1,19,7,0.007609,Fuerza Bruta
-2,19,126,0.011709,Fuerza Bruta
-3,19,97,0.017252,Fuerza Bruta
-4,19,118,0.036262,Fuerza Bruta
-5,19,265,0.031463,Fuerza Bruta
-6,19,234,0.050163,Fuerza Bruta
-7,19,83,0.049173,Fuerza Bruta
-8,19,186,0.085874,Fuerza Bruta
-9,19,180,0.181587,Fuerza Bruta
-10,19,247,0.293172,Fuerza Bruta
-11,19,183,0.95237,Fuerza Bruta
-12,19,300,1.56745,Fuerza Bruta
-13,19,180,2.84169,Fuerza Bruta
-14,19,192,4.9372,Fuerza Bruta
-15,19,240,12.8012,Fuerza Bruta
-16,19,255,23.976,Fuerza Bruta
-17,19,211,46.4511,Fuerza Bruta
-18,19,340,100.908,Fuerza Bruta
-19,19,417,168.521,Fuerza Bruta
-20,19,297,348.537,Fuerza Bruta
-21,19,282,711.145,Fuerza Bruta
-22,19,430,1426.83,Fuerza Bruta
-23,19,418,2972.33,Fuerza Bruta
-24,19,390,6077.82,Fuerza Bruta
-25,19,431,12358.8,Fuerza Bruta
-26,19,447,25162.8,Fuerza Bruta
-1,20,87,0.009856,Fuerza Bruta
-2,20,122,0.011576,Fuerza Bruta
-3,20,115,0.023347,Fuerza Bruta
-4,20,123,0.039204,Fuerza Bruta
-5,20,167,0.029039,Fuerza Bruta
-6,20,149,0.045021,Fuerza Bruta
-7,20,158,0.069519,Fuerza Bruta
-8,20,246,0.128028,Fuerza Bruta
-9,20,309,0.163206,Fuerza Bruta
-10,20,173,0.471447,Fuerza Bruta
-11,20,177,0.920938,Fuerza Bruta
-12,20,397,1.56687,Fuerza Bruta
-13,20,300,2.92286,Fuerza Bruta
-14,20,269,6.61486,Fuerza Bruta
-15,20,319,14.8378,Fuerza Bruta
-16,20,323,21.475,Fuerza Bruta
-17,20,335,45.3623,Fuerza Bruta
-18,20,284,83.5954,Fuerza Bruta
-19,20,326,170.191,Fuerza Bruta
-20,20,299,347.398,Fuerza Bruta
-21,20,425,701.833,Fuerza Bruta
-22,20,427,1443.81,Fuerza Bruta
-23,20,435,2932.65,Fuerza Bruta
-24,20,345,6118.37,Fuerza Bruta
-25,20,422,12376.5,Fuerza Bruta
-26,20,564,24745.4,Fuerza Bruta
-1,21,66,0.011136,Fuerza Bruta
-2,21,80,0.011688,Fuerza Bruta
-3,21,169,0.020698,Fuerza Bruta
-4,21,244,0.026771,Fuerza Bruta
-5,21,91,0.019431,Fuerza Bruta
-6,21,185,0.035231,Fuerza Bruta
-7,21,130,0.055376,Fuerza Bruta
-8,21,125,0.081632,Fuerza Bruta
-9,21,157,0.189536,Fuerza Bruta
-10,21,156,0.424775,Fuerza Bruta
-11,21,197,0.829955,Fuerza Bruta
-12,21,192,1.47446,Fuerza Bruta
-13,21,302,3.02466,Fuerza Bruta
-14,21,334,5.06899,Fuerza Bruta
-15,21,207,10.0827,Fuerza Bruta
-16,21,144,24.5007,Fuerza Bruta
-17,21,347,45.385,Fuerza Bruta
-18,21,198,87.7538,Fuerza Bruta
-19,21,477,169.27,Fuerza Bruta
-20,21,254,347.137,Fuerza Bruta
-21,21,423,699.636,Fuerza Bruta
-22,21,428,1431.05,Fuerza Bruta
-23,21,338,2953.02,Fuerza Bruta
-24,21,297,6055.84,Fuerza Bruta
-25,21,410,12300.8,Fuerza Bruta
-26,21,211,25259.5,Fuerza Bruta
-1,22,28,0.007377,Fuerza Bruta
-2,22,150,0.008609,Fuerza Bruta
-3,22,63,0.030465,Fuerza Bruta
-4,22,92,0.019252,Fuerza Bruta
-5,22,148,0.019326,Fuerza Bruta
-6,22,139,0.035985,Fuerza Bruta
-7,22,175,0.058238,Fuerza Bruta
-8,22,328,0.096272,Fuerza Bruta
-9,22,189,0.179049,Fuerza Bruta
-10,22,247,0.348958,Fuerza Bruta
-11,22,297,0.647525,Fuerza Bruta
-12,22,194,1.80116,Fuerza Bruta
-13,22,269,3.54341,Fuerza Bruta
-14,22,245,5.71424,Fuerza Bruta
-15,22,380,10.59,Fuerza Bruta
-16,22,362,21.6788,Fuerza Bruta
-17,22,285,40.7737,Fuerza Bruta
-18,22,225,86.8009,Fuerza Bruta
-19,22,281,170.683,Fuerza Bruta
-20,22,307,348.211,Fuerza Bruta
-21,22,383,698.213,Fuerza Bruta
-22,22,299,1458.85,Fuerza Bruta
-23,22,380,2974.57,Fuerza Bruta
-24,22,311,6083.21,Fuerza Bruta
-25,22,496,12293.3,Fuerza Bruta
-26,22,419,24945.7,Fuerza Bruta
-1,23,45,0.006885,Fuerza Bruta
-2,23,38,0.014008,Fuerza Bruta
-3,23,198,0.022997,Fuerza Bruta
-4,23,80,0.019381,Fuerza Bruta
-5,23,91,0.022666,Fuerza Bruta
-6,23,172,0.040383,Fuerza Bruta
-7,23,296,0.065414,Fuerza Bruta
-8,23,188,0.109334,Fuerza Bruta
-9,23,97,0.167379,Fuerza Bruta
-10,23,170,0.308484,Fuerza Bruta
-11,23,220,0.738609,Fuerza Bruta
-12,23,255,1.53296,Fuerza Bruta
-13,23,265,2.6348,Fuerza Bruta
-14,23,359,6.54492,Fuerza Bruta
-15,23,274,11.0474,Fuerza Bruta
-16,23,348,25.0191,Fuerza Bruta
-17,23,445,45.9595,Fuerza Bruta
-18,23,328,81.9885,Fuerza Bruta
-19,23,481,170.393,Fuerza Bruta
-20,23,334,348.686,Fuerza Bruta
-21,23,391,713.626,Fuerza Bruta
-22,23,553,1429.65,Fuerza Bruta
-23,23,358,2976.04,Fuerza Bruta
-24,23,252,6103.56,Fuerza Bruta
-25,23,479,12312,Fuerza Bruta
-26,23,309,25275.6,Fuerza Bruta
-1,24,51,0.005569,Fuerza Bruta
-2,24,61,0.008626,Fuerza Bruta
-3,24,134,0.018387,Fuerza Bruta
-4,24,164,0.023085,Fuerza Bruta
-5,24,180,0.045795,Fuerza Bruta
-6,24,260,0.051524,Fuerza Bruta
-7,24,242,0.060026,Fuerza Bruta
-8,24,211,0.104432,Fuerza Bruta
-9,24,246,0.182872,Fuerza Bruta
-10,24,322,0.378791,Fuerza Bruta
-11,24,132,0.832953,Fuerza Bruta
-12,24,262,1.62027,Fuerza Bruta
-13,24,253,2.93846,Fuerza Bruta
-14,24,183,5.1995,Fuerza Bruta
-15,24,224,13.3453,Fuerza Bruta
-16,24,363,20.9648,Fuerza Bruta
-17,24,268,46.2823,Fuerza Bruta
-18,24,226,83.0116,Fuerza Bruta
-19,24,314,172.595,Fuerza Bruta
-20,24,395,346.912,Fuerza Bruta
-21,24,411,702.795,Fuerza Bruta
-22,24,302,1444.53,Fuerza Bruta
-23,24,197,3005.64,Fuerza Bruta
-24,24,431,6077.54,Fuerza Bruta
-25,24,356,12422.5,Fuerza Bruta
-26,24,479,25028.1,Fuerza Bruta
-1,25,56,0.007318,Fuerza Bruta
-2,25,90,0.016966,Fuerza Bruta
-3,25,101,0.017215,Fuerza Bruta
-4,25,166,0.019617,Fuerza Bruta
-5,25,154,0.024546,Fuerza Bruta
-6,25,153,0.038429,Fuerza Bruta
-7,25,193,0.04648,Fuerza Bruta
-8,25,136,0.084819,Fuerza Bruta
-9,25,184,0.235127,Fuerza Bruta
-10,25,178,0.314359,Fuerza Bruta
-11,25,349,0.82521,Fuerza Bruta
-12,25,174,1.36675,Fuerza Bruta
-13,25,242,2.80523,Fuerza Bruta
-14,25,211,6.09083,Fuerza Bruta
-15,25,306,12.6184,Fuerza Bruta
-16,25,268,20.4788,Fuerza Bruta
-17,25,372,40.6558,Fuerza Bruta
-18,25,309,85.6922,Fuerza Bruta
-19,25,435,170.113,Fuerza Bruta
-20,25,286,347.215,Fuerza Bruta
-21,25,331,704.907,Fuerza Bruta
-22,25,376,1450,Fuerza Bruta
-23,25,341,2977.47,Fuerza Bruta
-24,25,307,6073.91,Fuerza Bruta
-25,25,357,12383.2,Fuerza Bruta
-26,25,230,25299.5,Fuerza Bruta
-1,26,39,0.00544,Fuerza Bruta
-2,26,46,0.011204,Fuerza Bruta
-3,26,99,0.015095,Fuerza Bruta
-4,26,211,0.021872,Fuerza Bruta
-5,26,122,0.036771,Fuerza Bruta
-6,26,126,0.039728,Fuerza Bruta
-7,26,250,0.05557,Fuerza Bruta
-8,26,238,0.12202,Fuerza Bruta
-9,26,113,0.215464,Fuerza Bruta
-10,26,227,0.428597,Fuerza Bruta
-11,26,189,0.946169,Fuerza Bruta
-12,26,284,1.88074,Fuerza Bruta
-13,26,245,3.58251,Fuerza Bruta
-14,26,241,6.42323,Fuerza Bruta
-15,26,398,12.7978,Fuerza Bruta
-16,26,258,21.7877,Fuerza Bruta
-17,26,263,41.5399,Fuerza Bruta
-18,26,355,86.0403,Fuerza Bruta
-19,26,246,171.375,Fuerza Bruta
-20,26,301,347.984,Fuerza Bruta
-21,26,253,708.51,Fuerza Bruta
-22,26,622,1423.76,Fuerza Bruta
-23,26,458,2938.81,Fuerza Bruta
-24,26,319,6094,Fuerza Bruta
-25,26,382,12452.9,Fuerza Bruta
-26,26,242,25252.5,Fuerza Bruta
-1,27,90,0.006231,Fuerza Bruta
-2,27,170,0.01107,Fuerza Bruta
-3,27,151,0.014564,Fuerza Bruta
-4,27,58,0.023384,Fuerza Bruta
-5,27,165,0.018369,Fuerza Bruta
-6,27,86,0.04152,Fuerza Bruta
-7,27,165,0.059135,Fuerza Bruta
-8,27,269,0.103039,Fuerza Bruta
-9,27,176,0.16391,Fuerza Bruta
-10,27,327,0.418267,Fuerza Bruta
-11,27,207,0.843774,Fuerza Bruta
-12,27,220,1.46989,Fuerza Bruta
-13,27,192,3.37797,Fuerza Bruta
-14,27,355,6.14599,Fuerza Bruta
-15,27,305,12.2772,Fuerza Bruta
-16,27,252,23.9802,Fuerza Bruta
-17,27,252,42.412,Fuerza Bruta
-18,27,324,87.2972,Fuerza Bruta
-19,27,448,169.029,Fuerza Bruta
-20,27,457,343.006,Fuerza Bruta
-21,27,267,709.851,Fuerza Bruta
-22,27,258,1458.28,Fuerza Bruta
-23,27,364,2962.64,Fuerza Bruta
-24,27,333,6119.8,Fuerza Bruta
-25,27,500,12319.3,Fuerza Bruta
-26,27,325,25342.7,Fuerza Bruta
-1,28,4,0.009395,Fuerza Bruta
-2,28,165,0.013244,Fuerza Bruta
-3,28,60,0.032915,Fuerza Bruta
-4,28,224,0.020916,Fuerza Bruta
-5,28,223,0.01948,Fuerza Bruta
-6,28,135,0.034652,Fuerza Bruta
-7,28,179,0.057792,Fuerza Bruta
-8,28,109,0.106008,Fuerza Bruta
-9,28,200,0.151912,Fuerza Bruta
-10,28,227,0.346085,Fuerza Bruta
-11,28,256,0.809327,Fuerza Bruta
-12,28,165,2.00392,Fuerza Bruta
-13,28,150,2.86511,Fuerza Bruta
-14,28,281,4.96501,Fuerza Bruta
-15,28,375,10.3224,Fuerza Bruta
-16,28,231,24.9128,Fuerza Bruta
-17,28,351,43.7585,Fuerza Bruta
-18,28,339,82.7327,Fuerza Bruta
-19,28,418,168.269,Fuerza Bruta
-20,28,480,343.997,Fuerza Bruta
-21,28,332,709.127,Fuerza Bruta
-22,28,400,1440.04,Fuerza Bruta
-23,28,400,2963.79,Fuerza Bruta
-24,28,349,6092.12,Fuerza Bruta
-25,28,332,12449.1,Fuerza Bruta
-26,28,323,25199.9,Fuerza Bruta
-1,29,51,0.007154,Fuerza Bruta
-2,29,73,0.008305,Fuerza Bruta
-3,29,70,0.02139,Fuerza Bruta
-4,29,81,0.023499,Fuerza Bruta
-5,29,117,0.030452,Fuerza Bruta
-6,29,88,0.067783,Fuerza Bruta
-7,29,108,0.051011,Fuerza Bruta
-8,29,211,0.095033,Fuerza Bruta
-9,29,262,0.192615,Fuerza Bruta
-10,29,236,0.393037,Fuerza Bruta
-11,29,262,0.698798,Fuerza Bruta
-12,29,246,1.89967,Fuerza Bruta
-13,29,295,3.64812,Fuerza Bruta
-14,29,179,5.25217,Fuerza Bruta
-15,29,348,10.1041,Fuerza Bruta
-16,29,324,25.3772,Fuerza Bruta
-17,29,388,47.2648,Fuerza Bruta
-18,29,369,85.7696,Fuerza Bruta
-19,29,311,171.101,Fuerza Bruta
-20,29,184,349.728,Fuerza Bruta
-21,29,179,713.636,Fuerza Bruta
-22,29,418,1433.59,Fuerza Bruta
-23,29,352,2981.51,Fuerza Bruta
-24,29,296,6078.68,Fuerza Bruta
-25,29,299,12409.8,Fuerza Bruta
-26,29,227,25254.8,Fuerza Bruta
-1,30,57,0.006012,Fuerza Bruta
-2,30,46,0.012655,Fuerza Bruta
-3,30,120,0.021945,Fuerza Bruta
-4,30,81,0.032966,Fuerza Bruta
-5,30,141,0.037967,Fuerza Bruta
-6,30,258,0.046177,Fuerza Bruta
-7,30,163,0.057547,Fuerza Bruta
-8,30,117,0.090843,Fuerza Bruta
-9,30,195,0.213968,Fuerza Bruta
-10,30,257,0.413799,Fuerza Bruta
-11,30,302,0.713216,Fuerza Bruta
-12,30,214,1.50505,Fuerza Bruta
-13,30,187,3.12273,Fuerza Bruta
-14,30,335,5.97959,Fuerza Bruta
-15,30,252,14.9885,Fuerza Bruta
-16,30,410,23.24,Fuerza Bruta
-17,30,273,46.4385,Fuerza Bruta
-18,30,309,88.0314,Fuerza Bruta
-19,30,241,172.149,Fuerza Bruta
-20,30,256,349.018,Fuerza Bruta
-21,30,368,703.494,Fuerza Bruta
-22,30,389,1446.17,Fuerza Bruta
-23,30,377,2964.01,Fuerza Bruta
-24,30,247,6074.71,Fuerza Bruta
-25,30,481,12358.9,Fuerza Bruta
-26,30,331,25202.1,Fuerza Bruta
-1,31,56,0.007452,Fuerza Bruta
-2,31,88,0.012318,Fuerza Bruta
-3,31,80,0.021671,Fuerza Bruta
-4,31,108,0.022598,Fuerza Bruta
-5,31,143,0.036064,Fuerza Bruta
-6,31,200,0.042633,Fuerza Bruta
-7,31,74,0.078356,Fuerza Bruta
-8,31,292,0.099363,Fuerza Bruta
-9,31,243,0.247674,Fuerza Bruta
-10,31,214,0.41509,Fuerza Bruta
-11,31,149,0.736842,Fuerza Bruta
-12,31,267,1.71514,Fuerza Bruta
-13,31,263,3.27577,Fuerza Bruta
-14,31,100,6.95034,Fuerza Bruta
-15,31,262,13.4717,Fuerza Bruta
-16,31,351,23.7953,Fuerza Bruta
-17,31,273,42.2054,Fuerza Bruta
-18,31,205,84.4846,Fuerza Bruta
-19,31,312,174.404,Fuerza Bruta
-20,31,375,338.744,Fuerza Bruta
-21,31,283,708.207,Fuerza Bruta
-22,31,165,1460.8,Fuerza Bruta
-23,31,408,2963.18,Fuerza Bruta
-24,31,454,5999.52,Fuerza Bruta
-25,31,316,12435.3,Fuerza Bruta
-26,31,475,25175.5,Fuerza Bruta
-1,32,52,0.006807,Fuerza Bruta
-2,32,43,0.008082,Fuerza Bruta
-3,32,82,0.018263,Fuerza Bruta
-4,32,207,0.031488,Fuerza Bruta
-5,32,93,0.040527,Fuerza Bruta
-6,32,162,0.077553,Fuerza Bruta
-7,32,217,0.063858,Fuerza Bruta
-8,32,208,0.115811,Fuerza Bruta
-9,32,189,0.195258,Fuerza Bruta
-10,32,189,0.325063,Fuerza Bruta
-11,32,278,0.713389,Fuerza Bruta
-12,32,172,1.71528,Fuerza Bruta
-13,32,384,2.4556,Fuerza Bruta
-14,32,295,6.33978,Fuerza Bruta
-15,32,246,10.3678,Fuerza Bruta
-16,32,307,23.9624,Fuerza Bruta
-17,32,400,41.9861,Fuerza Bruta
-18,32,278,87.3204,Fuerza Bruta
-19,32,329,168.327,Fuerza Bruta
-20,32,296,347.706,Fuerza Bruta
-21,32,373,707.057,Fuerza Bruta
-22,32,256,1453.13,Fuerza Bruta
-23,32,381,2976.71,Fuerza Bruta
-24,32,395,6066.49,Fuerza Bruta
-25,32,365,12436.8,Fuerza Bruta
-26,32,561,24985.9,Fuerza Bruta
-1,33,46,0.005674,Fuerza Bruta
-2,33,115,0.011307,Fuerza Bruta
-3,33,54,0.041513,Fuerza Bruta
-4,33,164,0.043228,Fuerza Bruta
-5,33,129,0.02692,Fuerza Bruta
-6,33,173,0.03711,Fuerza Bruta
-7,33,83,0.058139,Fuerza Bruta
-8,33,170,0.099769,Fuerza Bruta
-9,33,227,0.182961,Fuerza Bruta
-10,33,195,0.292986,Fuerza Bruta
-11,33,295,0.601956,Fuerza Bruta
-12,33,195,1.48557,Fuerza Bruta
-13,33,341,2.66483,Fuerza Bruta
-14,33,289,5.59731,Fuerza Bruta
-15,33,257,13.4411,Fuerza Bruta
-16,33,234,26.8103,Fuerza Bruta
-17,33,386,47.1399,Fuerza Bruta
-18,33,276,85.6105,Fuerza Bruta
-19,33,302,171.317,Fuerza Bruta
-20,33,231,345.556,Fuerza Bruta
-21,33,332,699.132,Fuerza Bruta
-22,33,429,1441.23,Fuerza Bruta
-23,33,314,2972.53,Fuerza Bruta
-24,33,398,6011.73,Fuerza Bruta
-25,33,460,12385,Fuerza Bruta
-26,33,295,25255.9,Fuerza Bruta
-1,34,85,0.007476,Fuerza Bruta
-2,34,89,0.011255,Fuerza Bruta
-3,34,95,0.021942,Fuerza Bruta
-4,34,180,0.027078,Fuerza Bruta
-5,34,200,0.040447,Fuerza Bruta
-6,34,162,0.038169,Fuerza Bruta
-7,34,170,0.063965,Fuerza Bruta
-8,34,163,0.127042,Fuerza Bruta
-9,34,238,0.270791,Fuerza Bruta
-10,34,327,0.479245,Fuerza Bruta
-11,34,362,0.645898,Fuerza Bruta
-12,34,353,1.24389,Fuerza Bruta
-13,34,279,3.02772,Fuerza Bruta
-14,34,209,6.86055,Fuerza Bruta
-15,34,192,14.559,Fuerza Bruta
-16,34,357,24.5779,Fuerza Bruta
-17,34,492,42.7288,Fuerza Bruta
-18,34,196,85.9637,Fuerza Bruta
-19,34,353,169.015,Fuerza Bruta
-20,34,391,338.686,Fuerza Bruta
-21,34,333,702.733,Fuerza Bruta
-22,34,429,1441.86,Fuerza Bruta
-23,34,322,2965.03,Fuerza Bruta
-24,34,379,6064.75,Fuerza Bruta
-25,34,274,12397.7,Fuerza Bruta
-26,34,378,25174,Fuerza Bruta
-1,35,89,0.013243,Fuerza Bruta
-2,35,9,0.011249,Fuerza Bruta
-3,35,92,0.020054,Fuerza Bruta
-4,35,147,0.045173,Fuerza Bruta
-5,35,95,0.035419,Fuerza Bruta
-6,35,150,0.050143,Fuerza Bruta
-7,35,221,0.054366,Fuerza Bruta
-8,35,221,0.100819,Fuerza Bruta
-9,35,233,0.208175,Fuerza Bruta
-10,35,293,0.339901,Fuerza Bruta
-11,35,214,0.854706,Fuerza Bruta
-12,35,239,1.72222,Fuerza Bruta
-13,35,321,3.23438,Fuerza Bruta
-14,35,291,6.45437,Fuerza Bruta
-15,35,463,11.345,Fuerza Bruta
-16,35,251,23.8865,Fuerza Bruta
-17,35,491,41.9155,Fuerza Bruta
-18,35,259,83.0444,Fuerza Bruta
-19,35,164,173.542,Fuerza Bruta
-20,35,393,339.444,Fuerza Bruta
-21,35,235,709.786,Fuerza Bruta
-22,35,417,1432.32,Fuerza Bruta
-23,35,372,2952.72,Fuerza Bruta
-24,35,487,6110.33,Fuerza Bruta
-25,35,315,12436.5,Fuerza Bruta
-26,35,416,25133.1,Fuerza Bruta
-1,36,41,0.007704,Fuerza Bruta
-2,36,123,0.012103,Fuerza Bruta
-3,36,124,0.015385,Fuerza Bruta
-4,36,133,0.027457,Fuerza Bruta
-5,36,184,0.037479,Fuerza Bruta
-6,36,172,0.028291,Fuerza Bruta
-7,36,132,0.072632,Fuerza Bruta
-8,36,261,0.109741,Fuerza Bruta
-9,36,303,0.150395,Fuerza Bruta
-10,36,332,0.295741,Fuerza Bruta
-11,36,220,0.718759,Fuerza Bruta
-12,36,404,1.73603,Fuerza Bruta
-13,36,310,3.27605,Fuerza Bruta
-14,36,284,7.17518,Fuerza Bruta
-15,36,198,9.99913,Fuerza Bruta
-16,36,220,21.4466,Fuerza Bruta
-17,36,432,44.068,Fuerza Bruta
-18,36,330,85.0351,Fuerza Bruta
-19,36,312,171.143,Fuerza Bruta
-20,36,249,348.695,Fuerza Bruta
-21,36,309,707.905,Fuerza Bruta
-22,36,341,1450.47,Fuerza Bruta
-23,36,317,3010.08,Fuerza Bruta
-24,36,533,6039.51,Fuerza Bruta
-25,36,255,12434.9,Fuerza Bruta
-26,36,292,25239.4,Fuerza Bruta
-1,37,11,0.006453,Fuerza Bruta
-2,37,141,0.011987,Fuerza Bruta
-3,37,181,0.029189,Fuerza Bruta
-4,37,71,0.018161,Fuerza Bruta
-5,37,160,0.043964,Fuerza Bruta
-6,37,140,0.034065,Fuerza Bruta
-7,37,152,0.048475,Fuerza Bruta
-8,37,352,0.107171,Fuerza Bruta
-9,37,272,0.18836,Fuerza Bruta
-10,37,198,0.410494,Fuerza Bruta
-11,37,260,0.896241,Fuerza Bruta
-12,37,153,1.50259,Fuerza Bruta
-13,37,212,2.98965,Fuerza Bruta
-14,37,145,6.21201,Fuerza Bruta
-15,37,145,10.2139,Fuerza Bruta
-16,37,376,24.985,Fuerza Bruta
-17,37,223,46.3862,Fuerza Bruta
-18,37,283,88.3021,Fuerza Bruta
-19,37,322,169,Fuerza Bruta
-20,37,423,342.611,Fuerza Bruta
-21,37,259,708.799,Fuerza Bruta
-22,37,312,1452.83,Fuerza Bruta
-23,37,249,2950.22,Fuerza Bruta
-24,37,396,6051.26,Fuerza Bruta
-25,37,342,12397.7,Fuerza Bruta
-26,37,259,25293.1,Fuerza Bruta
-1,38,33,0.007388,Fuerza Bruta
-2,38,154,0.016186,Fuerza Bruta
-3,38,185,0.033462,Fuerza Bruta
-4,38,169,0.01975,Fuerza Bruta
-5,38,136,0.020331,Fuerza Bruta
-6,38,200,0.028352,Fuerza Bruta
-7,38,226,0.073355,Fuerza Bruta
-8,38,318,0.081811,Fuerza Bruta
-9,38,139,0.164005,Fuerza Bruta
-10,38,201,0.407842,Fuerza Bruta
-11,38,202,0.713943,Fuerza Bruta
-12,38,324,1.82028,Fuerza Bruta
-13,38,322,3.21063,Fuerza Bruta
-14,38,349,5.5705,Fuerza Bruta
-15,38,344,12.5088,Fuerza Bruta
-16,38,371,20.7635,Fuerza Bruta
-17,38,222,43.1031,Fuerza Bruta
-18,38,317,86.4812,Fuerza Bruta
-19,38,332,171.513,Fuerza Bruta
-20,38,276,351.018,Fuerza Bruta
-21,38,350,702.494,Fuerza Bruta
-22,38,280,1457.13,Fuerza Bruta
-23,38,361,3008.03,Fuerza Bruta
-24,38,279,6110.01,Fuerza Bruta
-25,38,407,12262.3,Fuerza Bruta
-26,38,318,25318.5,Fuerza Bruta
-1,39,44,0.006887,Fuerza Bruta
-2,39,121,0.011122,Fuerza Bruta
-3,39,81,0.018824,Fuerza Bruta
-4,39,92,0.025664,Fuerza Bruta
-5,39,138,0.030419,Fuerza Bruta
-6,39,89,0.033727,Fuerza Bruta
-7,39,206,0.07078,Fuerza Bruta
-8,39,180,0.118133,Fuerza Bruta
-9,39,295,0.147506,Fuerza Bruta
-10,39,230,0.360728,Fuerza Bruta
-11,39,227,0.659311,Fuerza Bruta
-12,39,306,1.52017,Fuerza Bruta
-13,39,480,2.86031,Fuerza Bruta
-14,39,256,6.3343,Fuerza Bruta
-15,39,297,10.4729,Fuerza Bruta
-16,39,361,21.2874,Fuerza Bruta
-17,39,313,44.4407,Fuerza Bruta
-18,39,276,85.5962,Fuerza Bruta
-19,39,418,168.296,Fuerza Bruta
-20,39,216,348.897,Fuerza Bruta
-21,39,406,700.348,Fuerza Bruta
-22,39,269,1447.58,Fuerza Bruta
-23,39,433,2959.35,Fuerza Bruta
-24,39,420,6068.29,Fuerza Bruta
-25,39,346,12436.6,Fuerza Bruta
-26,39,199,25289.2,Fuerza Bruta
-1,40,85,0.009344,Fuerza Bruta
-2,40,77,0.016261,Fuerza Bruta
-3,40,151,0.019291,Fuerza Bruta
-4,40,118,0.018934,Fuerza Bruta
-5,40,56,0.032573,Fuerza Bruta
-6,40,96,0.034235,Fuerza Bruta
-7,40,183,0.053987,Fuerza Bruta
-8,40,245,0.103459,Fuerza Bruta
-9,40,275,0.198079,Fuerza Bruta
-10,40,174,0.357563,Fuerza Bruta
-11,40,272,0.665458,Fuerza Bruta
-12,40,282,1.72546,Fuerza Bruta
-13,40,251,2.87838,Fuerza Bruta
-14,40,203,5.41966,Fuerza Bruta
-15,40,255,13.4266,Fuerza Bruta
-16,40,192,20.7585,Fuerza Bruta
-17,40,244,43.0297,Fuerza Bruta
-18,40,381,85.8869,Fuerza Bruta
-19,40,256,170.845,Fuerza Bruta
-20,40,444,344.403,Fuerza Bruta
-21,40,227,706.303,Fuerza Bruta
-22,40,339,1449.06,Fuerza Bruta
-23,40,360,2980.1,Fuerza Bruta
-24,40,556,5999.51,Fuerza Bruta
-25,40,285,12406.7,Fuerza Bruta
-26,40,468,24997,Fuerza Bruta
-1,41,38,0.006056,Fuerza Bruta
-2,41,130,0.013212,Fuerza Bruta
-3,41,80,0.016358,Fuerza Bruta
-4,41,142,0.031897,Fuerza Bruta
-5,41,148,0.030931,Fuerza Bruta
-6,41,356,0.060212,Fuerza Bruta
-7,41,113,0.051475,Fuerza Bruta
-8,41,320,0.10229,Fuerza Bruta
-9,41,181,0.185805,Fuerza Bruta
-10,41,143,0.416535,Fuerza Bruta
-11,41,321,0.721852,Fuerza Bruta
-12,41,251,1.65763,Fuerza Bruta
-13,41,376,3.48401,Fuerza Bruta
-14,41,227,6.89175,Fuerza Bruta
-15,41,275,14.3347,Fuerza Bruta
-16,41,368,26.0962,Fuerza Bruta
-17,41,380,45.2516,Fuerza Bruta
-18,41,334,83.3511,Fuerza Bruta
-19,41,457,168.317,Fuerza Bruta
-20,41,393,343.06,Fuerza Bruta
-21,41,411,702.307,Fuerza Bruta
-22,41,259,1452.35,Fuerza Bruta
-23,41,313,2984.06,Fuerza Bruta
-24,41,227,6103.64,Fuerza Bruta
-25,41,376,12413.7,Fuerza Bruta
-26,41,382,25172,Fuerza Bruta
-1,42,59,0.0065,Fuerza Bruta
-2,42,61,0.012775,Fuerza Bruta
-3,42,145,0.024362,Fuerza Bruta
-4,42,208,0.017619,Fuerza Bruta
-5,42,137,0.042127,Fuerza Bruta
-6,42,151,0.049148,Fuerza Bruta
-7,42,106,0.043839,Fuerza Bruta
-8,42,180,0.090748,Fuerza Bruta
-9,42,186,0.163807,Fuerza Bruta
-10,42,216,0.391875,Fuerza Bruta
-11,42,244,0.710531,Fuerza Bruta
-12,42,228,1.92146,Fuerza Bruta
-13,42,153,3.2214,Fuerza Bruta
-14,42,238,6.92372,Fuerza Bruta
-15,42,222,10.2219,Fuerza Bruta
-16,42,150,23.7174,Fuerza Bruta
-17,42,255,46.2626,Fuerza Bruta
-18,42,328,86.3585,Fuerza Bruta
-19,42,308,168.846,Fuerza Bruta
-20,42,370,346.543,Fuerza Bruta
-21,42,306,710.04,Fuerza Bruta
-22,42,322,1441.01,Fuerza Bruta
-23,42,482,2940.31,Fuerza Bruta
-24,42,309,6085.4,Fuerza Bruta
-25,42,285,12449.5,Fuerza Bruta
-26,42,413,25136.7,Fuerza Bruta
-1,43,3,0.007743,Fuerza Bruta
-2,43,86,0.011648,Fuerza Bruta
-3,43,103,0.024941,Fuerza Bruta
-4,43,104,0.036363,Fuerza Bruta
-5,43,209,0.019972,Fuerza Bruta
-6,43,113,0.030124,Fuerza Bruta
-7,43,217,0.075163,Fuerza Bruta
-8,43,118,0.090715,Fuerza Bruta
-9,43,263,0.183085,Fuerza Bruta
-10,43,294,0.316188,Fuerza Bruta
-11,43,400,0.634833,Fuerza Bruta
-12,43,249,1.52377,Fuerza Bruta
-13,43,310,2.91641,Fuerza Bruta
-14,43,251,6.73961,Fuerza Bruta
-15,43,393,15.1332,Fuerza Bruta
-16,43,376,20.0026,Fuerza Bruta
-17,43,205,45.7675,Fuerza Bruta
-18,43,259,86.1371,Fuerza Bruta
-19,43,392,168.375,Fuerza Bruta
-20,43,378,345.612,Fuerza Bruta
-21,43,261,706.42,Fuerza Bruta
-22,43,330,1451.42,Fuerza Bruta
-23,43,322,2976.39,Fuerza Bruta
-24,43,266,6091.88,Fuerza Bruta
-25,43,314,12433.1,Fuerza Bruta
-26,43,375,25199.9,Fuerza Bruta
-1,44,73,0.0056,Fuerza Bruta
-2,44,32,0.008526,Fuerza Bruta
-3,44,44,0.018951,Fuerza Bruta
-4,44,230,0.022396,Fuerza Bruta
-5,44,95,0.024408,Fuerza Bruta
-6,44,98,0.044229,Fuerza Bruta
-7,44,181,0.049798,Fuerza Bruta
-8,44,292,0.122303,Fuerza Bruta
-9,44,166,0.180075,Fuerza Bruta
-10,44,250,0.390167,Fuerza Bruta
-11,44,297,0.574537,Fuerza Bruta
-12,44,319,2.16188,Fuerza Bruta
-13,44,505,3.11126,Fuerza Bruta
-14,44,352,5.15378,Fuerza Bruta
-15,44,246,10.3994,Fuerza Bruta
-16,44,369,20.4854,Fuerza Bruta
-17,44,380,45.211,Fuerza Bruta
-18,44,256,84.9751,Fuerza Bruta
-19,44,212,173.025,Fuerza Bruta
-20,44,264,347.515,Fuerza Bruta
-21,44,319,710.957,Fuerza Bruta
-22,44,446,1433.29,Fuerza Bruta
-23,44,294,2982.92,Fuerza Bruta
-24,44,219,6097.5,Fuerza Bruta
-25,44,267,12422.3,Fuerza Bruta
-26,44,526,25132,Fuerza Bruta
-1,45,31,0.006508,Fuerza Bruta
-2,45,94,0.013103,Fuerza Bruta
-3,45,31,0.018374,Fuerza Bruta
-4,45,281,0.023339,Fuerza Bruta
-5,45,82,0.046784,Fuerza Bruta
-6,45,172,0.037328,Fuerza Bruta
-7,45,126,0.045757,Fuerza Bruta
-8,45,170,0.09811,Fuerza Bruta
-9,45,243,0.170776,Fuerza Bruta
-10,45,194,0.326908,Fuerza Bruta
-11,45,170,0.79516,Fuerza Bruta
-12,45,289,1.54452,Fuerza Bruta
-13,45,329,3.12479,Fuerza Bruta
-14,45,217,5.47231,Fuerza Bruta
-15,45,282,9.94723,Fuerza Bruta
-16,45,201,25.2248,Fuerza Bruta
-17,45,285,49.2824,Fuerza Bruta
-18,45,322,85.798,Fuerza Bruta
-19,45,221,170.319,Fuerza Bruta
-20,45,538,346.271,Fuerza Bruta
-21,45,293,704.827,Fuerza Bruta
-22,45,281,1454.6,Fuerza Bruta
-23,45,280,2984.76,Fuerza Bruta
-24,45,312,6062.53,Fuerza Bruta
-25,45,465,12394.4,Fuerza Bruta
-26,45,312,25312.3,Fuerza Bruta
-1,46,26,0.008392,Fuerza Bruta
-2,46,39,0.012689,Fuerza Bruta
-3,46,183,0.025952,Fuerza Bruta
-4,46,94,0.019391,Fuerza Bruta
-5,46,176,0.023828,Fuerza Bruta
-6,46,162,0.04194,Fuerza Bruta
-7,46,208,0.069621,Fuerza Bruta
-8,46,221,0.089025,Fuerza Bruta
-9,46,219,0.190322,Fuerza Bruta
-10,46,210,0.300827,Fuerza Bruta
-11,46,242,0.927315,Fuerza Bruta
-12,46,321,1.47811,Fuerza Bruta
-13,46,128,2.79124,Fuerza Bruta
-14,46,279,6.33019,Fuerza Bruta
-15,46,327,10.1903,Fuerza Bruta
-16,46,223,20.0809,Fuerza Bruta
-17,46,427,45.0153,Fuerza Bruta
-18,46,321,85.5338,Fuerza Bruta
-19,46,301,171.339,Fuerza Bruta
-20,46,361,341.85,Fuerza Bruta
-21,46,261,713.782,Fuerza Bruta
-22,46,515,1437.66,Fuerza Bruta
-23,46,353,2972.67,Fuerza Bruta
-24,46,259,6101.2,Fuerza Bruta
-25,46,444,12236.7,Fuerza Bruta
-26,46,487,24952,Fuerza Bruta
-1,47,93,0.006821,Fuerza Bruta
-2,47,111,0.011977,Fuerza Bruta
-3,47,121,0.019662,Fuerza Bruta
-4,47,85,0.021122,Fuerza Bruta
-5,47,196,0.051467,Fuerza Bruta
-6,47,175,0.04026,Fuerza Bruta
-7,47,377,0.06054,Fuerza Bruta
-8,47,181,0.10815,Fuerza Bruta
-9,47,219,0.165337,Fuerza Bruta
-10,47,187,0.387046,Fuerza Bruta
-11,47,253,0.726984,Fuerza Bruta
-12,47,401,1.71978,Fuerza Bruta
-13,47,298,3.1948,Fuerza Bruta
-14,47,232,7.0047,Fuerza Bruta
-15,47,281,13.8008,Fuerza Bruta
-16,47,281,20.9298,Fuerza Bruta
-17,47,219,44.9995,Fuerza Bruta
-18,47,298,85.3839,Fuerza Bruta
-19,47,326,168.94,Fuerza Bruta
-20,47,291,349.057,Fuerza Bruta
-21,47,258,705.879,Fuerza Bruta
-22,47,343,1450.93,Fuerza Bruta
-23,47,342,2986.16,Fuerza Bruta
-24,47,399,6091.3,Fuerza Bruta
-25,47,240,12425.1,Fuerza Bruta
-26,47,379,25233.7,Fuerza Bruta
-1,48,12,0.005264,Fuerza Bruta
-2,48,116,0.016404,Fuerza Bruta
-3,48,126,0.019772,Fuerza Bruta
-4,48,149,0.018564,Fuerza Bruta
-5,48,152,0.02616,Fuerza Bruta
-6,48,169,0.034035,Fuerza Bruta
-7,48,160,0.05762,Fuerza Bruta
-8,48,222,0.084733,Fuerza Bruta
-9,48,208,0.218961,Fuerza Bruta
-10,48,173,0.29547,Fuerza Bruta
-11,48,358,0.620327,Fuerza Bruta
-12,48,324,1.25456,Fuerza Bruta
-13,48,235,2.94427,Fuerza Bruta
-14,48,175,6.01634,Fuerza Bruta
-15,48,298,12.8071,Fuerza Bruta
-16,48,288,22.802,Fuerza Bruta
-17,48,125,46.4032,Fuerza Bruta
-18,48,343,86.4041,Fuerza Bruta
-19,48,354,170.517,Fuerza Bruta
-20,48,349,343.899,Fuerza Bruta
-21,48,466,697.633,Fuerza Bruta
-22,48,284,1456.4,Fuerza Bruta
-23,48,494,2932.52,Fuerza Bruta
-24,48,356,6122.36,Fuerza Bruta
-25,48,240,12445.5,Fuerza Bruta
-26,48,451,25224.6,Fuerza Bruta
-1,49,44,0.008885,Fuerza Bruta
-2,49,130,0.023401,Fuerza Bruta
-3,49,126,0.017294,Fuerza Bruta
-4,49,142,0.021523,Fuerza Bruta
-5,49,83,0.02657,Fuerza Bruta
-6,49,244,0.031359,Fuerza Bruta
-7,49,370,0.062772,Fuerza Bruta
-8,49,216,0.128563,Fuerza Bruta
-9,49,108,0.19021,Fuerza Bruta
-10,49,189,0.371124,Fuerza Bruta
-11,49,366,0.723791,Fuerza Bruta
-12,49,219,1.4869,Fuerza Bruta
-13,49,296,2.81939,Fuerza Bruta
-14,49,238,5.95122,Fuerza Bruta
-15,49,215,11.6259,Fuerza Bruta
-16,49,293,20.6689,Fuerza Bruta
-17,49,316,44.3836,Fuerza Bruta
-18,49,270,86.4532,Fuerza Bruta
-19,49,384,170.204,Fuerza Bruta
-20,49,246,346.286,Fuerza Bruta
-21,49,349,710.03,Fuerza Bruta
-22,49,424,1434.55,Fuerza Bruta
-23,49,205,2997.89,Fuerza Bruta
-24,49,400,6044.94,Fuerza Bruta
-25,49,166,12447.1,Fuerza Bruta
-26,49,355,25206.6,Fuerza Bruta
-1,50,17,0.007343,Fuerza Bruta
-2,50,55,0.00966,Fuerza Bruta
-3,50,106,0.017911,Fuerza Bruta
-4,50,183,0.024127,Fuerza Bruta
-5,50,171,0.02589,Fuerza Bruta
-6,50,125,0.02975,Fuerza Bruta
-7,50,173,0.059377,Fuerza Bruta
-8,50,96,0.123331,Fuerza Bruta
-9,50,290,0.246942,Fuerza Bruta
-10,50,254,0.426188,Fuerza Bruta
-11,50,238,1.19675,Fuerza Bruta
-12,50,272,1.56607,Fuerza Bruta
-13,50,220,3.52023,Fuerza Bruta
-14,50,333,6.75609,Fuerza Bruta
-15,50,170,14.0022,Fuerza Bruta
-16,50,243,23.1766,Fuerza Bruta
-17,50,249,43.4835,Fuerza Bruta
-18,50,371,85.235,Fuerza Bruta
-19,50,405,171.727,Fuerza Bruta
-20,50,313,345.369,Fuerza Bruta
-21,50,343,709.229,Fuerza Bruta
-22,50,560,1435.31,Fuerza Bruta
-23,50,295,2976.38,Fuerza Bruta
-24,50,500,6008.52,Fuerza Bruta
-25,50,448,12369.4,Fuerza Bruta
-26,50,454,25188.7,Fuerza Bruta
-1,51,58,0.006225,Fuerza Bruta
-2,51,63,0.012481,Fuerza Bruta
-3,51,71,0.027862,Fuerza Bruta
-4,51,109,0.023574,Fuerza Bruta
-5,51,210,0.021737,Fuerza Bruta
-6,51,107,0.030336,Fuerza Bruta
-7,51,186,0.052613,Fuerza Bruta
-8,51,293,0.090743,Fuerza Bruta
-9,51,135,0.185014,Fuerza Bruta
-10,51,171,0.399634,Fuerza Bruta
-11,51,181,0.735219,Fuerza Bruta
-12,51,149,1.39738,Fuerza Bruta
-13,51,305,3.09398,Fuerza Bruta
-14,51,336,6.44599,Fuerza Bruta
-15,51,461,10.3371,Fuerza Bruta
-16,51,326,24.876,Fuerza Bruta
-17,51,319,43.8463,Fuerza Bruta
-18,51,413,86.9466,Fuerza Bruta
-19,51,273,170.356,Fuerza Bruta
-20,51,212,350.134,Fuerza Bruta
-21,51,356,706.081,Fuerza Bruta
-22,51,416,1443.08,Fuerza Bruta
-23,51,426,2959.89,Fuerza Bruta
-24,51,326,6089.23,Fuerza Bruta
-25,51,394,12449.9,Fuerza Bruta
-26,51,552,24962.7,Fuerza Bruta
-1,52,49,0.00769,Fuerza Bruta
-2,52,94,0.01273,Fuerza Bruta
-3,52,154,0.016094,Fuerza Bruta
-4,52,211,0.017136,Fuerza Bruta
-5,52,220,0.022139,Fuerza Bruta
-6,52,75,0.029769,Fuerza Bruta
-7,52,264,0.081445,Fuerza Bruta
-8,52,152,0.090493,Fuerza Bruta
-9,52,112,0.2099,Fuerza Bruta
-10,52,215,0.47191,Fuerza Bruta
-11,52,314,0.830255,Fuerza Bruta
-12,52,261,1.33046,Fuerza Bruta
-13,52,161,2.61793,Fuerza Bruta
-14,52,206,5.17341,Fuerza Bruta
-15,52,300,13.4815,Fuerza Bruta
-16,52,293,25.1783,Fuerza Bruta
-17,52,210,47.0022,Fuerza Bruta
-18,52,365,87.2203,Fuerza Bruta
-19,52,435,167.643,Fuerza Bruta
-20,52,519,340.472,Fuerza Bruta
-21,52,462,712.293,Fuerza Bruta
-22,52,375,1480.41,Fuerza Bruta
-23,52,302,2972.33,Fuerza Bruta
-24,52,207,6099.68,Fuerza Bruta
-25,52,322,12408.2,Fuerza Bruta
-26,52,466,25075.6,Fuerza Bruta
-1,53,79,0.00866,Fuerza Bruta
-2,53,164,0.015109,Fuerza Bruta
-3,53,85,0.02703,Fuerza Bruta
-4,53,127,0.017726,Fuerza Bruta
-5,53,214,0.020904,Fuerza Bruta
-6,53,155,0.039664,Fuerza Bruta
-7,53,187,0.048238,Fuerza Bruta
-8,53,263,0.108181,Fuerza Bruta
-9,53,129,0.164723,Fuerza Bruta
-10,53,208,0.328013,Fuerza Bruta
-11,53,154,0.591421,Fuerza Bruta
-12,53,200,1.44694,Fuerza Bruta
-13,53,310,2.99176,Fuerza Bruta
-14,53,171,5.7937,Fuerza Bruta
-15,53,417,10.0263,Fuerza Bruta
-16,53,350,24.2196,Fuerza Bruta
-17,53,240,45.7649,Fuerza Bruta
-18,53,365,84.8152,Fuerza Bruta
-19,53,385,170.674,Fuerza Bruta
-20,53,357,346.056,Fuerza Bruta
-21,53,371,705.245,Fuerza Bruta
-22,53,374,1441.25,Fuerza Bruta
-23,53,297,2977.34,Fuerza Bruta
-24,53,428,6056.2,Fuerza Bruta
-25,53,265,12441.3,Fuerza Bruta
-26,53,284,25288.9,Fuerza Bruta
-1,54,49,0.010933,Fuerza Bruta
-2,54,115,0.019317,Fuerza Bruta
-3,54,99,0.034122,Fuerza Bruta
-4,54,171,0.037139,Fuerza Bruta
-5,54,215,0.022955,Fuerza Bruta
-6,54,191,0.027801,Fuerza Bruta
-7,54,155,0.05823,Fuerza Bruta
-8,54,247,0.104972,Fuerza Bruta
-9,54,170,0.158838,Fuerza Bruta
-10,54,256,0.326714,Fuerza Bruta
-11,54,303,0.66044,Fuerza Bruta
-12,54,226,1.46301,Fuerza Bruta
-13,54,331,2.81509,Fuerza Bruta
-14,54,277,5.84742,Fuerza Bruta
-15,54,350,10.5126,Fuerza Bruta
-16,54,266,23.5142,Fuerza Bruta
-17,54,94,44.2904,Fuerza Bruta
-18,54,290,85.0147,Fuerza Bruta
-19,54,267,171.416,Fuerza Bruta
-20,54,302,347.039,Fuerza Bruta
-21,54,434,700.51,Fuerza Bruta
-22,54,387,1440.56,Fuerza Bruta
-23,54,282,2979.1,Fuerza Bruta
-24,54,427,6068.67,Fuerza Bruta
-25,54,285,12458.1,Fuerza Bruta
-26,54,580,24898.8,Fuerza Bruta
-1,55,9,0.006989,Fuerza Bruta
-2,55,19,0.012648,Fuerza Bruta
-3,55,125,0.015074,Fuerza Bruta
-4,55,153,0.027204,Fuerza Bruta
-5,55,233,0.030542,Fuerza Bruta
-6,55,116,0.043618,Fuerza Bruta
-7,55,173,0.063374,Fuerza Bruta
-8,55,280,0.081751,Fuerza Bruta
-9,55,260,0.146017,Fuerza Bruta
-10,55,193,0.30801,Fuerza Bruta
-11,55,186,0.768069,Fuerza Bruta
-12,55,195,1.37363,Fuerza Bruta
-13,55,132,3.01584,Fuerza Bruta
-14,55,164,6.62272,Fuerza Bruta
-15,55,166,15.2506,Fuerza Bruta
-16,55,295,23.664,Fuerza Bruta
-17,55,307,46.3418,Fuerza Bruta
-18,55,378,82.2021,Fuerza Bruta
-19,55,494,169.13,Fuerza Bruta
-20,55,396,344.579,Fuerza Bruta
-21,55,419,697.632,Fuerza Bruta
-22,55,289,1453.44,Fuerza Bruta
-23,55,304,2982.06,Fuerza Bruta
-24,55,387,6061.3,Fuerza Bruta
-25,55,377,12357.3,Fuerza Bruta
-26,55,318,25238.5,Fuerza Bruta
-1,56,40,0.010737,Fuerza Bruta
-2,56,57,0.016882,Fuerza Bruta
-3,56,93,0.04056,Fuerza Bruta
-4,56,149,0.02012,Fuerza Bruta
-5,56,122,0.037207,Fuerza Bruta
-6,56,161,0.042507,Fuerza Bruta
-7,56,251,0.059957,Fuerza Bruta
-8,56,226,0.083083,Fuerza Bruta
-9,56,124,0.257756,Fuerza Bruta
-10,56,217,0.436104,Fuerza Bruta
-11,56,254,0.7255,Fuerza Bruta
-12,56,306,1.73002,Fuerza Bruta
-13,56,292,2.69544,Fuerza Bruta
-14,56,206,5.70916,Fuerza Bruta
-15,56,196,13.2759,Fuerza Bruta
-16,56,153,26.2573,Fuerza Bruta
-17,56,277,45.1306,Fuerza Bruta
-18,56,313,85.3385,Fuerza Bruta
-19,56,258,171.311,Fuerza Bruta
-20,56,406,341.075,Fuerza Bruta
-21,56,292,705.127,Fuerza Bruta
-22,56,388,1442.53,Fuerza Bruta
-23,56,376,2964.21,Fuerza Bruta
-24,56,476,6003.82,Fuerza Bruta
-25,56,426,12375.3,Fuerza Bruta
-26,56,296,25305.1,Fuerza Bruta
-1,57,61,0.007515,Fuerza Bruta
-2,57,78,0.017397,Fuerza Bruta
-3,57,87,0.014456,Fuerza Bruta
-4,57,150,0.026175,Fuerza Bruta
-5,57,203,0.02285,Fuerza Bruta
-6,57,125,0.055612,Fuerza Bruta
-7,57,216,0.052958,Fuerza Bruta
-8,57,146,0.092195,Fuerza Bruta
-9,57,156,0.153694,Fuerza Bruta
-10,57,190,0.374994,Fuerza Bruta
-11,57,279,0.756086,Fuerza Bruta
-12,57,234,1.51374,Fuerza Bruta
-13,57,374,3.40014,Fuerza Bruta
-14,57,243,7.48616,Fuerza Bruta
-15,57,359,10.5438,Fuerza Bruta
-16,57,351,22.3715,Fuerza Bruta
-17,57,354,44.6634,Fuerza Bruta
-18,57,302,83.4579,Fuerza Bruta
-19,57,257,174.5,Fuerza Bruta
-20,57,339,343.811,Fuerza Bruta
-21,57,586,693.661,Fuerza Bruta
-22,57,344,1447.18,Fuerza Bruta
-23,57,355,2986.04,Fuerza Bruta
-24,57,255,6067.17,Fuerza Bruta
-25,57,623,12171.4,Fuerza Bruta
-26,57,320,25198.1,Fuerza Bruta
-1,58,43,0.00805,Fuerza Bruta
-2,58,108,0.01814,Fuerza Bruta
-3,58,130,0.026669,Fuerza Bruta
-4,58,84,0.01742,Fuerza Bruta
-5,58,248,0.025604,Fuerza Bruta
-6,58,155,0.028978,Fuerza Bruta
-7,58,158,0.053593,Fuerza Bruta
-8,58,247,0.086595,Fuerza Bruta
-9,58,192,0.160243,Fuerza Bruta
-10,58,181,0.500891,Fuerza Bruta
-11,58,278,1.00337,Fuerza Bruta
-12,58,284,1.90381,Fuerza Bruta
-13,58,253,3.20662,Fuerza Bruta
-14,58,347,6.65545,Fuerza Bruta
-15,58,249,9.9168,Fuerza Bruta
-16,58,364,20.0298,Fuerza Bruta
-17,58,215,45.4019,Fuerza Bruta
-18,58,259,85.8709,Fuerza Bruta
-19,58,514,170.052,Fuerza Bruta
-20,58,413,343.982,Fuerza Bruta
-21,58,410,703.437,Fuerza Bruta
-22,58,358,1442.69,Fuerza Bruta
-23,58,373,2977.27,Fuerza Bruta
-24,58,381,6075.26,Fuerza Bruta
-25,58,270,12410.2,Fuerza Bruta
-26,58,343,25241.2,Fuerza Bruta
-1,59,4,0.00773,Fuerza Bruta
-2,59,98,0.025961,Fuerza Bruta
-3,59,94,0.026548,Fuerza Bruta
-4,59,125,0.021086,Fuerza Bruta
-5,59,171,0.029547,Fuerza Bruta
-6,59,224,0.041543,Fuerza Bruta
-7,59,183,0.057979,Fuerza Bruta
-8,59,233,0.1049,Fuerza Bruta
-9,59,161,0.181141,Fuerza Bruta
-10,59,235,0.330154,Fuerza Bruta
-11,59,281,0.683904,Fuerza Bruta
-12,59,303,1.62703,Fuerza Bruta
-13,59,288,3.1906,Fuerza Bruta
-14,59,409,5.78631,Fuerza Bruta
-15,59,241,11.9507,Fuerza Bruta
-16,59,167,20.3464,Fuerza Bruta
-17,59,309,46.2954,Fuerza Bruta
-18,59,345,85.8434,Fuerza Bruta
-19,59,298,171.927,Fuerza Bruta
-20,59,446,340.361,Fuerza Bruta
-21,59,384,699.402,Fuerza Bruta
-22,59,296,1456.47,Fuerza Bruta
-23,59,322,2980.86,Fuerza Bruta
-24,59,281,6099.62,Fuerza Bruta
-25,59,348,12332.4,Fuerza Bruta
-26,59,306,25255,Fuerza Bruta
-1,60,53,0.009619,Fuerza Bruta
-2,60,97,0.012872,Fuerza Bruta
-3,60,97,0.024077,Fuerza Bruta
-4,60,78,0.029307,Fuerza Bruta
-5,60,177,0.030178,Fuerza Bruta
-6,60,101,0.026087,Fuerza Bruta
-7,60,188,0.100445,Fuerza Bruta
-8,60,132,0.106906,Fuerza Bruta
-9,60,246,0.171042,Fuerza Bruta
-10,60,121,0.373005,Fuerza Bruta
-11,60,218,0.738071,Fuerza Bruta
-12,60,268,1.71936,Fuerza Bruta
-13,60,216,2.61788,Fuerza Bruta
-14,60,212,6.35023,Fuerza Bruta
-15,60,262,14.0788,Fuerza Bruta
-16,60,225,20.6777,Fuerza Bruta
-17,60,338,42.9952,Fuerza Bruta
-18,60,292,83.6952,Fuerza Bruta
-19,60,291,172.484,Fuerza Bruta
-20,60,290,346.979,Fuerza Bruta
-21,60,282,712.292,Fuerza Bruta
-22,60,312,1448.14,Fuerza Bruta
-23,60,234,2995.27,Fuerza Bruta
-24,60,376,6086.96,Fuerza Bruta
-25,60,444,12305.6,Fuerza Bruta
-26,60,405,25281.7,Fuerza Bruta
-1,61,48,0.00759,Fuerza Bruta
-2,61,84,0.008329,Fuerza Bruta
-3,61,75,0.020279,Fuerza Bruta
-4,61,80,0.017001,Fuerza Bruta
-5,61,184,0.019839,Fuerza Bruta
-6,61,385,0.035632,Fuerza Bruta
-7,61,155,0.072569,Fuerza Bruta
-8,61,168,0.100666,Fuerza Bruta
-9,61,272,0.213957,Fuerza Bruta
-10,61,252,0.414659,Fuerza Bruta
-11,61,248,0.765957,Fuerza Bruta
-12,61,401,1.44712,Fuerza Bruta
-13,61,213,3.59958,Fuerza Bruta
-14,61,242,5.19853,Fuerza Bruta
-15,61,318,13.6137,Fuerza Bruta
-16,61,332,24.744,Fuerza Bruta
-17,61,221,46.8735,Fuerza Bruta
-18,61,291,85.8702,Fuerza Bruta
-19,61,238,171.953,Fuerza Bruta
-20,61,290,345.382,Fuerza Bruta
-21,61,256,712.624,Fuerza Bruta
-22,61,294,1464.69,Fuerza Bruta
-23,61,392,2981.95,Fuerza Bruta
-24,61,379,6078.85,Fuerza Bruta
-25,61,340,12447.4,Fuerza Bruta
-26,61,259,25289.1,Fuerza Bruta
-1,62,59,0.007323,Fuerza Bruta
-2,62,47,0.01067,Fuerza Bruta
-3,62,98,0.018496,Fuerza Bruta
-4,62,69,0.033038,Fuerza Bruta
-5,62,142,0.042997,Fuerza Bruta
-6,62,192,0.03344,Fuerza Bruta
-7,62,198,0.06457,Fuerza Bruta
-8,62,229,0.146509,Fuerza Bruta
-9,62,151,0.191595,Fuerza Bruta
-10,62,189,0.344816,Fuerza Bruta
-11,62,291,0.732522,Fuerza Bruta
-12,62,261,1.40092,Fuerza Bruta
-13,62,371,3.89181,Fuerza Bruta
-14,62,300,6.71637,Fuerza Bruta
-15,62,237,11.2515,Fuerza Bruta
-16,62,288,26.4866,Fuerza Bruta
-17,62,311,43.684,Fuerza Bruta
-18,62,185,85.8113,Fuerza Bruta
-19,62,259,172.823,Fuerza Bruta
-20,62,317,346.604,Fuerza Bruta
-21,62,291,709.179,Fuerza Bruta
-22,62,387,1442.75,Fuerza Bruta
-23,62,233,2983.52,Fuerza Bruta
-24,62,290,6093.6,Fuerza Bruta
-25,62,518,12286.1,Fuerza Bruta
-26,62,463,25208.3,Fuerza Bruta
-1,63,79,0.010509,Fuerza Bruta
-2,63,95,0.011038,Fuerza Bruta
-3,63,135,0.033018,Fuerza Bruta
-4,63,88,0.015781,Fuerza Bruta
-5,63,247,0.020008,Fuerza Bruta
-6,63,182,0.057823,Fuerza Bruta
-7,63,134,0.056251,Fuerza Bruta
-8,63,132,0.129255,Fuerza Bruta
-9,63,155,0.183302,Fuerza Bruta
-10,63,275,0.425381,Fuerza Bruta
-11,63,198,0.853182,Fuerza Bruta
-12,63,255,1.82298,Fuerza Bruta
-13,63,373,2.87978,Fuerza Bruta
-14,63,230,6.42973,Fuerza Bruta
-15,63,350,12.704,Fuerza Bruta
-16,63,343,25.4214,Fuerza Bruta
-17,63,233,47.2357,Fuerza Bruta
-18,63,392,82.021,Fuerza Bruta
-19,63,392,169.297,Fuerza Bruta
-20,63,294,344.521,Fuerza Bruta
-21,63,182,711.745,Fuerza Bruta
-22,63,228,1452.18,Fuerza Bruta
-23,63,330,2963.01,Fuerza Bruta
-24,63,475,6048.75,Fuerza Bruta
-25,63,381,12319,Fuerza Bruta
-26,63,587,24831.2,Fuerza Bruta
-1,64,93,0.013177,Fuerza Bruta
-2,64,78,0.01389,Fuerza Bruta
-3,64,155,0.030223,Fuerza Bruta
-4,64,97,0.019088,Fuerza Bruta
-5,64,52,0.042212,Fuerza Bruta
-6,64,147,0.029209,Fuerza Bruta
-7,64,162,0.0684,Fuerza Bruta
-8,64,94,0.07853,Fuerza Bruta
-9,64,142,0.235434,Fuerza Bruta
-10,64,121,0.305313,Fuerza Bruta
-11,64,159,0.652161,Fuerza Bruta
-12,64,287,1.63792,Fuerza Bruta
-13,64,312,3.08449,Fuerza Bruta
-14,64,248,5.76757,Fuerza Bruta
-15,64,264,13.3614,Fuerza Bruta
-16,64,394,25.4519,Fuerza Bruta
-17,64,371,45.5034,Fuerza Bruta
-18,64,282,87.3099,Fuerza Bruta
-19,64,604,173.289,Fuerza Bruta
-20,64,332,348.904,Fuerza Bruta
-21,64,375,697.916,Fuerza Bruta
-22,64,301,1442.19,Fuerza Bruta
-23,64,493,2929.3,Fuerza Bruta
-24,64,274,6092.05,Fuerza Bruta
-25,64,480,12361.7,Fuerza Bruta
-26,64,326,25302.9,Fuerza Bruta
-1,65,97,0.006407,Fuerza Bruta
-2,65,114,0.011797,Fuerza Bruta
-3,65,172,0.023303,Fuerza Bruta
-4,65,43,0.021404,Fuerza Bruta
-5,65,138,0.02673,Fuerza Bruta
-6,65,147,0.027211,Fuerza Bruta
-7,65,175,0.060721,Fuerza Bruta
-8,65,149,0.096719,Fuerza Bruta
-9,65,346,0.173355,Fuerza Bruta
-10,65,88,0.338384,Fuerza Bruta
-11,65,166,0.582502,Fuerza Bruta
-12,65,195,1.63816,Fuerza Bruta
-13,65,280,2.44889,Fuerza Bruta
-14,65,258,5.02742,Fuerza Bruta
-15,65,400,9.82602,Fuerza Bruta
-16,65,224,24.1474,Fuerza Bruta
-17,65,300,47.0079,Fuerza Bruta
-18,65,297,85.7692,Fuerza Bruta
-19,65,303,171.988,Fuerza Bruta
-20,65,272,345.95,Fuerza Bruta
-21,65,311,704.445,Fuerza Bruta
-22,65,276,1456.74,Fuerza Bruta
-23,65,353,2958.86,Fuerza Bruta
-24,65,419,6089.29,Fuerza Bruta
-25,65,271,12431.3,Fuerza Bruta
-26,65,323,25241.5,Fuerza Bruta
-1,66,42,0.008145,Fuerza Bruta
-2,66,87,0.011304,Fuerza Bruta
-3,66,90,0.018853,Fuerza Bruta
-4,66,179,0.03711,Fuerza Bruta
-5,66,150,0.027288,Fuerza Bruta
-6,66,138,0.034907,Fuerza Bruta
-7,66,209,0.056208,Fuerza Bruta
-8,66,176,0.082243,Fuerza Bruta
-9,66,259,0.159859,Fuerza Bruta
-10,66,300,0.31094,Fuerza Bruta
-11,66,192,0.789306,Fuerza Bruta
-12,66,263,1.37786,Fuerza Bruta
-13,66,377,2.50936,Fuerza Bruta
-14,66,360,6.25249,Fuerza Bruta
-15,66,419,10.6752,Fuerza Bruta
-16,66,199,25.314,Fuerza Bruta
-17,66,386,43.5851,Fuerza Bruta
-18,66,341,88.2405,Fuerza Bruta
-19,66,186,174.125,Fuerza Bruta
-20,66,391,347.208,Fuerza Bruta
-21,66,256,733.829,Fuerza Bruta
-22,66,221,1456.71,Fuerza Bruta
-23,66,341,2981.27,Fuerza Bruta
-24,66,342,6068.59,Fuerza Bruta
-25,66,287,12411.3,Fuerza Bruta
-26,66,339,25200.3,Fuerza Bruta
-1,67,31,0.008761,Fuerza Bruta
-2,67,146,0.014449,Fuerza Bruta
-3,67,194,0.021239,Fuerza Bruta
-4,67,91,0.020637,Fuerza Bruta
-5,67,158,0.034099,Fuerza Bruta
-6,67,148,0.054422,Fuerza Bruta
-7,67,205,0.052425,Fuerza Bruta
-8,67,145,0.091102,Fuerza Bruta
-9,67,268,0.198379,Fuerza Bruta
-10,67,319,0.392108,Fuerza Bruta
-11,67,246,0.89729,Fuerza Bruta
-12,67,220,1.77269,Fuerza Bruta
-13,67,152,3.21156,Fuerza Bruta
-14,67,314,5.90349,Fuerza Bruta
-15,67,249,12.6445,Fuerza Bruta
-16,67,260,20.4121,Fuerza Bruta
-17,67,335,43.4684,Fuerza Bruta
-18,67,187,88.6444,Fuerza Bruta
-19,67,185,172.317,Fuerza Bruta
-20,67,306,352.725,Fuerza Bruta
-21,67,177,710.372,Fuerza Bruta
-22,67,359,1453.02,Fuerza Bruta
-23,67,336,2964.45,Fuerza Bruta
-24,67,460,6011.42,Fuerza Bruta
-25,67,579,12231.7,Fuerza Bruta
-26,67,399,25518.4,Fuerza Bruta
-1,68,64,0.010031,Fuerza Bruta
-2,68,90,0.011488,Fuerza Bruta
-3,68,98,0.025585,Fuerza Bruta
-4,68,43,0.022264,Fuerza Bruta
-5,68,181,0.040723,Fuerza Bruta
-6,68,158,0.047716,Fuerza Bruta
-7,68,196,0.060522,Fuerza Bruta
-8,68,122,0.081391,Fuerza Bruta
-9,68,216,0.191719,Fuerza Bruta
-10,68,246,0.436526,Fuerza Bruta
-11,68,152,0.771678,Fuerza Bruta
-12,68,264,1.56087,Fuerza Bruta
-13,68,390,2.8987,Fuerza Bruta
-14,68,258,6.95528,Fuerza Bruta
-15,68,225,11.9944,Fuerza Bruta
-16,68,153,25.3644,Fuerza Bruta
-17,68,307,44.778,Fuerza Bruta
-18,68,352,84.2328,Fuerza Bruta
-19,68,324,169.412,Fuerza Bruta
-20,68,278,350.525,Fuerza Bruta
-21,68,204,714.858,Fuerza Bruta
-22,68,491,1428.86,Fuerza Bruta
-23,68,298,2986.85,Fuerza Bruta
-24,68,380,6069.43,Fuerza Bruta
-25,68,349,12415.5,Fuerza Bruta
-26,68,306,25226.1,Fuerza Bruta
-1,69,79,0.009718,Fuerza Bruta
-2,69,92,0.015568,Fuerza Bruta
-3,69,153,0.014421,Fuerza Bruta
-4,69,142,0.016404,Fuerza Bruta
-5,69,116,0.02492,Fuerza Bruta
-6,69,146,0.062599,Fuerza Bruta
-7,69,224,0.069932,Fuerza Bruta
-8,69,91,0.11119,Fuerza Bruta
-9,69,235,0.185353,Fuerza Bruta
-10,69,157,0.367564,Fuerza Bruta
-11,69,246,0.617992,Fuerza Bruta
-12,69,177,1.92249,Fuerza Bruta
-13,69,158,2.98565,Fuerza Bruta
-14,69,280,5.62088,Fuerza Bruta
-15,69,223,11.3653,Fuerza Bruta
-16,69,185,20.5461,Fuerza Bruta
-17,69,357,43.4451,Fuerza Bruta
-18,69,399,82.2177,Fuerza Bruta
-19,69,385,170.985,Fuerza Bruta
-20,69,527,344.5,Fuerza Bruta
-21,69,251,703.749,Fuerza Bruta
-22,69,265,1454.68,Fuerza Bruta
-23,69,245,2984.07,Fuerza Bruta
-24,69,284,6098.97,Fuerza Bruta
-25,69,381,12398.7,Fuerza Bruta
-26,69,355,25242.1,Fuerza Bruta
-1,70,79,0.007431,Fuerza Bruta
-2,70,71,0.019872,Fuerza Bruta
-3,70,99,0.042399,Fuerza Bruta
-4,70,165,0.018997,Fuerza Bruta
-5,70,156,0.023859,Fuerza Bruta
-6,70,93,0.048752,Fuerza Bruta
-7,70,189,0.046143,Fuerza Bruta
-8,70,186,0.097832,Fuerza Bruta
-9,70,192,0.189888,Fuerza Bruta
-10,70,323,0.312497,Fuerza Bruta
-11,70,250,0.689329,Fuerza Bruta
-12,70,277,1.27317,Fuerza Bruta
-13,70,324,3.31285,Fuerza Bruta
-14,70,349,5.97057,Fuerza Bruta
-15,70,322,10.0163,Fuerza Bruta
-16,70,231,23.1455,Fuerza Bruta
-17,70,316,40.6212,Fuerza Bruta
-18,70,379,89.1298,Fuerza Bruta
-19,70,174,171.757,Fuerza Bruta
-20,70,374,343.338,Fuerza Bruta
-21,70,337,709.772,Fuerza Bruta
-22,70,359,1444.33,Fuerza Bruta
-23,70,566,2938.42,Fuerza Bruta
-24,70,274,6084.43,Fuerza Bruta
-25,70,356,12348.3,Fuerza Bruta
-26,70,611,25047.3,Fuerza Bruta
-1,71,60,0.006323,Fuerza Bruta
-2,71,103,0.011941,Fuerza Bruta
-3,71,41,0.023348,Fuerza Bruta
-4,71,143,0.026368,Fuerza Bruta
-5,71,124,0.0204,Fuerza Bruta
-6,71,175,0.038503,Fuerza Bruta
-7,71,137,0.054731,Fuerza Bruta
-8,71,310,0.088526,Fuerza Bruta
-9,71,199,0.148418,Fuerza Bruta
-10,71,331,0.387555,Fuerza Bruta
-11,71,284,0.596868,Fuerza Bruta
-12,71,239,1.1971,Fuerza Bruta
-13,71,200,2.56941,Fuerza Bruta
-14,71,399,6.00564,Fuerza Bruta
-15,71,190,12.7201,Fuerza Bruta
-16,71,339,20.2432,Fuerza Bruta
-17,71,313,40.3619,Fuerza Bruta
-18,71,364,87.3776,Fuerza Bruta
-19,71,373,172.666,Fuerza Bruta
-20,71,461,342.446,Fuerza Bruta
-21,71,504,692.784,Fuerza Bruta
-22,71,473,1419.25,Fuerza Bruta
-23,71,271,2979.74,Fuerza Bruta
-24,71,421,6038.11,Fuerza Bruta
-25,71,589,12179,Fuerza Bruta
-26,71,306,25234.6,Fuerza Bruta
-1,72,13,0.00541,Fuerza Bruta
-2,72,62,0.010291,Fuerza Bruta
-3,72,148,0.044027,Fuerza Bruta
-4,72,148,0.016522,Fuerza Bruta
-5,72,164,0.024688,Fuerza Bruta
-6,72,115,0.038671,Fuerza Bruta
-7,72,166,0.055924,Fuerza Bruta
-8,72,248,0.089659,Fuerza Bruta
-9,72,163,0.209758,Fuerza Bruta
-10,72,281,0.413003,Fuerza Bruta
-11,72,308,0.936114,Fuerza Bruta
-12,72,350,1.28926,Fuerza Bruta
-13,72,200,2.55767,Fuerza Bruta
-14,72,229,4.97912,Fuerza Bruta
-15,72,317,12.8681,Fuerza Bruta
-16,72,166,20.7421,Fuerza Bruta
-17,72,272,41.1666,Fuerza Bruta
-18,72,371,85.5876,Fuerza Bruta
-19,72,245,169.179,Fuerza Bruta
-20,72,528,337.147,Fuerza Bruta
-21,72,229,709.827,Fuerza Bruta
-22,72,405,1452.25,Fuerza Bruta
-23,72,328,2979.52,Fuerza Bruta
-24,72,467,6043.5,Fuerza Bruta
-25,72,229,12419.8,Fuerza Bruta
-26,72,226,25241.8,Fuerza Bruta
-1,73,23,0.006508,Fuerza Bruta
-2,73,88,0.010941,Fuerza Bruta
-3,73,147,0.013089,Fuerza Bruta
-4,73,83,0.015594,Fuerza Bruta
-5,73,275,0.02275,Fuerza Bruta
-6,73,112,0.046388,Fuerza Bruta
-7,73,289,0.051469,Fuerza Bruta
-8,73,121,0.080627,Fuerza Bruta
-9,73,283,0.164197,Fuerza Bruta
-10,73,170,0.36035,Fuerza Bruta
-11,73,151,0.762037,Fuerza Bruta
-12,73,191,1.55555,Fuerza Bruta
-13,73,224,2.53176,Fuerza Bruta
-14,73,263,6.42311,Fuerza Bruta
-15,73,114,13.9771,Fuerza Bruta
-16,73,311,24.4521,Fuerza Bruta
-17,73,382,44.9701,Fuerza Bruta
-18,73,389,87.6357,Fuerza Bruta
-19,73,255,169.654,Fuerza Bruta
-20,73,214,350.731,Fuerza Bruta
-21,73,295,709.192,Fuerza Bruta
-22,73,424,1441.04,Fuerza Bruta
-23,73,329,2946.3,Fuerza Bruta
-24,73,510,5999.81,Fuerza Bruta
-25,73,430,12387.5,Fuerza Bruta
-26,73,505,25022.6,Fuerza Bruta
-1,74,39,0.01927,Fuerza Bruta
-2,74,27,0.012586,Fuerza Bruta
-3,74,55,0.017702,Fuerza Bruta
-4,74,188,0.020972,Fuerza Bruta
-5,74,142,0.027775,Fuerza Bruta
-6,74,237,0.035082,Fuerza Bruta
-7,74,227,0.042961,Fuerza Bruta
-8,74,109,0.093641,Fuerza Bruta
-9,74,265,0.152522,Fuerza Bruta
-10,74,230,0.39161,Fuerza Bruta
-11,74,232,0.740241,Fuerza Bruta
-12,74,190,1.44298,Fuerza Bruta
-13,74,214,3.09392,Fuerza Bruta
-14,74,169,4.89304,Fuerza Bruta
-15,74,141,10.3136,Fuerza Bruta
-16,74,263,20.1815,Fuerza Bruta
-17,74,303,46.3637,Fuerza Bruta
-18,74,382,84.2418,Fuerza Bruta
-19,74,250,171.642,Fuerza Bruta
-20,74,293,342.748,Fuerza Bruta
-21,74,409,699.039,Fuerza Bruta
-22,74,278,1453.67,Fuerza Bruta
-23,74,250,2977.41,Fuerza Bruta
-24,74,237,6116.1,Fuerza Bruta
-25,74,395,12405.9,Fuerza Bruta
-26,74,365,25184,Fuerza Bruta
-1,75,18,0.005837,Fuerza Bruta
-2,75,91,0.014138,Fuerza Bruta
-3,75,186,0.026562,Fuerza Bruta
-4,75,113,0.02163,Fuerza Bruta
-5,75,47,0.023547,Fuerza Bruta
-6,75,139,0.029162,Fuerza Bruta
-7,75,182,0.077518,Fuerza Bruta
-8,75,107,0.085931,Fuerza Bruta
-9,75,305,0.15439,Fuerza Bruta
-10,75,293,0.451098,Fuerza Bruta
-11,75,346,0.611826,Fuerza Bruta
-12,75,253,1.7492,Fuerza Bruta
-13,75,414,3.44421,Fuerza Bruta
-14,75,226,6.38717,Fuerza Bruta
-15,75,326,11.1041,Fuerza Bruta
-16,75,423,27.1327,Fuerza Bruta
-17,75,202,41.5336,Fuerza Bruta
-18,75,242,90.0094,Fuerza Bruta
-19,75,186,172.741,Fuerza Bruta
-20,75,250,345.019,Fuerza Bruta
-21,75,287,711.123,Fuerza Bruta
-22,75,328,1449.17,Fuerza Bruta
-23,75,331,2977.97,Fuerza Bruta
-24,75,337,6087.85,Fuerza Bruta
-25,75,228,12447.5,Fuerza Bruta
-26,75,381,25191.7,Fuerza Bruta
-1,76,43,0.005444,Fuerza Bruta
-2,76,159,0.01356,Fuerza Bruta
-3,76,79,0.025558,Fuerza Bruta
-4,76,145,0.019795,Fuerza Bruta
-5,76,168,0.037711,Fuerza Bruta
-6,76,238,0.036756,Fuerza Bruta
-7,76,202,0.068338,Fuerza Bruta
-8,76,160,0.096171,Fuerza Bruta
-9,76,153,0.173231,Fuerza Bruta
-10,76,183,0.40613,Fuerza Bruta
-11,76,206,0.88824,Fuerza Bruta
-12,76,196,1.6348,Fuerza Bruta
-13,76,459,3.31005,Fuerza Bruta
-14,76,222,5.92512,Fuerza Bruta
-15,76,384,13.6776,Fuerza Bruta
-16,76,235,26.36,Fuerza Bruta
-17,76,200,43.9518,Fuerza Bruta
-18,76,344,85.1713,Fuerza Bruta
-19,76,282,172.658,Fuerza Bruta
-20,76,346,343.328,Fuerza Bruta
-21,76,325,712.782,Fuerza Bruta
-22,76,354,1444.24,Fuerza Bruta
-23,76,244,2987.63,Fuerza Bruta
-24,76,260,6048.22,Fuerza Bruta
-25,76,425,12324.2,Fuerza Bruta
-26,76,429,24892.9,Fuerza Bruta
-1,77,33,0.00579,Fuerza Bruta
-2,77,90,0.011355,Fuerza Bruta
-3,77,158,0.023994,Fuerza Bruta
-4,77,122,0.027348,Fuerza Bruta
-5,77,85,0.036056,Fuerza Bruta
-6,77,207,0.050179,Fuerza Bruta
-7,77,158,0.046119,Fuerza Bruta
-8,77,163,0.122124,Fuerza Bruta
-9,77,181,0.186382,Fuerza Bruta
-10,77,142,0.368741,Fuerza Bruta
-11,77,143,0.757148,Fuerza Bruta
-12,77,196,1.4827,Fuerza Bruta
-13,77,256,2.94189,Fuerza Bruta
-14,77,276,5.07571,Fuerza Bruta
-15,77,216,10.2012,Fuerza Bruta
-16,77,189,25.6992,Fuerza Bruta
-17,77,472,44.7432,Fuerza Bruta
-18,77,393,90.3391,Fuerza Bruta
-19,77,424,168.096,Fuerza Bruta
-20,77,326,344.715,Fuerza Bruta
-21,77,312,702.938,Fuerza Bruta
-22,77,385,1442.39,Fuerza Bruta
-23,77,293,2982.68,Fuerza Bruta
-24,77,483,6032.59,Fuerza Bruta
-25,77,455,12328.6,Fuerza Bruta
-26,77,501,25026.8,Fuerza Bruta
-1,78,86,0.005927,Fuerza Bruta
-2,78,44,0.011066,Fuerza Bruta
-3,78,56,0.020421,Fuerza Bruta
-4,78,144,0.019847,Fuerza Bruta
-5,78,99,0.042658,Fuerza Bruta
-6,78,85,0.029573,Fuerza Bruta
-7,78,197,0.077015,Fuerza Bruta
-8,78,272,0.113386,Fuerza Bruta
-9,78,182,0.207926,Fuerza Bruta
-10,78,213,0.39233,Fuerza Bruta
-11,78,363,0.845367,Fuerza Bruta
-12,78,268,1.63259,Fuerza Bruta
-13,78,273,3.24541,Fuerza Bruta
-14,78,291,5.5211,Fuerza Bruta
-15,78,251,13.3359,Fuerza Bruta
-16,78,416,25.1479,Fuerza Bruta
-17,78,296,46.4195,Fuerza Bruta
-18,78,269,85.9499,Fuerza Bruta
-19,78,322,169.216,Fuerza Bruta
-20,78,301,343.984,Fuerza Bruta
-21,78,441,704.832,Fuerza Bruta
-22,78,398,1440.78,Fuerza Bruta
-23,78,376,2980.92,Fuerza Bruta
-24,78,360,6095.37,Fuerza Bruta
-25,78,353,12444.6,Fuerza Bruta
-26,78,264,25330.9,Fuerza Bruta
-1,79,78,0.006189,Fuerza Bruta
-2,79,15,0.018612,Fuerza Bruta
-3,79,53,0.024429,Fuerza Bruta
-4,79,170,0.029474,Fuerza Bruta
-5,79,184,0.025675,Fuerza Bruta
-6,79,123,0.033066,Fuerza Bruta
-7,79,189,0.053834,Fuerza Bruta
-8,79,235,0.111713,Fuerza Bruta
-9,79,149,0.250507,Fuerza Bruta
-10,79,208,0.423958,Fuerza Bruta
-11,79,257,0.608912,Fuerza Bruta
-12,79,168,1.57463,Fuerza Bruta
-13,79,207,2.85894,Fuerza Bruta
-14,79,271,6.9892,Fuerza Bruta
-15,79,243,11.424,Fuerza Bruta
-16,79,286,20.0643,Fuerza Bruta
-17,79,284,43.5123,Fuerza Bruta
-18,79,357,84.4349,Fuerza Bruta
-19,79,302,171.847,Fuerza Bruta
-20,79,436,345.13,Fuerza Bruta
-21,79,315,707.251,Fuerza Bruta
-22,79,311,1451.9,Fuerza Bruta
-23,79,208,2986.39,Fuerza Bruta
-24,79,339,6085.25,Fuerza Bruta
-25,79,424,12265.6,Fuerza Bruta
-26,79,233,25324.1,Fuerza Bruta
-1,80,22,0.006415,Fuerza Bruta
-2,80,167,0.012617,Fuerza Bruta
-3,80,92,0.035326,Fuerza Bruta
-4,80,141,0.01976,Fuerza Bruta
-5,80,134,0.019691,Fuerza Bruta
-6,80,121,0.037213,Fuerza Bruta
-7,80,102,0.064407,Fuerza Bruta
-8,80,189,0.120483,Fuerza Bruta
-9,80,165,0.213688,Fuerza Bruta
-10,80,168,0.424274,Fuerza Bruta
-11,80,244,0.765691,Fuerza Bruta
-12,80,333,1.86401,Fuerza Bruta
-13,80,232,2.95625,Fuerza Bruta
-14,80,232,7.49683,Fuerza Bruta
-15,80,303,12.8955,Fuerza Bruta
-16,80,240,20.6247,Fuerza Bruta
-17,80,429,43.1153,Fuerza Bruta
-18,80,385,86.6425,Fuerza Bruta
-19,80,249,172.794,Fuerza Bruta
-20,80,334,344.384,Fuerza Bruta
-21,80,411,704.491,Fuerza Bruta
-22,80,311,1458.82,Fuerza Bruta
-23,80,514,2971.9,Fuerza Bruta
-24,80,455,6076.39,Fuerza Bruta
-25,80,148,12447.9,Fuerza Bruta
-26,80,451,25321.9,Fuerza Bruta
-1,81,88,0.006889,Fuerza Bruta
-2,81,56,0.012236,Fuerza Bruta
-3,81,141,0.029753,Fuerza Bruta
-4,81,77,0.040046,Fuerza Bruta
-5,81,171,0.029229,Fuerza Bruta
-6,81,199,0.036417,Fuerza Bruta
-7,81,98,0.113943,Fuerza Bruta
-8,81,132,0.124559,Fuerza Bruta
-9,81,132,0.161249,Fuerza Bruta
-10,81,154,0.375154,Fuerza Bruta
-11,81,335,0.959711,Fuerza Bruta
-12,81,263,1.59995,Fuerza Bruta
-13,81,284,2.59436,Fuerza Bruta
-14,81,527,6.26475,Fuerza Bruta
-15,81,142,9.99892,Fuerza Bruta
-16,81,406,19.7981,Fuerza Bruta
-17,81,407,45.6104,Fuerza Bruta
-18,81,422,86.02,Fuerza Bruta
-19,81,250,172.764,Fuerza Bruta
-20,81,437,343.615,Fuerza Bruta
-21,81,358,699.12,Fuerza Bruta
-22,81,303,1450.06,Fuerza Bruta
-23,81,210,2981.05,Fuerza Bruta
-24,81,339,6045.44,Fuerza Bruta
-25,81,313,12446.1,Fuerza Bruta
-26,81,389,25209.9,Fuerza Bruta
-1,82,74,0.005476,Fuerza Bruta
-2,82,66,0.014963,Fuerza Bruta
-3,82,87,0.028769,Fuerza Bruta
-4,82,166,0.021976,Fuerza Bruta
-5,82,158,0.019188,Fuerza Bruta
-6,82,151,0.040144,Fuerza Bruta
-7,82,194,0.062034,Fuerza Bruta
-8,82,166,0.10459,Fuerza Bruta
-9,82,255,0.182259,Fuerza Bruta
-10,82,142,0.458629,Fuerza Bruta
-11,82,99,0.632929,Fuerza Bruta
-12,82,294,1.6216,Fuerza Bruta
-13,82,268,2.94088,Fuerza Bruta
-14,82,265,5.39435,Fuerza Bruta
-15,82,257,10.6026,Fuerza Bruta
-16,82,328,25.0242,Fuerza Bruta
-17,82,200,44.843,Fuerza Bruta
-18,82,231,86.1344,Fuerza Bruta
-19,82,424,170.051,Fuerza Bruta
-20,82,313,346.76,Fuerza Bruta
-21,82,226,713.649,Fuerza Bruta
-22,82,350,1446.93,Fuerza Bruta
-23,82,431,2970.16,Fuerza Bruta
-24,82,287,6103.28,Fuerza Bruta
-25,82,298,12436.9,Fuerza Bruta
-26,82,291,25240.5,Fuerza Bruta
-1,83,65,0.006687,Fuerza Bruta
-2,83,71,0.012449,Fuerza Bruta
-3,83,126,0.025711,Fuerza Bruta
-4,83,99,0.02095,Fuerza Bruta
-5,83,165,0.023484,Fuerza Bruta
-6,83,186,0.031275,Fuerza Bruta
-7,83,153,0.058995,Fuerza Bruta
-8,83,196,0.088904,Fuerza Bruta
-9,83,237,0.262258,Fuerza Bruta
-10,83,311,0.422351,Fuerza Bruta
-11,83,261,0.695813,Fuerza Bruta
-12,83,368,1.74783,Fuerza Bruta
-13,83,263,3.36436,Fuerza Bruta
-14,83,232,6.91432,Fuerza Bruta
-15,83,330,13.1826,Fuerza Bruta
-16,83,360,25.2288,Fuerza Bruta
-17,83,307,46.768,Fuerza Bruta
-18,83,444,84.5774,Fuerza Bruta
-19,83,385,169.988,Fuerza Bruta
-20,83,424,345.26,Fuerza Bruta
-21,83,330,707.1,Fuerza Bruta
-22,83,309,1453.37,Fuerza Bruta
-23,83,342,2976.37,Fuerza Bruta
-24,83,449,6038.17,Fuerza Bruta
-25,83,505,12239.2,Fuerza Bruta
-26,83,323,25212.6,Fuerza Bruta
-1,84,59,0.007336,Fuerza Bruta
-2,84,60,0.012405,Fuerza Bruta
-3,84,106,0.035483,Fuerza Bruta
-4,84,142,0.022605,Fuerza Bruta
-5,84,181,0.039572,Fuerza Bruta
-6,84,164,0.038004,Fuerza Bruta
-7,84,120,0.083007,Fuerza Bruta
-8,84,246,0.111981,Fuerza Bruta
-9,84,162,0.258689,Fuerza Bruta
-10,84,162,0.322338,Fuerza Bruta
-11,84,315,0.586065,Fuerza Bruta
-12,84,160,1.93929,Fuerza Bruta
-13,84,268,3.35801,Fuerza Bruta
-14,84,219,6.4058,Fuerza Bruta
-15,84,312,10.7356,Fuerza Bruta
-16,84,356,20.1294,Fuerza Bruta
-17,84,307,45.0754,Fuerza Bruta
-18,84,321,84.9375,Fuerza Bruta
-19,84,197,172.551,Fuerza Bruta
-20,84,233,345.173,Fuerza Bruta
-21,84,381,713.089,Fuerza Bruta
-22,84,333,1442.2,Fuerza Bruta
-23,84,300,2983.36,Fuerza Bruta
-24,84,390,6073.16,Fuerza Bruta
-25,84,352,12446.2,Fuerza Bruta
-26,84,300,25311.1,Fuerza Bruta
-1,85,85,0.005665,Fuerza Bruta
-2,85,6,0.017921,Fuerza Bruta
-3,85,131,0.040866,Fuerza Bruta
-4,85,149,0.019827,Fuerza Bruta
-5,85,165,0.02538,Fuerza Bruta
-6,85,283,0.027446,Fuerza Bruta
-7,85,189,0.047766,Fuerza Bruta
-8,85,193,0.099844,Fuerza Bruta
-9,85,311,0.169372,Fuerza Bruta
-10,85,145,0.371113,Fuerza Bruta
-11,85,260,0.808188,Fuerza Bruta
-12,85,211,1.3897,Fuerza Bruta
-13,85,277,3.72186,Fuerza Bruta
-14,85,224,6.89987,Fuerza Bruta
-15,85,315,10.4778,Fuerza Bruta
-16,85,277,24.5204,Fuerza Bruta
-17,85,249,41.4923,Fuerza Bruta
-18,85,195,87.8994,Fuerza Bruta
-19,85,237,169.57,Fuerza Bruta
-20,85,431,344.043,Fuerza Bruta
-21,85,418,698.081,Fuerza Bruta
-22,85,357,1447.6,Fuerza Bruta
-23,85,397,2992.18,Fuerza Bruta
-24,85,272,6111.17,Fuerza Bruta
-25,85,280,12436.1,Fuerza Bruta
-26,85,540,24985.6,Fuerza Bruta
-1,86,86,0.009747,Fuerza Bruta
-2,86,77,0.013695,Fuerza Bruta
-3,86,96,0.019044,Fuerza Bruta
-4,86,84,0.023538,Fuerza Bruta
-5,86,131,0.02229,Fuerza Bruta
-6,86,210,0.035837,Fuerza Bruta
-7,86,275,0.044373,Fuerza Bruta
-8,86,276,0.108156,Fuerza Bruta
-9,86,218,0.169221,Fuerza Bruta
-10,86,158,0.378108,Fuerza Bruta
-11,86,246,0.805132,Fuerza Bruta
-12,86,283,1.45748,Fuerza Bruta
-13,86,346,3.52818,Fuerza Bruta
-14,86,329,7.61877,Fuerza Bruta
-15,86,309,12.3049,Fuerza Bruta
-16,86,264,25.3732,Fuerza Bruta
-17,86,252,44.6431,Fuerza Bruta
-18,86,403,85.6158,Fuerza Bruta
-19,86,186,174.404,Fuerza Bruta
-20,86,379,342.052,Fuerza Bruta
-21,86,259,707.308,Fuerza Bruta
-22,86,429,1424.31,Fuerza Bruta
-23,86,227,2986.37,Fuerza Bruta
-24,86,403,6092.37,Fuerza Bruta
-25,86,373,12388.8,Fuerza Bruta
-26,86,281,25253.2,Fuerza Bruta
-1,87,31,0.007414,Fuerza Bruta
-2,87,110,0.017237,Fuerza Bruta
-3,87,144,0.038652,Fuerza Bruta
-4,87,165,0.017191,Fuerza Bruta
-5,87,281,0.021763,Fuerza Bruta
-6,87,129,0.028441,Fuerza Bruta
-7,87,187,0.056763,Fuerza Bruta
-8,87,168,0.095498,Fuerza Bruta
-9,87,154,0.255346,Fuerza Bruta
-10,87,138,0.375694,Fuerza Bruta
-11,87,184,0.721006,Fuerza Bruta
-12,87,287,1.55235,Fuerza Bruta
-13,87,234,3.57306,Fuerza Bruta
-14,87,325,6.61752,Fuerza Bruta
-15,87,332,12.3424,Fuerza Bruta
-16,87,374,23.0057,Fuerza Bruta
-17,87,169,44.9851,Fuerza Bruta
-18,87,358,84.8859,Fuerza Bruta
-19,87,197,172.622,Fuerza Bruta
-20,87,258,350.471,Fuerza Bruta
-21,87,244,713.308,Fuerza Bruta
-22,87,342,1444.36,Fuerza Bruta
-23,87,376,2981.86,Fuerza Bruta
-24,87,387,6029.63,Fuerza Bruta
-25,87,387,12396,Fuerza Bruta
-26,87,355,25256.1,Fuerza Bruta
-1,88,75,0.017922,Fuerza Bruta
-2,88,85,0.015452,Fuerza Bruta
-3,88,73,0.026332,Fuerza Bruta
-4,88,165,0.024442,Fuerza Bruta
-5,88,120,0.027505,Fuerza Bruta
-6,88,213,0.027336,Fuerza Bruta
-7,88,260,0.059612,Fuerza Bruta
-8,88,254,0.095183,Fuerza Bruta
-9,88,184,0.236669,Fuerza Bruta
-10,88,168,0.469935,Fuerza Bruta
-11,88,251,0.699352,Fuerza Bruta
-12,88,369,1.62125,Fuerza Bruta
-13,88,354,3.37909,Fuerza Bruta
-14,88,240,6.26637,Fuerza Bruta
-15,88,321,12.0538,Fuerza Bruta
-16,88,205,25.0518,Fuerza Bruta
-17,88,282,43.9571,Fuerza Bruta
-18,88,249,86.7564,Fuerza Bruta
-19,88,335,170.72,Fuerza Bruta
-20,88,317,344.06,Fuerza Bruta
-21,88,322,703.12,Fuerza Bruta
-22,88,345,1451.16,Fuerza Bruta
-23,88,371,2964.12,Fuerza Bruta
-24,88,343,6047.96,Fuerza Bruta
-25,88,434,12378.4,Fuerza Bruta
-26,88,324,25271.7,Fuerza Bruta
-1,89,73,0.008549,Fuerza Bruta
-2,89,101,0.015053,Fuerza Bruta
-3,89,125,0.01824,Fuerza Bruta
-4,89,66,0.028976,Fuerza Bruta
-5,89,136,0.02629,Fuerza Bruta
-6,89,166,0.029416,Fuerza Bruta
-7,89,183,0.048863,Fuerza Bruta
-8,89,251,0.08407,Fuerza Bruta
-9,89,239,0.272401,Fuerza Bruta
-10,89,219,0.414891,Fuerza Bruta
-11,89,180,1.0056,Fuerza Bruta
-12,89,283,1.35256,Fuerza Bruta
-13,89,218,3.6511,Fuerza Bruta
-14,89,235,7.02366,Fuerza Bruta
-15,89,334,10.0891,Fuerza Bruta
-16,89,279,25.6246,Fuerza Bruta
-17,89,200,40.9683,Fuerza Bruta
-18,89,378,87.3382,Fuerza Bruta
-19,89,273,174.713,Fuerza Bruta
-20,89,431,342.289,Fuerza Bruta
-21,89,453,690.683,Fuerza Bruta
-22,89,326,1456.13,Fuerza Bruta
-23,89,351,2980.37,Fuerza Bruta
-24,89,321,6077.53,Fuerza Bruta
-25,89,505,12240.9,Fuerza Bruta
-26,89,354,25305.9,Fuerza Bruta
-1,90,60,0.005951,Fuerza Bruta
-2,90,128,0.014259,Fuerza Bruta
-3,90,34,0.030707,Fuerza Bruta
-4,90,186,0.030526,Fuerza Bruta
-5,90,133,0.027563,Fuerza Bruta
-6,90,116,0.02865,Fuerza Bruta
-7,90,172,0.05085,Fuerza Bruta
-8,90,197,0.128195,Fuerza Bruta
-9,90,321,0.221923,Fuerza Bruta
-10,90,216,0.361794,Fuerza Bruta
-11,90,224,0.676827,Fuerza Bruta
-12,90,269,1.38529,Fuerza Bruta
-13,90,323,3.54752,Fuerza Bruta
-14,90,156,5.71413,Fuerza Bruta
-15,90,240,14.3676,Fuerza Bruta
-16,90,402,25.7308,Fuerza Bruta
-17,90,321,44.5837,Fuerza Bruta
-18,90,439,83.8428,Fuerza Bruta
-19,90,266,171.186,Fuerza Bruta
-20,90,356,342.362,Fuerza Bruta
-21,90,311,705.689,Fuerza Bruta
-22,90,329,1436.68,Fuerza Bruta
-23,90,296,2976.83,Fuerza Bruta
-24,90,381,6049.65,Fuerza Bruta
-25,90,446,12248.3,Fuerza Bruta
-26,90,395,25119,Fuerza Bruta
-1,91,66,0.006503,Fuerza Bruta
-2,91,96,0.018226,Fuerza Bruta
-3,91,99,0.03512,Fuerza Bruta
-4,91,145,0.029053,Fuerza Bruta
-5,91,131,0.022054,Fuerza Bruta
-6,91,92,0.035858,Fuerza Bruta
-7,91,278,0.058088,Fuerza Bruta
-8,91,151,0.096671,Fuerza Bruta
-9,91,256,0.218714,Fuerza Bruta
-10,91,146,0.426587,Fuerza Bruta
-11,91,233,0.613236,Fuerza Bruta
-12,91,148,1.74536,Fuerza Bruta
-13,91,268,2.69581,Fuerza Bruta
-14,91,126,6.6918,Fuerza Bruta
-15,91,234,13.7563,Fuerza Bruta
-16,91,344,20.1738,Fuerza Bruta
-17,91,335,45.6613,Fuerza Bruta
-18,91,124,87.1024,Fuerza Bruta
-19,91,252,171.087,Fuerza Bruta
-20,91,379,344.167,Fuerza Bruta
-21,91,274,707.84,Fuerza Bruta
-22,91,358,1432.8,Fuerza Bruta
-23,91,362,2974.5,Fuerza Bruta
-24,91,229,6098.34,Fuerza Bruta
-25,91,441,12411.7,Fuerza Bruta
-26,91,550,25079.3,Fuerza Bruta
-1,92,52,0.006891,Fuerza Bruta
-2,92,29,0.010968,Fuerza Bruta
-3,92,99,0.019524,Fuerza Bruta
-4,92,125,0.035979,Fuerza Bruta
-5,92,276,0.041968,Fuerza Bruta
-6,92,156,0.046303,Fuerza Bruta
-7,92,168,0.043196,Fuerza Bruta
-8,92,184,0.080751,Fuerza Bruta
-9,92,152,0.191822,Fuerza Bruta
-10,92,143,0.388608,Fuerza Bruta
-11,92,282,0.862889,Fuerza Bruta
-12,92,279,1.55018,Fuerza Bruta
-13,92,187,2.58535,Fuerza Bruta
-14,92,211,5.15002,Fuerza Bruta
-15,92,223,12.7615,Fuerza Bruta
-16,92,218,23.9374,Fuerza Bruta
-17,92,233,45.097,Fuerza Bruta
-18,92,280,85.1814,Fuerza Bruta
-19,92,295,170.588,Fuerza Bruta
-20,92,386,343.233,Fuerza Bruta
-21,92,411,703.386,Fuerza Bruta
-22,92,329,1450.57,Fuerza Bruta
-23,92,335,2968.06,Fuerza Bruta
-24,92,178,6102.72,Fuerza Bruta
-25,92,428,12361.9,Fuerza Bruta
-26,92,394,25200.9,Fuerza Bruta
-1,93,57,0.007778,Fuerza Bruta
-2,93,113,0.029857,Fuerza Bruta
-3,93,38,0.045599,Fuerza Bruta
-4,93,123,0.02718,Fuerza Bruta
-5,93,180,0.040094,Fuerza Bruta
-6,93,250,0.026937,Fuerza Bruta
-7,93,151,0.055844,Fuerza Bruta
-8,93,184,0.126344,Fuerza Bruta
-9,93,147,0.183951,Fuerza Bruta
-10,93,266,0.423061,Fuerza Bruta
-11,93,280,0.829531,Fuerza Bruta
-12,93,202,1.47453,Fuerza Bruta
-13,93,388,2.99093,Fuerza Bruta
-14,93,185,5.19414,Fuerza Bruta
-15,93,389,11.5434,Fuerza Bruta
-16,93,287,25.2504,Fuerza Bruta
-17,93,160,46.2078,Fuerza Bruta
-18,93,300,85.8226,Fuerza Bruta
-19,93,291,170.458,Fuerza Bruta
-20,93,324,342.123,Fuerza Bruta
-21,93,356,693.928,Fuerza Bruta
-22,93,358,1452.46,Fuerza Bruta
-23,93,288,2992.72,Fuerza Bruta
-24,93,316,6071.17,Fuerza Bruta
-25,93,398,12357.7,Fuerza Bruta
-26,93,341,25278.6,Fuerza Bruta
-1,94,80,0.004944,Fuerza Bruta
-2,94,94,0.011264,Fuerza Bruta
-3,94,68,0.041503,Fuerza Bruta
-4,94,52,0.01614,Fuerza Bruta
-5,94,110,0.026647,Fuerza Bruta
-6,94,272,0.034154,Fuerza Bruta
-7,94,158,0.064586,Fuerza Bruta
-8,94,162,0.114807,Fuerza Bruta
-9,94,116,0.175262,Fuerza Bruta
-10,94,295,0.39543,Fuerza Bruta
-11,94,264,0.726386,Fuerza Bruta
-12,94,172,1.29203,Fuerza Bruta
-13,94,295,2.6229,Fuerza Bruta
-14,94,333,5.50162,Fuerza Bruta
-15,94,433,12.7979,Fuerza Bruta
-16,94,304,26.126,Fuerza Bruta
-17,94,260,49.5159,Fuerza Bruta
-18,94,362,82.4429,Fuerza Bruta
-19,94,332,171.673,Fuerza Bruta
-20,94,355,347.682,Fuerza Bruta
-21,94,404,697.674,Fuerza Bruta
-22,94,276,1447.21,Fuerza Bruta
-23,94,463,2938.77,Fuerza Bruta
-24,94,392,6101.36,Fuerza Bruta
-25,94,326,12429.9,Fuerza Bruta
-26,94,325,25304.4,Fuerza Bruta
-1,95,73,0.00594,Fuerza Bruta
-2,95,67,0.011118,Fuerza Bruta
-3,95,145,0.02922,Fuerza Bruta
-4,95,176,0.022844,Fuerza Bruta
-5,95,147,0.021111,Fuerza Bruta
-6,95,168,0.036162,Fuerza Bruta
-7,95,157,0.057963,Fuerza Bruta
-8,95,197,0.081495,Fuerza Bruta
-9,95,132,0.148148,Fuerza Bruta
-10,95,216,0.365532,Fuerza Bruta
-11,95,275,0.788104,Fuerza Bruta
-12,95,154,1.56508,Fuerza Bruta
-13,95,340,3.02279,Fuerza Bruta
-14,95,361,5.20792,Fuerza Bruta
-15,95,372,10.0404,Fuerza Bruta
-16,95,265,20.3954,Fuerza Bruta
-17,95,231,46.992,Fuerza Bruta
-18,95,284,82.4962,Fuerza Bruta
-19,95,370,170.257,Fuerza Bruta
-20,95,217,345.161,Fuerza Bruta
-21,95,275,710.056,Fuerza Bruta
-22,95,342,1447.43,Fuerza Bruta
-23,95,341,2960.71,Fuerza Bruta
-24,95,497,6016.58,Fuerza Bruta
-25,95,251,12494.6,Fuerza Bruta
-26,95,317,25207.1,Fuerza Bruta
-1,96,30,0.006406,Fuerza Bruta
-2,96,89,0.016888,Fuerza Bruta
-3,96,57,0.032814,Fuerza Bruta
-4,96,201,0.024194,Fuerza Bruta
-5,96,68,0.025527,Fuerza Bruta
-6,96,253,0.028115,Fuerza Bruta
-7,96,230,0.065434,Fuerza Bruta
-8,96,164,0.084971,Fuerza Bruta
-9,96,283,0.27058,Fuerza Bruta
-10,96,120,0.473606,Fuerza Bruta
-11,96,120,0.852399,Fuerza Bruta
-12,96,160,1.59699,Fuerza Bruta
-13,96,267,2.60738,Fuerza Bruta
-14,96,292,5.07108,Fuerza Bruta
-15,96,405,13.3797,Fuerza Bruta
-11,29,298,1.38678,Fuerza Bruta
-16,96,198,21.1489,Fuerza Bruta
-17,96,226,43.6824,Fuerza Bruta
-18,96,472,84.8924,Fuerza Bruta
-19,96,448,167.103,Fuerza Bruta
-20,96,414,344.52,Fuerza Bruta
-21,96,243,710.817,Fuerza Bruta
-22,96,365,1440.1,Fuerza Bruta
-23,96,248,2977.39,Fuerza Bruta
-24,96,322,6087.17,Fuerza Bruta
-25,96,394,12373,Fuerza Bruta
-26,96,258,25312,Fuerza Bruta
-1,97,43,0.007683,Fuerza Bruta
-2,97,68,0.025649,Fuerza Bruta
-3,97,34,0.027596,Fuerza Bruta
-4,97,138,0.020593,Fuerza Bruta
-5,97,137,0.025883,Fuerza Bruta
-6,97,269,0.036629,Fuerza Bruta
-7,97,154,0.088487,Fuerza Bruta
-8,97,298,0.091948,Fuerza Bruta
-9,97,185,0.193395,Fuerza Bruta
-10,97,238,0.409105,Fuerza Bruta
-11,97,393,0.805398,Fuerza Bruta
-12,97,483,1.3482,Fuerza Bruta
-13,97,306,2.60694,Fuerza Bruta
-14,97,164,7.08385,Fuerza Bruta
-15,97,359,12.7903,Fuerza Bruta
-16,97,188,23.5303,Fuerza Bruta
-17,97,225,45.8106,Fuerza Bruta
-18,97,264,85.9504,Fuerza Bruta
-19,97,321,170.374,Fuerza Bruta
-20,97,237,351.752,Fuerza Bruta
-21,97,386,701.224,Fuerza Bruta
-22,97,339,1452.23,Fuerza Bruta
-23,97,361,2970.52,Fuerza Bruta
-24,97,365,6087.49,Fuerza Bruta
-25,97,327,12430.3,Fuerza Bruta
-26,97,320,25317.3,Fuerza Bruta
-1,98,63,0.011266,Fuerza Bruta
-2,98,72,0.010643,Fuerza Bruta
-3,98,93,0.032033,Fuerza Bruta
-4,98,189,0.026909,Fuerza Bruta
-5,98,217,0.022106,Fuerza Bruta
-6,98,311,0.036806,Fuerza Bruta
-7,98,149,0.073143,Fuerza Bruta
-8,98,237,0.113513,Fuerza Bruta
-9,98,221,0.20746,Fuerza Bruta
-10,98,287,0.327346,Fuerza Bruta
-11,98,331,0.798717,Fuerza Bruta
-12,98,166,1.60923,Fuerza Bruta
-13,98,226,3.33301,Fuerza Bruta
-14,98,260,5.82996,Fuerza Bruta
-15,98,322,10.2665,Fuerza Bruta
-16,98,247,25.1812,Fuerza Bruta
-17,98,311,44.5058,Fuerza Bruta
-18,98,219,86.2065,Fuerza Bruta
-19,98,307,170.047,Fuerza Bruta
-20,98,461,346.722,Fuerza Bruta
-21,98,474,701.335,Fuerza Bruta
-22,98,419,1425.73,Fuerza Bruta
-23,98,380,2974.64,Fuerza Bruta
-24,98,360,6043.46,Fuerza Bruta
-25,98,389,12415.9,Fuerza Bruta
-26,98,311,25149.2,Fuerza Bruta
-1,99,52,0.006826,Fuerza Bruta
-2,99,63,0.008456,Fuerza Bruta
-3,99,95,0.024063,Fuerza Bruta
-4,99,36,0.024226,Fuerza Bruta
-5,99,122,0.039188,Fuerza Bruta
-6,99,164,0.038267,Fuerza Bruta
-7,99,193,0.058027,Fuerza Bruta
-8,99,178,0.080611,Fuerza Bruta
-9,99,143,0.175911,Fuerza Bruta
-10,99,272,0.35019,Fuerza Bruta
-11,99,107,0.823154,Fuerza Bruta
-12,99,234,1.56591,Fuerza Bruta
-13,99,256,3.2317,Fuerza Bruta
-14,99,360,7.08577,Fuerza Bruta
-15,99,394,11.1494,Fuerza Bruta
-16,99,339,20.3571,Fuerza Bruta
-17,99,330,40.4278,Fuerza Bruta
-18,99,336,88.5173,Fuerza Bruta
-19,99,186,172.299,Fuerza Bruta
-20,99,330,345.111,Fuerza Bruta
-21,99,350,709.149,Fuerza Bruta
-22,99,319,1461.42,Fuerza Bruta
-23,99,472,2956.45,Fuerza Bruta
-24,99,443,6048.66,Fuerza Bruta
-25,99,267,12446.6,Fuerza Bruta
-26,99,393,25223.5,Fuerza Bruta
-2,100,91,0.014459,Fuerza Bruta
-3,100,73,0.017803,Fuerza Bruta
-4,100,96,0.028423,Fuerza Bruta
-5,100,136,0.040609,Fuerza Bruta
-6,100,170,0.037616,Fuerza Bruta
-7,100,166,0.043623,Fuerza Bruta
-8,100,167,0.132644,Fuerza Bruta
-9,100,168,0.162307,Fuerza Bruta
-10,100,296,0.473725,Fuerza Bruta
-11,100,192,0.854656,Fuerza Bruta
-12,100,106,1.39939,Fuerza Bruta
-13,100,224,3.00213,Fuerza Bruta
-14,100,297,5.55607,Fuerza Bruta
-15,100,239,15.2801,Fuerza Bruta
-16,100,342,24.8256,Fuerza Bruta
-17,100,278,42.8744,Fuerza Bruta
-18,100,308,87.8226,Fuerza Bruta
-19,100,217,177.941,Fuerza Bruta
-20,100,336,364.966,Fuerza Bruta
-21,100,431,726.759,Fuerza Bruta
-22,100,258,1505.18,Fuerza Bruta
-23,100,279,3135.02,Fuerza Bruta
-24,100,366,6445.63,Fuerza Bruta
-25,100,557,12868.1,Fuerza Bruta
-26,100,273,25592.7,Fuerza Bruta
-27,100,542,52205.9,Fuerza Bruta
+2,100,75,0.00794,Fuerza_Bruta
+2,100,75,0.005085,Fuerza_Bruta
+3,100,93,0.008348,Fuerza_Bruta
+4,100,191,0.009075,Fuerza_Bruta
+5,100,205,0.013224,Fuerza_Bruta
+6,100,242,0.017535,Fuerza_Bruta
+7,100,90,0.026026,Fuerza_Bruta
+8,100,261,0.046978,Fuerza_Bruta
+9,100,361,0.087044,Fuerza_Bruta
+10,100,444,0.166432,Fuerza_Bruta
+11,100,269,0.347818,Fuerza_Bruta
+12,100,262,0.671733,Fuerza_Bruta
+13,100,271,1.33854,Fuerza_Bruta
+14,100,292,2.78189,Fuerza_Bruta
+15,100,283,5.55294,Fuerza_Bruta
+16,100,171,11.9476,Fuerza_Bruta
+17,100,207,22.2473,Fuerza_Bruta
+18,100,328,44.9043,Fuerza_Bruta
+19,100,162,91.1482,Fuerza_Bruta
+20,100,456,183.43,Fuerza_Bruta
+21,100,329,373.734,Fuerza_Bruta
+22,100,576,744.846,Fuerza_Bruta
+23,100,316,1530.4,Fuerza_Bruta
+24,100,274,3099.07,Fuerza_Bruta
+25,100,299,6228.96,Fuerza_Bruta
+26,100,251,12579,Fuerza_Bruta
+27,100,427,25520.7,Fuerza_Bruta
+28,100,452,56526.3,Fuerza_Bruta
+29,100,343,127230,Fuerza_Bruta
+30,100,538,273907,Fuerza_Bruta
+31,100,496,519753,Fuerza_Bruta
+32,100,535,1.04772e+06,Fuerza_Bruta
+33,100,388,1.77627e+06,Fuerza_Bruta
+34,100,449,3.56024e+06,Fuerza_Bruta
+35,100,513,7.24258e+06,Fuerza_Bruta
+36,100,556,1.44406e+07,Fuerza_Bruta
+2,2,138,0.022512,Fuerza_Bruta
+3,2,81,0.020671,Fuerza_Bruta
+4,2,113,0.019483,Fuerza_Bruta
+5,2,155,0.022263,Fuerza_Bruta
+6,2,175,0.031723,Fuerza_Bruta
+7,2,158,0.06821,Fuerza_Bruta
+8,2,176,0.098352,Fuerza_Bruta
+9,2,165,0.184714,Fuerza_Bruta
+10,2,185,0.447293,Fuerza_Bruta
+11,2,174,0.650893,Fuerza_Bruta
+12,2,184,1.32697,Fuerza_Bruta
+13,2,191,2.80581,Fuerza_Bruta
+14,2,164,6.20331,Fuerza_Bruta
+15,2,178,12.6265,Fuerza_Bruta
+16,2,180,25.3446,Fuerza_Bruta
+17,2,170,44.0314,Fuerza_Bruta
+18,2,173,86.0188,Fuerza_Bruta
+19,2,191,173.7,Fuerza_Bruta
+20,2,183,347.077,Fuerza_Bruta
+21,2,183,715.635,Fuerza_Bruta
+22,2,190,1465.14,Fuerza_Bruta
+23,2,185,2986.2,Fuerza_Bruta
+24,2,192,6115.36,Fuerza_Bruta
+25,2,169,12447.1,Fuerza_Bruta
+26,2,186,25374.2,Fuerza_Bruta
+1,3,97,0.00776,Fuerza_Bruta
+2,3,105,0.010789,Fuerza_Bruta
+3,3,65,0.01992,Fuerza_Bruta
+4,3,156,0.020432,Fuerza_Bruta
+5,3,105,0.049269,Fuerza_Bruta
+6,3,255,0.032525,Fuerza_Bruta
+7,3,189,0.058294,Fuerza_Bruta
+8,3,175,0.122254,Fuerza_Bruta
+9,3,264,0.21344,Fuerza_Bruta
+10,3,166,0.406475,Fuerza_Bruta
+11,3,230,0.974119,Fuerza_Bruta
+12,3,134,1.46954,Fuerza_Bruta
+13,3,161,2.55417,Fuerza_Bruta
+14,3,235,4.98717,Fuerza_Bruta
+15,3,201,12.7573,Fuerza_Bruta
+16,3,262,25.2033,Fuerza_Bruta
+17,3,206,45.9549,Fuerza_Bruta
+18,3,195,86.8314,Fuerza_Bruta
+19,3,243,172.753,Fuerza_Bruta
+20,3,240,345.169,Fuerza_Bruta
+21,3,187,712.512,Fuerza_Bruta
+22,3,253,1456.2,Fuerza_Bruta
+23,3,213,2983.27,Fuerza_Bruta
+24,3,243,6107.85,Fuerza_Bruta
+25,3,262,12463.7,Fuerza_Bruta
+26,3,262,25296.6,Fuerza_Bruta
+1,4,51,0.005932,Fuerza_Bruta
+2,4,63,0.015057,Fuerza_Bruta
+3,4,226,0.016643,Fuerza_Bruta
+4,4,237,0.021522,Fuerza_Bruta
+5,4,242,0.038338,Fuerza_Bruta
+6,4,302,0.038712,Fuerza_Bruta
+7,4,148,0.074758,Fuerza_Bruta
+8,4,107,0.084437,Fuerza_Bruta
+9,4,137,0.147599,Fuerza_Bruta
+10,4,170,0.372818,Fuerza_Bruta
+11,4,275,0.703128,Fuerza_Bruta
+12,4,268,1.39757,Fuerza_Bruta
+13,4,243,3.09267,Fuerza_Bruta
+14,4,237,6.53648,Fuerza_Bruta
+15,4,326,13.1853,Fuerza_Bruta
+16,4,240,20.3917,Fuerza_Bruta
+17,4,257,43.9197,Fuerza_Bruta
+18,4,277,88.471,Fuerza_Bruta
+19,4,313,171.453,Fuerza_Bruta
+20,4,286,345.711,Fuerza_Bruta
+21,4,265,711.115,Fuerza_Bruta
+22,4,301,1451.5,Fuerza_Bruta
+23,4,209,2979.03,Fuerza_Bruta
+24,4,298,6113.55,Fuerza_Bruta
+25,4,355,12412.5,Fuerza_Bruta
+26,4,271,25288.5,Fuerza_Bruta
+1,5,34,0.006072,Fuerza_Bruta
+2,5,65,0.012192,Fuerza_Bruta
+3,5,131,0.04191,Fuerza_Bruta
+4,5,167,0.060617,Fuerza_Bruta
+5,5,132,0.031839,Fuerza_Bruta
+6,5,210,0.041457,Fuerza_Bruta
+7,5,170,0.05518,Fuerza_Bruta
+8,5,119,0.137584,Fuerza_Bruta
+9,5,140,0.185723,Fuerza_Bruta
+10,5,306,0.311285,Fuerza_Bruta
+11,5,181,0.77879,Fuerza_Bruta
+12,5,199,1.50787,Fuerza_Bruta
+13,5,223,3.01092,Fuerza_Bruta
+14,5,378,5.61606,Fuerza_Bruta
+15,5,178,15.8455,Fuerza_Bruta
+16,5,311,25.135,Fuerza_Bruta
+17,5,231,46.2753,Fuerza_Bruta
+18,5,358,86.5812,Fuerza_Bruta
+19,5,286,173.239,Fuerza_Bruta
+20,5,292,350.704,Fuerza_Bruta
+21,5,378,703.861,Fuerza_Bruta
+22,5,370,1461.86,Fuerza_Bruta
+23,5,397,2948.2,Fuerza_Bruta
+24,5,375,6066.01,Fuerza_Bruta
+25,5,333,12482.8,Fuerza_Bruta
+26,5,335,25267.1,Fuerza_Bruta
+1,6,12,0.008169,Fuerza_Bruta
+2,6,87,0.029473,Fuerza_Bruta
+3,6,157,0.042515,Fuerza_Bruta
+4,6,286,0.034202,Fuerza_Bruta
+5,6,138,0.052487,Fuerza_Bruta
+6,6,142,0.045101,Fuerza_Bruta
+7,6,173,0.053371,Fuerza_Bruta
+8,6,153,0.085864,Fuerza_Bruta
+9,6,188,0.228386,Fuerza_Bruta
+10,6,166,0.336619,Fuerza_Bruta
+11,6,233,0.68232,Fuerza_Bruta
+12,6,207,1.30068,Fuerza_Bruta
+13,6,320,3.32301,Fuerza_Bruta
+14,6,202,5.67082,Fuerza_Bruta
+15,6,254,11.3544,Fuerza_Bruta
+16,6,279,23.8513,Fuerza_Bruta
+17,6,316,40.4992,Fuerza_Bruta
+18,6,380,82.1314,Fuerza_Bruta
+19,6,304,171.635,Fuerza_Bruta
+20,6,422,345.964,Fuerza_Bruta
+21,6,291,710.225,Fuerza_Bruta
+22,6,342,1448.24,Fuerza_Bruta
+23,6,221,2977.72,Fuerza_Bruta
+24,6,402,6091.36,Fuerza_Bruta
+25,6,333,12430.9,Fuerza_Bruta
+26,6,344,25259,Fuerza_Bruta
+1,7,23,0.007157,Fuerza_Bruta
+2,7,136,0.020322,Fuerza_Bruta
+3,7,125,0.024079,Fuerza_Bruta
+4,7,103,0.022182,Fuerza_Bruta
+5,7,146,0.029819,Fuerza_Bruta
+6,7,114,0.03159,Fuerza_Bruta
+7,7,132,0.087638,Fuerza_Bruta
+8,7,160,0.100503,Fuerza_Bruta
+9,7,165,0.206028,Fuerza_Bruta
+10,7,234,0.355388,Fuerza_Bruta
+11,7,316,0.723242,Fuerza_Bruta
+12,7,234,1.23061,Fuerza_Bruta
+13,7,181,2.50005,Fuerza_Bruta
+14,7,175,5.86374,Fuerza_Bruta
+15,7,201,12.3067,Fuerza_Bruta
+16,7,160,23.8789,Fuerza_Bruta
+17,7,324,45.8402,Fuerza_Bruta
+18,7,328,88.569,Fuerza_Bruta
+19,7,301,170.755,Fuerza_Bruta
+20,7,208,344.001,Fuerza_Bruta
+21,7,387,701.456,Fuerza_Bruta
+22,7,277,1447.79,Fuerza_Bruta
+23,7,364,2960.46,Fuerza_Bruta
+24,7,438,6090.15,Fuerza_Bruta
+25,7,387,12445.8,Fuerza_Bruta
+26,7,377,25234.4,Fuerza_Bruta
+1,8,84,0.007871,Fuerza_Bruta
+2,8,90,0.01073,Fuerza_Bruta
+3,8,123,0.03869,Fuerza_Bruta
+4,8,86,0.022122,Fuerza_Bruta
+5,8,238,0.027636,Fuerza_Bruta
+6,8,107,0.030708,Fuerza_Bruta
+7,8,159,0.058639,Fuerza_Bruta
+8,8,291,0.08872,Fuerza_Bruta
+9,8,186,0.209454,Fuerza_Bruta
+10,8,229,0.468165,Fuerza_Bruta
+11,8,206,0.827267,Fuerza_Bruta
+12,8,176,1.71585,Fuerza_Bruta
+13,8,166,2.56474,Fuerza_Bruta
+14,8,348,5.85991,Fuerza_Bruta
+15,8,292,14.5266,Fuerza_Bruta
+16,8,268,20.9127,Fuerza_Bruta
+17,8,313,45.7853,Fuerza_Bruta
+18,8,250,88.2018,Fuerza_Bruta
+19,8,375,170.575,Fuerza_Bruta
+20,8,426,342.789,Fuerza_Bruta
+21,8,372,704,Fuerza_Bruta
+22,8,210,1478.61,Fuerza_Bruta
+23,8,323,3006.63,Fuerza_Bruta
+24,8,247,6111.32,Fuerza_Bruta
+25,8,330,12436.4,Fuerza_Bruta
+26,8,277,25273.7,Fuerza_Bruta
+1,9,63,0.006503,Fuerza_Bruta
+2,9,81,0.016791,Fuerza_Bruta
+3,9,48,0.03772,Fuerza_Bruta
+4,9,139,0.025653,Fuerza_Bruta
+5,9,110,0.01895,Fuerza_Bruta
+6,9,160,0.030165,Fuerza_Bruta
+7,9,106,0.063046,Fuerza_Bruta
+8,9,295,0.108218,Fuerza_Bruta
+9,9,272,0.265205,Fuerza_Bruta
+10,9,237,0.297285,Fuerza_Bruta
+11,9,181,0.802665,Fuerza_Bruta
+12,9,379,1.48372,Fuerza_Bruta
+13,9,239,3.1926,Fuerza_Bruta
+14,9,348,5.80304,Fuerza_Bruta
+15,9,224,12.6579,Fuerza_Bruta
+16,9,201,25.0105,Fuerza_Bruta
+17,9,278,46.0558,Fuerza_Bruta
+18,9,344,85.7607,Fuerza_Bruta
+19,9,186,175.965,Fuerza_Bruta
+20,9,311,343.179,Fuerza_Bruta
+21,9,253,709.997,Fuerza_Bruta
+22,9,338,1448.41,Fuerza_Bruta
+23,9,342,2953.16,Fuerza_Bruta
+24,9,300,6097.49,Fuerza_Bruta
+25,9,344,12341.2,Fuerza_Bruta
+26,9,313,25305.3,Fuerza_Bruta
+1,10,69,0.01876,Fuerza_Bruta
+2,10,62,0.009143,Fuerza_Bruta
+3,10,86,0.018014,Fuerza_Bruta
+4,10,136,0.018556,Fuerza_Bruta
+5,10,273,0.025623,Fuerza_Bruta
+6,10,149,0.035546,Fuerza_Bruta
+7,10,117,0.06491,Fuerza_Bruta
+8,10,193,0.095631,Fuerza_Bruta
+9,10,334,0.185687,Fuerza_Bruta
+10,10,193,0.352312,Fuerza_Bruta
+11,10,335,0.867186,Fuerza_Bruta
+12,10,180,1.41354,Fuerza_Bruta
+13,10,349,3.08608,Fuerza_Bruta
+14,10,239,5.25527,Fuerza_Bruta
+15,10,225,10.2182,Fuerza_Bruta
+16,10,451,25.8466,Fuerza_Bruta
+17,10,406,41.0115,Fuerza_Bruta
+18,10,328,86.2549,Fuerza_Bruta
+19,10,323,173.634,Fuerza_Bruta
+20,10,226,349.388,Fuerza_Bruta
+21,10,361,711.495,Fuerza_Bruta
+22,10,382,1453.19,Fuerza_Bruta
+23,10,398,2946.82,Fuerza_Bruta
+24,10,373,6106.33,Fuerza_Bruta
+25,10,459,12378.6,Fuerza_Bruta
+26,10,267,25301.9,Fuerza_Bruta
+1,11,25,0.006859,Fuerza_Bruta
+2,11,95,0.017314,Fuerza_Bruta
+3,11,30,0.024766,Fuerza_Bruta
+4,11,101,0.026944,Fuerza_Bruta
+5,11,192,0.023985,Fuerza_Bruta
+6,11,189,0.038381,Fuerza_Bruta
+7,11,272,0.048057,Fuerza_Bruta
+8,11,234,0.116665,Fuerza_Bruta
+9,11,179,0.260709,Fuerza_Bruta
+10,11,225,0.365228,Fuerza_Bruta
+11,11,141,0.747112,Fuerza_Bruta
+12,11,176,1.8747,Fuerza_Bruta
+13,11,288,2.90638,Fuerza_Bruta
+14,11,279,6.42596,Fuerza_Bruta
+15,11,246,14.0226,Fuerza_Bruta
+16,11,284,23.9047,Fuerza_Bruta
+17,11,462,45.369,Fuerza_Bruta
+18,11,170,86.7694,Fuerza_Bruta
+19,11,208,173.278,Fuerza_Bruta
+20,11,420,342.395,Fuerza_Bruta
+21,11,250,710.895,Fuerza_Bruta
+22,11,414,1441.16,Fuerza_Bruta
+23,11,285,2981.5,Fuerza_Bruta
+24,11,330,6121.79,Fuerza_Bruta
+25,11,405,12380.5,Fuerza_Bruta
+26,11,323,25217.8,Fuerza_Bruta
+1,12,20,0.007197,Fuerza_Bruta
+2,12,89,0.01312,Fuerza_Bruta
+3,12,78,0.032631,Fuerza_Bruta
+4,12,156,0.023893,Fuerza_Bruta
+5,12,210,0.021513,Fuerza_Bruta
+6,12,135,0.032502,Fuerza_Bruta
+7,12,108,0.099848,Fuerza_Bruta
+8,12,247,0.088986,Fuerza_Bruta
+9,12,193,0.160045,Fuerza_Bruta
+10,12,209,0.396412,Fuerza_Bruta
+11,12,261,0.769215,Fuerza_Bruta
+12,12,224,1.55644,Fuerza_Bruta
+13,12,309,2.96454,Fuerza_Bruta
+14,12,212,5.49341,Fuerza_Bruta
+15,12,205,13.947,Fuerza_Bruta
+16,12,183,22.8099,Fuerza_Bruta
+17,12,348,46.1139,Fuerza_Bruta
+18,12,393,87.9681,Fuerza_Bruta
+19,12,373,170.2,Fuerza_Bruta
+20,12,282,345.372,Fuerza_Bruta
+21,12,355,713.257,Fuerza_Bruta
+22,12,302,1450,Fuerza_Bruta
+23,12,323,2978.48,Fuerza_Bruta
+24,12,291,6170.9,Fuerza_Bruta
+25,12,310,12403.4,Fuerza_Bruta
+26,12,465,25168.6,Fuerza_Bruta
+1,13,59,0.006039,Fuerza_Bruta
+2,13,60,0.011629,Fuerza_Bruta
+3,13,131,0.025415,Fuerza_Bruta
+4,13,136,0.036222,Fuerza_Bruta
+5,13,360,0.021295,Fuerza_Bruta
+6,13,267,0.034007,Fuerza_Bruta
+7,13,154,0.076895,Fuerza_Bruta
+8,13,197,0.134842,Fuerza_Bruta
+9,13,159,0.181722,Fuerza_Bruta
+10,13,178,0.344622,Fuerza_Bruta
+11,13,229,0.661211,Fuerza_Bruta
+12,13,198,1.18062,Fuerza_Bruta
+13,13,258,3.0215,Fuerza_Bruta
+14,13,168,5.97025,Fuerza_Bruta
+15,13,344,13.804,Fuerza_Bruta
+16,13,235,22.0768,Fuerza_Bruta
+17,13,256,46.9315,Fuerza_Bruta
+18,13,309,88.6665,Fuerza_Bruta
+19,13,175,173.805,Fuerza_Bruta
+20,13,406,344.952,Fuerza_Bruta
+21,13,377,702.42,Fuerza_Bruta
+22,13,338,1442.34,Fuerza_Bruta
+23,13,339,2976.22,Fuerza_Bruta
+24,13,269,6111.36,Fuerza_Bruta
+25,13,315,12414.3,Fuerza_Bruta
+26,13,289,25384,Fuerza_Bruta
+1,14,82,0.007671,Fuerza_Bruta
+2,14,82,0.012352,Fuerza_Bruta
+3,14,126,0.027691,Fuerza_Bruta
+4,14,240,0.035627,Fuerza_Bruta
+5,14,173,0.038578,Fuerza_Bruta
+6,14,167,0.030862,Fuerza_Bruta
+7,14,302,0.079336,Fuerza_Bruta
+8,14,133,0.136115,Fuerza_Bruta
+9,14,123,0.183725,Fuerza_Bruta
+10,14,220,0.330867,Fuerza_Bruta
+11,14,341,0.741928,Fuerza_Bruta
+12,14,375,2.17108,Fuerza_Bruta
+13,14,368,3.12982,Fuerza_Bruta
+14,14,229,7.28364,Fuerza_Bruta
+15,14,325,13.3085,Fuerza_Bruta
+16,14,301,25.3117,Fuerza_Bruta
+17,14,255,43.0294,Fuerza_Bruta
+18,14,144,86.209,Fuerza_Bruta
+19,14,214,172.704,Fuerza_Bruta
+20,14,436,341.377,Fuerza_Bruta
+21,14,251,702.262,Fuerza_Bruta
+22,14,282,1452.16,Fuerza_Bruta
+23,14,354,2978.3,Fuerza_Bruta
+24,14,328,6091.2,Fuerza_Bruta
+25,14,444,12398.6,Fuerza_Bruta
+26,14,511,24884.1,Fuerza_Bruta
+1,15,39,0.007461,Fuerza_Bruta
+2,15,49,0.021443,Fuerza_Bruta
+3,15,125,0.023352,Fuerza_Bruta
+4,15,152,0.02498,Fuerza_Bruta
+5,15,165,0.029088,Fuerza_Bruta
+6,15,113,0.032183,Fuerza_Bruta
+7,15,160,0.076819,Fuerza_Bruta
+8,15,221,0.083534,Fuerza_Bruta
+9,15,260,0.163018,Fuerza_Bruta
+10,15,195,0.344595,Fuerza_Bruta
+11,15,266,0.813852,Fuerza_Bruta
+12,15,259,1.74698,Fuerza_Bruta
+13,15,310,4.15536,Fuerza_Bruta
+14,15,253,6.26307,Fuerza_Bruta
+15,15,211,16.0054,Fuerza_Bruta
+16,15,363,23.7575,Fuerza_Bruta
+17,15,296,44.5995,Fuerza_Bruta
+18,15,248,85.963,Fuerza_Bruta
+19,15,450,171.403,Fuerza_Bruta
+20,15,227,344.828,Fuerza_Bruta
+21,15,417,698.308,Fuerza_Bruta
+22,15,344,1446.87,Fuerza_Bruta
+23,15,248,2994.33,Fuerza_Bruta
+24,15,211,6107.67,Fuerza_Bruta
+25,15,305,12396.6,Fuerza_Bruta
+26,15,404,25219.9,Fuerza_Bruta
+1,16,60,0.006687,Fuerza_Bruta
+2,16,49,0.021674,Fuerza_Bruta
+3,16,57,0.024019,Fuerza_Bruta
+4,16,120,0.02766,Fuerza_Bruta
+5,16,172,0.05414,Fuerza_Bruta
+6,16,161,0.048435,Fuerza_Bruta
+7,16,174,0.082549,Fuerza_Bruta
+8,16,260,0.083007,Fuerza_Bruta
+9,16,142,0.191107,Fuerza_Bruta
+10,16,55,0.305324,Fuerza_Bruta
+11,16,221,0.761307,Fuerza_Bruta
+12,16,260,1.73238,Fuerza_Bruta
+13,16,192,3.67323,Fuerza_Bruta
+14,16,358,7.28104,Fuerza_Bruta
+15,16,307,10.4077,Fuerza_Bruta
+16,16,365,25.5485,Fuerza_Bruta
+17,16,294,44.8436,Fuerza_Bruta
+18,16,441,86.0258,Fuerza_Bruta
+19,16,294,170.838,Fuerza_Bruta
+20,16,226,349.534,Fuerza_Bruta
+21,16,191,713.85,Fuerza_Bruta
+22,16,368,1443.83,Fuerza_Bruta
+23,16,309,2978.07,Fuerza_Bruta
+24,16,473,6032.19,Fuerza_Bruta
+25,16,369,12413.4,Fuerza_Bruta
+26,16,282,25317.8,Fuerza_Bruta
+1,17,85,0.005847,Fuerza_Bruta
+2,17,57,0.012225,Fuerza_Bruta
+3,17,62,0.018009,Fuerza_Bruta
+4,17,64,0.020954,Fuerza_Bruta
+5,17,158,0.021517,Fuerza_Bruta
+6,17,170,0.028948,Fuerza_Bruta
+7,17,217,0.048885,Fuerza_Bruta
+8,17,194,0.116626,Fuerza_Bruta
+9,17,200,0.208269,Fuerza_Bruta
+10,17,232,0.368952,Fuerza_Bruta
+11,17,246,0.756368,Fuerza_Bruta
+12,17,168,1.4513,Fuerza_Bruta
+13,17,228,2.57674,Fuerza_Bruta
+14,17,235,4.96032,Fuerza_Bruta
+15,17,273,12.2048,Fuerza_Bruta
+16,17,330,22.8625,Fuerza_Bruta
+17,17,321,45.3283,Fuerza_Bruta
+18,17,285,86.3016,Fuerza_Bruta
+19,17,374,171.299,Fuerza_Bruta
+20,17,287,348.365,Fuerza_Bruta
+21,17,613,695.602,Fuerza_Bruta
+22,17,364,1445.73,Fuerza_Bruta
+23,17,449,2948.72,Fuerza_Bruta
+24,17,264,6065.74,Fuerza_Bruta
+25,17,278,12419.2,Fuerza_Bruta
+26,17,393,25244.6,Fuerza_Bruta
+1,18,78,0.010489,Fuerza_Bruta
+2,18,75,0.014905,Fuerza_Bruta
+3,18,26,0.017104,Fuerza_Bruta
+4,18,95,0.018321,Fuerza_Bruta
+5,18,164,0.038485,Fuerza_Bruta
+6,18,110,0.066611,Fuerza_Bruta
+7,18,234,0.070647,Fuerza_Bruta
+8,18,235,0.085157,Fuerza_Bruta
+9,18,251,0.176024,Fuerza_Bruta
+10,18,167,0.435631,Fuerza_Bruta
+11,18,195,0.756804,Fuerza_Bruta
+12,18,306,1.57976,Fuerza_Bruta
+13,18,299,2.84505,Fuerza_Bruta
+14,18,284,5.83451,Fuerza_Bruta
+15,18,231,14.1996,Fuerza_Bruta
+16,18,268,23.4038,Fuerza_Bruta
+17,18,229,41.4309,Fuerza_Bruta
+18,18,278,87.9738,Fuerza_Bruta
+19,18,386,172.055,Fuerza_Bruta
+20,18,320,343.189,Fuerza_Bruta
+21,18,436,698.974,Fuerza_Bruta
+22,18,348,1447.37,Fuerza_Bruta
+23,18,292,2996.62,Fuerza_Bruta
+24,18,474,5991.81,Fuerza_Bruta
+25,18,248,12455.7,Fuerza_Bruta
+26,18,401,25142.1,Fuerza_Bruta
+1,19,7,0.007609,Fuerza_Bruta
+2,19,126,0.011709,Fuerza_Bruta
+3,19,97,0.017252,Fuerza_Bruta
+4,19,118,0.036262,Fuerza_Bruta
+5,19,265,0.031463,Fuerza_Bruta
+6,19,234,0.050163,Fuerza_Bruta
+7,19,83,0.049173,Fuerza_Bruta
+8,19,186,0.085874,Fuerza_Bruta
+9,19,180,0.181587,Fuerza_Bruta
+10,19,247,0.293172,Fuerza_Bruta
+11,19,183,0.95237,Fuerza_Bruta
+12,19,300,1.56745,Fuerza_Bruta
+13,19,180,2.84169,Fuerza_Bruta
+14,19,192,4.9372,Fuerza_Bruta
+15,19,240,12.8012,Fuerza_Bruta
+16,19,255,23.976,Fuerza_Bruta
+17,19,211,46.4511,Fuerza_Bruta
+18,19,340,100.908,Fuerza_Bruta
+19,19,417,168.521,Fuerza_Bruta
+20,19,297,348.537,Fuerza_Bruta
+21,19,282,711.145,Fuerza_Bruta
+22,19,430,1426.83,Fuerza_Bruta
+23,19,418,2972.33,Fuerza_Bruta
+24,19,390,6077.82,Fuerza_Bruta
+25,19,431,12358.8,Fuerza_Bruta
+26,19,447,25162.8,Fuerza_Bruta
+1,20,87,0.009856,Fuerza_Bruta
+2,20,122,0.011576,Fuerza_Bruta
+3,20,115,0.023347,Fuerza_Bruta
+4,20,123,0.039204,Fuerza_Bruta
+5,20,167,0.029039,Fuerza_Bruta
+6,20,149,0.045021,Fuerza_Bruta
+7,20,158,0.069519,Fuerza_Bruta
+8,20,246,0.128028,Fuerza_Bruta
+9,20,309,0.163206,Fuerza_Bruta
+10,20,173,0.471447,Fuerza_Bruta
+11,20,177,0.920938,Fuerza_Bruta
+12,20,397,1.56687,Fuerza_Bruta
+13,20,300,2.92286,Fuerza_Bruta
+14,20,269,6.61486,Fuerza_Bruta
+15,20,319,14.8378,Fuerza_Bruta
+16,20,323,21.475,Fuerza_Bruta
+17,20,335,45.3623,Fuerza_Bruta
+18,20,284,83.5954,Fuerza_Bruta
+19,20,326,170.191,Fuerza_Bruta
+20,20,299,347.398,Fuerza_Bruta
+21,20,425,701.833,Fuerza_Bruta
+22,20,427,1443.81,Fuerza_Bruta
+23,20,435,2932.65,Fuerza_Bruta
+24,20,345,6118.37,Fuerza_Bruta
+25,20,422,12376.5,Fuerza_Bruta
+26,20,564,24745.4,Fuerza_Bruta
+1,21,66,0.011136,Fuerza_Bruta
+2,21,80,0.011688,Fuerza_Bruta
+3,21,169,0.020698,Fuerza_Bruta
+4,21,244,0.026771,Fuerza_Bruta
+5,21,91,0.019431,Fuerza_Bruta
+6,21,185,0.035231,Fuerza_Bruta
+7,21,130,0.055376,Fuerza_Bruta
+8,21,125,0.081632,Fuerza_Bruta
+9,21,157,0.189536,Fuerza_Bruta
+10,21,156,0.424775,Fuerza_Bruta
+11,21,197,0.829955,Fuerza_Bruta
+12,21,192,1.47446,Fuerza_Bruta
+13,21,302,3.02466,Fuerza_Bruta
+14,21,334,5.06899,Fuerza_Bruta
+15,21,207,10.0827,Fuerza_Bruta
+16,21,144,24.5007,Fuerza_Bruta
+17,21,347,45.385,Fuerza_Bruta
+18,21,198,87.7538,Fuerza_Bruta
+19,21,477,169.27,Fuerza_Bruta
+20,21,254,347.137,Fuerza_Bruta
+21,21,423,699.636,Fuerza_Bruta
+22,21,428,1431.05,Fuerza_Bruta
+23,21,338,2953.02,Fuerza_Bruta
+24,21,297,6055.84,Fuerza_Bruta
+25,21,410,12300.8,Fuerza_Bruta
+26,21,211,25259.5,Fuerza_Bruta
+1,22,28,0.007377,Fuerza_Bruta
+2,22,150,0.008609,Fuerza_Bruta
+3,22,63,0.030465,Fuerza_Bruta
+4,22,92,0.019252,Fuerza_Bruta
+5,22,148,0.019326,Fuerza_Bruta
+6,22,139,0.035985,Fuerza_Bruta
+7,22,175,0.058238,Fuerza_Bruta
+8,22,328,0.096272,Fuerza_Bruta
+9,22,189,0.179049,Fuerza_Bruta
+10,22,247,0.348958,Fuerza_Bruta
+11,22,297,0.647525,Fuerza_Bruta
+12,22,194,1.80116,Fuerza_Bruta
+13,22,269,3.54341,Fuerza_Bruta
+14,22,245,5.71424,Fuerza_Bruta
+15,22,380,10.59,Fuerza_Bruta
+16,22,362,21.6788,Fuerza_Bruta
+17,22,285,40.7737,Fuerza_Bruta
+18,22,225,86.8009,Fuerza_Bruta
+19,22,281,170.683,Fuerza_Bruta
+20,22,307,348.211,Fuerza_Bruta
+21,22,383,698.213,Fuerza_Bruta
+22,22,299,1458.85,Fuerza_Bruta
+23,22,380,2974.57,Fuerza_Bruta
+24,22,311,6083.21,Fuerza_Bruta
+25,22,496,12293.3,Fuerza_Bruta
+26,22,419,24945.7,Fuerza_Bruta
+1,23,45,0.006885,Fuerza_Bruta
+2,23,38,0.014008,Fuerza_Bruta
+3,23,198,0.022997,Fuerza_Bruta
+4,23,80,0.019381,Fuerza_Bruta
+5,23,91,0.022666,Fuerza_Bruta
+6,23,172,0.040383,Fuerza_Bruta
+7,23,296,0.065414,Fuerza_Bruta
+8,23,188,0.109334,Fuerza_Bruta
+9,23,97,0.167379,Fuerza_Bruta
+10,23,170,0.308484,Fuerza_Bruta
+11,23,220,0.738609,Fuerza_Bruta
+12,23,255,1.53296,Fuerza_Bruta
+13,23,265,2.6348,Fuerza_Bruta
+14,23,359,6.54492,Fuerza_Bruta
+15,23,274,11.0474,Fuerza_Bruta
+16,23,348,25.0191,Fuerza_Bruta
+17,23,445,45.9595,Fuerza_Bruta
+18,23,328,81.9885,Fuerza_Bruta
+19,23,481,170.393,Fuerza_Bruta
+20,23,334,348.686,Fuerza_Bruta
+21,23,391,713.626,Fuerza_Bruta
+22,23,553,1429.65,Fuerza_Bruta
+23,23,358,2976.04,Fuerza_Bruta
+24,23,252,6103.56,Fuerza_Bruta
+25,23,479,12312,Fuerza_Bruta
+26,23,309,25275.6,Fuerza_Bruta
+1,24,51,0.005569,Fuerza_Bruta
+2,24,61,0.008626,Fuerza_Bruta
+3,24,134,0.018387,Fuerza_Bruta
+4,24,164,0.023085,Fuerza_Bruta
+5,24,180,0.045795,Fuerza_Bruta
+6,24,260,0.051524,Fuerza_Bruta
+7,24,242,0.060026,Fuerza_Bruta
+8,24,211,0.104432,Fuerza_Bruta
+9,24,246,0.182872,Fuerza_Bruta
+10,24,322,0.378791,Fuerza_Bruta
+11,24,132,0.832953,Fuerza_Bruta
+12,24,262,1.62027,Fuerza_Bruta
+13,24,253,2.93846,Fuerza_Bruta
+14,24,183,5.1995,Fuerza_Bruta
+15,24,224,13.3453,Fuerza_Bruta
+16,24,363,20.9648,Fuerza_Bruta
+17,24,268,46.2823,Fuerza_Bruta
+18,24,226,83.0116,Fuerza_Bruta
+19,24,314,172.595,Fuerza_Bruta
+20,24,395,346.912,Fuerza_Bruta
+21,24,411,702.795,Fuerza_Bruta
+22,24,302,1444.53,Fuerza_Bruta
+23,24,197,3005.64,Fuerza_Bruta
+24,24,431,6077.54,Fuerza_Bruta
+25,24,356,12422.5,Fuerza_Bruta
+26,24,479,25028.1,Fuerza_Bruta
+1,25,56,0.007318,Fuerza_Bruta
+2,25,90,0.016966,Fuerza_Bruta
+3,25,101,0.017215,Fuerza_Bruta
+4,25,166,0.019617,Fuerza_Bruta
+5,25,154,0.024546,Fuerza_Bruta
+6,25,153,0.038429,Fuerza_Bruta
+7,25,193,0.04648,Fuerza_Bruta
+8,25,136,0.084819,Fuerza_Bruta
+9,25,184,0.235127,Fuerza_Bruta
+10,25,178,0.314359,Fuerza_Bruta
+11,25,349,0.82521,Fuerza_Bruta
+12,25,174,1.36675,Fuerza_Bruta
+13,25,242,2.80523,Fuerza_Bruta
+14,25,211,6.09083,Fuerza_Bruta
+15,25,306,12.6184,Fuerza_Bruta
+16,25,268,20.4788,Fuerza_Bruta
+17,25,372,40.6558,Fuerza_Bruta
+18,25,309,85.6922,Fuerza_Bruta
+19,25,435,170.113,Fuerza_Bruta
+20,25,286,347.215,Fuerza_Bruta
+21,25,331,704.907,Fuerza_Bruta
+22,25,376,1450,Fuerza_Bruta
+23,25,341,2977.47,Fuerza_Bruta
+24,25,307,6073.91,Fuerza_Bruta
+25,25,357,12383.2,Fuerza_Bruta
+26,25,230,25299.5,Fuerza_Bruta
+1,26,39,0.00544,Fuerza_Bruta
+2,26,46,0.011204,Fuerza_Bruta
+3,26,99,0.015095,Fuerza_Bruta
+4,26,211,0.021872,Fuerza_Bruta
+5,26,122,0.036771,Fuerza_Bruta
+6,26,126,0.039728,Fuerza_Bruta
+7,26,250,0.05557,Fuerza_Bruta
+8,26,238,0.12202,Fuerza_Bruta
+9,26,113,0.215464,Fuerza_Bruta
+10,26,227,0.428597,Fuerza_Bruta
+11,26,189,0.946169,Fuerza_Bruta
+12,26,284,1.88074,Fuerza_Bruta
+13,26,245,3.58251,Fuerza_Bruta
+14,26,241,6.42323,Fuerza_Bruta
+15,26,398,12.7978,Fuerza_Bruta
+16,26,258,21.7877,Fuerza_Bruta
+17,26,263,41.5399,Fuerza_Bruta
+18,26,355,86.0403,Fuerza_Bruta
+19,26,246,171.375,Fuerza_Bruta
+20,26,301,347.984,Fuerza_Bruta
+21,26,253,708.51,Fuerza_Bruta
+22,26,622,1423.76,Fuerza_Bruta
+23,26,458,2938.81,Fuerza_Bruta
+24,26,319,6094,Fuerza_Bruta
+25,26,382,12452.9,Fuerza_Bruta
+26,26,242,25252.5,Fuerza_Bruta
+1,27,90,0.006231,Fuerza_Bruta
+2,27,170,0.01107,Fuerza_Bruta
+3,27,151,0.014564,Fuerza_Bruta
+4,27,58,0.023384,Fuerza_Bruta
+5,27,165,0.018369,Fuerza_Bruta
+6,27,86,0.04152,Fuerza_Bruta
+7,27,165,0.059135,Fuerza_Bruta
+8,27,269,0.103039,Fuerza_Bruta
+9,27,176,0.16391,Fuerza_Bruta
+10,27,327,0.418267,Fuerza_Bruta
+11,27,207,0.843774,Fuerza_Bruta
+12,27,220,1.46989,Fuerza_Bruta
+13,27,192,3.37797,Fuerza_Bruta
+14,27,355,6.14599,Fuerza_Bruta
+15,27,305,12.2772,Fuerza_Bruta
+16,27,252,23.9802,Fuerza_Bruta
+17,27,252,42.412,Fuerza_Bruta
+18,27,324,87.2972,Fuerza_Bruta
+19,27,448,169.029,Fuerza_Bruta
+20,27,457,343.006,Fuerza_Bruta
+21,27,267,709.851,Fuerza_Bruta
+22,27,258,1458.28,Fuerza_Bruta
+23,27,364,2962.64,Fuerza_Bruta
+24,27,333,6119.8,Fuerza_Bruta
+25,27,500,12319.3,Fuerza_Bruta
+26,27,325,25342.7,Fuerza_Bruta
+1,28,4,0.009395,Fuerza_Bruta
+2,28,165,0.013244,Fuerza_Bruta
+3,28,60,0.032915,Fuerza_Bruta
+4,28,224,0.020916,Fuerza_Bruta
+5,28,223,0.01948,Fuerza_Bruta
+6,28,135,0.034652,Fuerza_Bruta
+7,28,179,0.057792,Fuerza_Bruta
+8,28,109,0.106008,Fuerza_Bruta
+9,28,200,0.151912,Fuerza_Bruta
+10,28,227,0.346085,Fuerza_Bruta
+11,28,256,0.809327,Fuerza_Bruta
+12,28,165,2.00392,Fuerza_Bruta
+13,28,150,2.86511,Fuerza_Bruta
+14,28,281,4.96501,Fuerza_Bruta
+15,28,375,10.3224,Fuerza_Bruta
+16,28,231,24.9128,Fuerza_Bruta
+17,28,351,43.7585,Fuerza_Bruta
+18,28,339,82.7327,Fuerza_Bruta
+19,28,418,168.269,Fuerza_Bruta
+20,28,480,343.997,Fuerza_Bruta
+21,28,332,709.127,Fuerza_Bruta
+22,28,400,1440.04,Fuerza_Bruta
+23,28,400,2963.79,Fuerza_Bruta
+24,28,349,6092.12,Fuerza_Bruta
+25,28,332,12449.1,Fuerza_Bruta
+26,28,323,25199.9,Fuerza_Bruta
+1,29,51,0.007154,Fuerza_Bruta
+2,29,73,0.008305,Fuerza_Bruta
+3,29,70,0.02139,Fuerza_Bruta
+4,29,81,0.023499,Fuerza_Bruta
+5,29,117,0.030452,Fuerza_Bruta
+6,29,88,0.067783,Fuerza_Bruta
+7,29,108,0.051011,Fuerza_Bruta
+8,29,211,0.095033,Fuerza_Bruta
+9,29,262,0.192615,Fuerza_Bruta
+10,29,236,0.393037,Fuerza_Bruta
+11,29,262,0.698798,Fuerza_Bruta
+12,29,246,1.89967,Fuerza_Bruta
+13,29,295,3.64812,Fuerza_Bruta
+14,29,179,5.25217,Fuerza_Bruta
+15,29,348,10.1041,Fuerza_Bruta
+16,29,324,25.3772,Fuerza_Bruta
+17,29,388,47.2648,Fuerza_Bruta
+18,29,369,85.7696,Fuerza_Bruta
+19,29,311,171.101,Fuerza_Bruta
+20,29,184,349.728,Fuerza_Bruta
+21,29,179,713.636,Fuerza_Bruta
+22,29,418,1433.59,Fuerza_Bruta
+23,29,352,2981.51,Fuerza_Bruta
+24,29,296,6078.68,Fuerza_Bruta
+25,29,299,12409.8,Fuerza_Bruta
+26,29,227,25254.8,Fuerza_Bruta
+1,30,57,0.006012,Fuerza_Bruta
+2,30,46,0.012655,Fuerza_Bruta
+3,30,120,0.021945,Fuerza_Bruta
+4,30,81,0.032966,Fuerza_Bruta
+5,30,141,0.037967,Fuerza_Bruta
+6,30,258,0.046177,Fuerza_Bruta
+7,30,163,0.057547,Fuerza_Bruta
+8,30,117,0.090843,Fuerza_Bruta
+9,30,195,0.213968,Fuerza_Bruta
+10,30,257,0.413799,Fuerza_Bruta
+11,30,302,0.713216,Fuerza_Bruta
+12,30,214,1.50505,Fuerza_Bruta
+13,30,187,3.12273,Fuerza_Bruta
+14,30,335,5.97959,Fuerza_Bruta
+15,30,252,14.9885,Fuerza_Bruta
+16,30,410,23.24,Fuerza_Bruta
+17,30,273,46.4385,Fuerza_Bruta
+18,30,309,88.0314,Fuerza_Bruta
+19,30,241,172.149,Fuerza_Bruta
+20,30,256,349.018,Fuerza_Bruta
+21,30,368,703.494,Fuerza_Bruta
+22,30,389,1446.17,Fuerza_Bruta
+23,30,377,2964.01,Fuerza_Bruta
+24,30,247,6074.71,Fuerza_Bruta
+25,30,481,12358.9,Fuerza_Bruta
+26,30,331,25202.1,Fuerza_Bruta
+1,31,56,0.007452,Fuerza_Bruta
+2,31,88,0.012318,Fuerza_Bruta
+3,31,80,0.021671,Fuerza_Bruta
+4,31,108,0.022598,Fuerza_Bruta
+5,31,143,0.036064,Fuerza_Bruta
+6,31,200,0.042633,Fuerza_Bruta
+7,31,74,0.078356,Fuerza_Bruta
+8,31,292,0.099363,Fuerza_Bruta
+9,31,243,0.247674,Fuerza_Bruta
+10,31,214,0.41509,Fuerza_Bruta
+11,31,149,0.736842,Fuerza_Bruta
+12,31,267,1.71514,Fuerza_Bruta
+13,31,263,3.27577,Fuerza_Bruta
+14,31,100,6.95034,Fuerza_Bruta
+15,31,262,13.4717,Fuerza_Bruta
+16,31,351,23.7953,Fuerza_Bruta
+17,31,273,42.2054,Fuerza_Bruta
+18,31,205,84.4846,Fuerza_Bruta
+19,31,312,174.404,Fuerza_Bruta
+20,31,375,338.744,Fuerza_Bruta
+21,31,283,708.207,Fuerza_Bruta
+22,31,165,1460.8,Fuerza_Bruta
+23,31,408,2963.18,Fuerza_Bruta
+24,31,454,5999.52,Fuerza_Bruta
+25,31,316,12435.3,Fuerza_Bruta
+26,31,475,25175.5,Fuerza_Bruta
+1,32,52,0.006807,Fuerza_Bruta
+2,32,43,0.008082,Fuerza_Bruta
+3,32,82,0.018263,Fuerza_Bruta
+4,32,207,0.031488,Fuerza_Bruta
+5,32,93,0.040527,Fuerza_Bruta
+6,32,162,0.077553,Fuerza_Bruta
+7,32,217,0.063858,Fuerza_Bruta
+8,32,208,0.115811,Fuerza_Bruta
+9,32,189,0.195258,Fuerza_Bruta
+10,32,189,0.325063,Fuerza_Bruta
+11,32,278,0.713389,Fuerza_Bruta
+12,32,172,1.71528,Fuerza_Bruta
+13,32,384,2.4556,Fuerza_Bruta
+14,32,295,6.33978,Fuerza_Bruta
+15,32,246,10.3678,Fuerza_Bruta
+16,32,307,23.9624,Fuerza_Bruta
+17,32,400,41.9861,Fuerza_Bruta
+18,32,278,87.3204,Fuerza_Bruta
+19,32,329,168.327,Fuerza_Bruta
+20,32,296,347.706,Fuerza_Bruta
+21,32,373,707.057,Fuerza_Bruta
+22,32,256,1453.13,Fuerza_Bruta
+23,32,381,2976.71,Fuerza_Bruta
+24,32,395,6066.49,Fuerza_Bruta
+25,32,365,12436.8,Fuerza_Bruta
+26,32,561,24985.9,Fuerza_Bruta
+1,33,46,0.005674,Fuerza_Bruta
+2,33,115,0.011307,Fuerza_Bruta
+3,33,54,0.041513,Fuerza_Bruta
+4,33,164,0.043228,Fuerza_Bruta
+5,33,129,0.02692,Fuerza_Bruta
+6,33,173,0.03711,Fuerza_Bruta
+7,33,83,0.058139,Fuerza_Bruta
+8,33,170,0.099769,Fuerza_Bruta
+9,33,227,0.182961,Fuerza_Bruta
+10,33,195,0.292986,Fuerza_Bruta
+11,33,295,0.601956,Fuerza_Bruta
+12,33,195,1.48557,Fuerza_Bruta
+13,33,341,2.66483,Fuerza_Bruta
+14,33,289,5.59731,Fuerza_Bruta
+15,33,257,13.4411,Fuerza_Bruta
+16,33,234,26.8103,Fuerza_Bruta
+17,33,386,47.1399,Fuerza_Bruta
+18,33,276,85.6105,Fuerza_Bruta
+19,33,302,171.317,Fuerza_Bruta
+20,33,231,345.556,Fuerza_Bruta
+21,33,332,699.132,Fuerza_Bruta
+22,33,429,1441.23,Fuerza_Bruta
+23,33,314,2972.53,Fuerza_Bruta
+24,33,398,6011.73,Fuerza_Bruta
+25,33,460,12385,Fuerza_Bruta
+26,33,295,25255.9,Fuerza_Bruta
+1,34,85,0.007476,Fuerza_Bruta
+2,34,89,0.011255,Fuerza_Bruta
+3,34,95,0.021942,Fuerza_Bruta
+4,34,180,0.027078,Fuerza_Bruta
+5,34,200,0.040447,Fuerza_Bruta
+6,34,162,0.038169,Fuerza_Bruta
+7,34,170,0.063965,Fuerza_Bruta
+8,34,163,0.127042,Fuerza_Bruta
+9,34,238,0.270791,Fuerza_Bruta
+10,34,327,0.479245,Fuerza_Bruta
+11,34,362,0.645898,Fuerza_Bruta
+12,34,353,1.24389,Fuerza_Bruta
+13,34,279,3.02772,Fuerza_Bruta
+14,34,209,6.86055,Fuerza_Bruta
+15,34,192,14.559,Fuerza_Bruta
+16,34,357,24.5779,Fuerza_Bruta
+17,34,492,42.7288,Fuerza_Bruta
+18,34,196,85.9637,Fuerza_Bruta
+19,34,353,169.015,Fuerza_Bruta
+20,34,391,338.686,Fuerza_Bruta
+21,34,333,702.733,Fuerza_Bruta
+22,34,429,1441.86,Fuerza_Bruta
+23,34,322,2965.03,Fuerza_Bruta
+24,34,379,6064.75,Fuerza_Bruta
+25,34,274,12397.7,Fuerza_Bruta
+26,34,378,25174,Fuerza_Bruta
+1,35,89,0.013243,Fuerza_Bruta
+2,35,9,0.011249,Fuerza_Bruta
+3,35,92,0.020054,Fuerza_Bruta
+4,35,147,0.045173,Fuerza_Bruta
+5,35,95,0.035419,Fuerza_Bruta
+6,35,150,0.050143,Fuerza_Bruta
+7,35,221,0.054366,Fuerza_Bruta
+8,35,221,0.100819,Fuerza_Bruta
+9,35,233,0.208175,Fuerza_Bruta
+10,35,293,0.339901,Fuerza_Bruta
+11,35,214,0.854706,Fuerza_Bruta
+12,35,239,1.72222,Fuerza_Bruta
+13,35,321,3.23438,Fuerza_Bruta
+14,35,291,6.45437,Fuerza_Bruta
+15,35,463,11.345,Fuerza_Bruta
+16,35,251,23.8865,Fuerza_Bruta
+17,35,491,41.9155,Fuerza_Bruta
+18,35,259,83.0444,Fuerza_Bruta
+19,35,164,173.542,Fuerza_Bruta
+20,35,393,339.444,Fuerza_Bruta
+21,35,235,709.786,Fuerza_Bruta
+22,35,417,1432.32,Fuerza_Bruta
+23,35,372,2952.72,Fuerza_Bruta
+24,35,487,6110.33,Fuerza_Bruta
+25,35,315,12436.5,Fuerza_Bruta
+26,35,416,25133.1,Fuerza_Bruta
+1,36,41,0.007704,Fuerza_Bruta
+2,36,123,0.012103,Fuerza_Bruta
+3,36,124,0.015385,Fuerza_Bruta
+4,36,133,0.027457,Fuerza_Bruta
+5,36,184,0.037479,Fuerza_Bruta
+6,36,172,0.028291,Fuerza_Bruta
+7,36,132,0.072632,Fuerza_Bruta
+8,36,261,0.109741,Fuerza_Bruta
+9,36,303,0.150395,Fuerza_Bruta
+10,36,332,0.295741,Fuerza_Bruta
+11,36,220,0.718759,Fuerza_Bruta
+12,36,404,1.73603,Fuerza_Bruta
+13,36,310,3.27605,Fuerza_Bruta
+14,36,284,7.17518,Fuerza_Bruta
+15,36,198,9.99913,Fuerza_Bruta
+16,36,220,21.4466,Fuerza_Bruta
+17,36,432,44.068,Fuerza_Bruta
+18,36,330,85.0351,Fuerza_Bruta
+19,36,312,171.143,Fuerza_Bruta
+20,36,249,348.695,Fuerza_Bruta
+21,36,309,707.905,Fuerza_Bruta
+22,36,341,1450.47,Fuerza_Bruta
+23,36,317,3010.08,Fuerza_Bruta
+24,36,533,6039.51,Fuerza_Bruta
+25,36,255,12434.9,Fuerza_Bruta
+26,36,292,25239.4,Fuerza_Bruta
+1,37,11,0.006453,Fuerza_Bruta
+2,37,141,0.011987,Fuerza_Bruta
+3,37,181,0.029189,Fuerza_Bruta
+4,37,71,0.018161,Fuerza_Bruta
+5,37,160,0.043964,Fuerza_Bruta
+6,37,140,0.034065,Fuerza_Bruta
+7,37,152,0.048475,Fuerza_Bruta
+8,37,352,0.107171,Fuerza_Bruta
+9,37,272,0.18836,Fuerza_Bruta
+10,37,198,0.410494,Fuerza_Bruta
+11,37,260,0.896241,Fuerza_Bruta
+12,37,153,1.50259,Fuerza_Bruta
+13,37,212,2.98965,Fuerza_Bruta
+14,37,145,6.21201,Fuerza_Bruta
+15,37,145,10.2139,Fuerza_Bruta
+16,37,376,24.985,Fuerza_Bruta
+17,37,223,46.3862,Fuerza_Bruta
+18,37,283,88.3021,Fuerza_Bruta
+19,37,322,169,Fuerza_Bruta
+20,37,423,342.611,Fuerza_Bruta
+21,37,259,708.799,Fuerza_Bruta
+22,37,312,1452.83,Fuerza_Bruta
+23,37,249,2950.22,Fuerza_Bruta
+24,37,396,6051.26,Fuerza_Bruta
+25,37,342,12397.7,Fuerza_Bruta
+26,37,259,25293.1,Fuerza_Bruta
+1,38,33,0.007388,Fuerza_Bruta
+2,38,154,0.016186,Fuerza_Bruta
+3,38,185,0.033462,Fuerza_Bruta
+4,38,169,0.01975,Fuerza_Bruta
+5,38,136,0.020331,Fuerza_Bruta
+6,38,200,0.028352,Fuerza_Bruta
+7,38,226,0.073355,Fuerza_Bruta
+8,38,318,0.081811,Fuerza_Bruta
+9,38,139,0.164005,Fuerza_Bruta
+10,38,201,0.407842,Fuerza_Bruta
+11,38,202,0.713943,Fuerza_Bruta
+12,38,324,1.82028,Fuerza_Bruta
+13,38,322,3.21063,Fuerza_Bruta
+14,38,349,5.5705,Fuerza_Bruta
+15,38,344,12.5088,Fuerza_Bruta
+16,38,371,20.7635,Fuerza_Bruta
+17,38,222,43.1031,Fuerza_Bruta
+18,38,317,86.4812,Fuerza_Bruta
+19,38,332,171.513,Fuerza_Bruta
+20,38,276,351.018,Fuerza_Bruta
+21,38,350,702.494,Fuerza_Bruta
+22,38,280,1457.13,Fuerza_Bruta
+23,38,361,3008.03,Fuerza_Bruta
+24,38,279,6110.01,Fuerza_Bruta
+25,38,407,12262.3,Fuerza_Bruta
+26,38,318,25318.5,Fuerza_Bruta
+1,39,44,0.006887,Fuerza_Bruta
+2,39,121,0.011122,Fuerza_Bruta
+3,39,81,0.018824,Fuerza_Bruta
+4,39,92,0.025664,Fuerza_Bruta
+5,39,138,0.030419,Fuerza_Bruta
+6,39,89,0.033727,Fuerza_Bruta
+7,39,206,0.07078,Fuerza_Bruta
+8,39,180,0.118133,Fuerza_Bruta
+9,39,295,0.147506,Fuerza_Bruta
+10,39,230,0.360728,Fuerza_Bruta
+11,39,227,0.659311,Fuerza_Bruta
+12,39,306,1.52017,Fuerza_Bruta
+13,39,480,2.86031,Fuerza_Bruta
+14,39,256,6.3343,Fuerza_Bruta
+15,39,297,10.4729,Fuerza_Bruta
+16,39,361,21.2874,Fuerza_Bruta
+17,39,313,44.4407,Fuerza_Bruta
+18,39,276,85.5962,Fuerza_Bruta
+19,39,418,168.296,Fuerza_Bruta
+20,39,216,348.897,Fuerza_Bruta
+21,39,406,700.348,Fuerza_Bruta
+22,39,269,1447.58,Fuerza_Bruta
+23,39,433,2959.35,Fuerza_Bruta
+24,39,420,6068.29,Fuerza_Bruta
+25,39,346,12436.6,Fuerza_Bruta
+26,39,199,25289.2,Fuerza_Bruta
+1,40,85,0.009344,Fuerza_Bruta
+2,40,77,0.016261,Fuerza_Bruta
+3,40,151,0.019291,Fuerza_Bruta
+4,40,118,0.018934,Fuerza_Bruta
+5,40,56,0.032573,Fuerza_Bruta
+6,40,96,0.034235,Fuerza_Bruta
+7,40,183,0.053987,Fuerza_Bruta
+8,40,245,0.103459,Fuerza_Bruta
+9,40,275,0.198079,Fuerza_Bruta
+10,40,174,0.357563,Fuerza_Bruta
+11,40,272,0.665458,Fuerza_Bruta
+12,40,282,1.72546,Fuerza_Bruta
+13,40,251,2.87838,Fuerza_Bruta
+14,40,203,5.41966,Fuerza_Bruta
+15,40,255,13.4266,Fuerza_Bruta
+16,40,192,20.7585,Fuerza_Bruta
+17,40,244,43.0297,Fuerza_Bruta
+18,40,381,85.8869,Fuerza_Bruta
+19,40,256,170.845,Fuerza_Bruta
+20,40,444,344.403,Fuerza_Bruta
+21,40,227,706.303,Fuerza_Bruta
+22,40,339,1449.06,Fuerza_Bruta
+23,40,360,2980.1,Fuerza_Bruta
+24,40,556,5999.51,Fuerza_Bruta
+25,40,285,12406.7,Fuerza_Bruta
+26,40,468,24997,Fuerza_Bruta
+1,41,38,0.006056,Fuerza_Bruta
+2,41,130,0.013212,Fuerza_Bruta
+3,41,80,0.016358,Fuerza_Bruta
+4,41,142,0.031897,Fuerza_Bruta
+5,41,148,0.030931,Fuerza_Bruta
+6,41,356,0.060212,Fuerza_Bruta
+7,41,113,0.051475,Fuerza_Bruta
+8,41,320,0.10229,Fuerza_Bruta
+9,41,181,0.185805,Fuerza_Bruta
+10,41,143,0.416535,Fuerza_Bruta
+11,41,321,0.721852,Fuerza_Bruta
+12,41,251,1.65763,Fuerza_Bruta
+13,41,376,3.48401,Fuerza_Bruta
+14,41,227,6.89175,Fuerza_Bruta
+15,41,275,14.3347,Fuerza_Bruta
+16,41,368,26.0962,Fuerza_Bruta
+17,41,380,45.2516,Fuerza_Bruta
+18,41,334,83.3511,Fuerza_Bruta
+19,41,457,168.317,Fuerza_Bruta
+20,41,393,343.06,Fuerza_Bruta
+21,41,411,702.307,Fuerza_Bruta
+22,41,259,1452.35,Fuerza_Bruta
+23,41,313,2984.06,Fuerza_Bruta
+24,41,227,6103.64,Fuerza_Bruta
+25,41,376,12413.7,Fuerza_Bruta
+26,41,382,25172,Fuerza_Bruta
+1,42,59,0.0065,Fuerza_Bruta
+2,42,61,0.012775,Fuerza_Bruta
+3,42,145,0.024362,Fuerza_Bruta
+4,42,208,0.017619,Fuerza_Bruta
+5,42,137,0.042127,Fuerza_Bruta
+6,42,151,0.049148,Fuerza_Bruta
+7,42,106,0.043839,Fuerza_Bruta
+8,42,180,0.090748,Fuerza_Bruta
+9,42,186,0.163807,Fuerza_Bruta
+10,42,216,0.391875,Fuerza_Bruta
+11,42,244,0.710531,Fuerza_Bruta
+12,42,228,1.92146,Fuerza_Bruta
+13,42,153,3.2214,Fuerza_Bruta
+14,42,238,6.92372,Fuerza_Bruta
+15,42,222,10.2219,Fuerza_Bruta
+16,42,150,23.7174,Fuerza_Bruta
+17,42,255,46.2626,Fuerza_Bruta
+18,42,328,86.3585,Fuerza_Bruta
+19,42,308,168.846,Fuerza_Bruta
+20,42,370,346.543,Fuerza_Bruta
+21,42,306,710.04,Fuerza_Bruta
+22,42,322,1441.01,Fuerza_Bruta
+23,42,482,2940.31,Fuerza_Bruta
+24,42,309,6085.4,Fuerza_Bruta
+25,42,285,12449.5,Fuerza_Bruta
+26,42,413,25136.7,Fuerza_Bruta
+1,43,3,0.007743,Fuerza_Bruta
+2,43,86,0.011648,Fuerza_Bruta
+3,43,103,0.024941,Fuerza_Bruta
+4,43,104,0.036363,Fuerza_Bruta
+5,43,209,0.019972,Fuerza_Bruta
+6,43,113,0.030124,Fuerza_Bruta
+7,43,217,0.075163,Fuerza_Bruta
+8,43,118,0.090715,Fuerza_Bruta
+9,43,263,0.183085,Fuerza_Bruta
+10,43,294,0.316188,Fuerza_Bruta
+11,43,400,0.634833,Fuerza_Bruta
+12,43,249,1.52377,Fuerza_Bruta
+13,43,310,2.91641,Fuerza_Bruta
+14,43,251,6.73961,Fuerza_Bruta
+15,43,393,15.1332,Fuerza_Bruta
+16,43,376,20.0026,Fuerza_Bruta
+17,43,205,45.7675,Fuerza_Bruta
+18,43,259,86.1371,Fuerza_Bruta
+19,43,392,168.375,Fuerza_Bruta
+20,43,378,345.612,Fuerza_Bruta
+21,43,261,706.42,Fuerza_Bruta
+22,43,330,1451.42,Fuerza_Bruta
+23,43,322,2976.39,Fuerza_Bruta
+24,43,266,6091.88,Fuerza_Bruta
+25,43,314,12433.1,Fuerza_Bruta
+26,43,375,25199.9,Fuerza_Bruta
+1,44,73,0.0056,Fuerza_Bruta
+2,44,32,0.008526,Fuerza_Bruta
+3,44,44,0.018951,Fuerza_Bruta
+4,44,230,0.022396,Fuerza_Bruta
+5,44,95,0.024408,Fuerza_Bruta
+6,44,98,0.044229,Fuerza_Bruta
+7,44,181,0.049798,Fuerza_Bruta
+8,44,292,0.122303,Fuerza_Bruta
+9,44,166,0.180075,Fuerza_Bruta
+10,44,250,0.390167,Fuerza_Bruta
+11,44,297,0.574537,Fuerza_Bruta
+12,44,319,2.16188,Fuerza_Bruta
+13,44,505,3.11126,Fuerza_Bruta
+14,44,352,5.15378,Fuerza_Bruta
+15,44,246,10.3994,Fuerza_Bruta
+16,44,369,20.4854,Fuerza_Bruta
+17,44,380,45.211,Fuerza_Bruta
+18,44,256,84.9751,Fuerza_Bruta
+19,44,212,173.025,Fuerza_Bruta
+20,44,264,347.515,Fuerza_Bruta
+21,44,319,710.957,Fuerza_Bruta
+22,44,446,1433.29,Fuerza_Bruta
+23,44,294,2982.92,Fuerza_Bruta
+24,44,219,6097.5,Fuerza_Bruta
+25,44,267,12422.3,Fuerza_Bruta
+26,44,526,25132,Fuerza_Bruta
+1,45,31,0.006508,Fuerza_Bruta
+2,45,94,0.013103,Fuerza_Bruta
+3,45,31,0.018374,Fuerza_Bruta
+4,45,281,0.023339,Fuerza_Bruta
+5,45,82,0.046784,Fuerza_Bruta
+6,45,172,0.037328,Fuerza_Bruta
+7,45,126,0.045757,Fuerza_Bruta
+8,45,170,0.09811,Fuerza_Bruta
+9,45,243,0.170776,Fuerza_Bruta
+10,45,194,0.326908,Fuerza_Bruta
+11,45,170,0.79516,Fuerza_Bruta
+12,45,289,1.54452,Fuerza_Bruta
+13,45,329,3.12479,Fuerza_Bruta
+14,45,217,5.47231,Fuerza_Bruta
+15,45,282,9.94723,Fuerza_Bruta
+16,45,201,25.2248,Fuerza_Bruta
+17,45,285,49.2824,Fuerza_Bruta
+18,45,322,85.798,Fuerza_Bruta
+19,45,221,170.319,Fuerza_Bruta
+20,45,538,346.271,Fuerza_Bruta
+21,45,293,704.827,Fuerza_Bruta
+22,45,281,1454.6,Fuerza_Bruta
+23,45,280,2984.76,Fuerza_Bruta
+24,45,312,6062.53,Fuerza_Bruta
+25,45,465,12394.4,Fuerza_Bruta
+26,45,312,25312.3,Fuerza_Bruta
+1,46,26,0.008392,Fuerza_Bruta
+2,46,39,0.012689,Fuerza_Bruta
+3,46,183,0.025952,Fuerza_Bruta
+4,46,94,0.019391,Fuerza_Bruta
+5,46,176,0.023828,Fuerza_Bruta
+6,46,162,0.04194,Fuerza_Bruta
+7,46,208,0.069621,Fuerza_Bruta
+8,46,221,0.089025,Fuerza_Bruta
+9,46,219,0.190322,Fuerza_Bruta
+10,46,210,0.300827,Fuerza_Bruta
+11,46,242,0.927315,Fuerza_Bruta
+12,46,321,1.47811,Fuerza_Bruta
+13,46,128,2.79124,Fuerza_Bruta
+14,46,279,6.33019,Fuerza_Bruta
+15,46,327,10.1903,Fuerza_Bruta
+16,46,223,20.0809,Fuerza_Bruta
+17,46,427,45.0153,Fuerza_Bruta
+18,46,321,85.5338,Fuerza_Bruta
+19,46,301,171.339,Fuerza_Bruta
+20,46,361,341.85,Fuerza_Bruta
+21,46,261,713.782,Fuerza_Bruta
+22,46,515,1437.66,Fuerza_Bruta
+23,46,353,2972.67,Fuerza_Bruta
+24,46,259,6101.2,Fuerza_Bruta
+25,46,444,12236.7,Fuerza_Bruta
+26,46,487,24952,Fuerza_Bruta
+1,47,93,0.006821,Fuerza_Bruta
+2,47,111,0.011977,Fuerza_Bruta
+3,47,121,0.019662,Fuerza_Bruta
+4,47,85,0.021122,Fuerza_Bruta
+5,47,196,0.051467,Fuerza_Bruta
+6,47,175,0.04026,Fuerza_Bruta
+7,47,377,0.06054,Fuerza_Bruta
+8,47,181,0.10815,Fuerza_Bruta
+9,47,219,0.165337,Fuerza_Bruta
+10,47,187,0.387046,Fuerza_Bruta
+11,47,253,0.726984,Fuerza_Bruta
+12,47,401,1.71978,Fuerza_Bruta
+13,47,298,3.1948,Fuerza_Bruta
+14,47,232,7.0047,Fuerza_Bruta
+15,47,281,13.8008,Fuerza_Bruta
+16,47,281,20.9298,Fuerza_Bruta
+17,47,219,44.9995,Fuerza_Bruta
+18,47,298,85.3839,Fuerza_Bruta
+19,47,326,168.94,Fuerza_Bruta
+20,47,291,349.057,Fuerza_Bruta
+21,47,258,705.879,Fuerza_Bruta
+22,47,343,1450.93,Fuerza_Bruta
+23,47,342,2986.16,Fuerza_Bruta
+24,47,399,6091.3,Fuerza_Bruta
+25,47,240,12425.1,Fuerza_Bruta
+26,47,379,25233.7,Fuerza_Bruta
+1,48,12,0.005264,Fuerza_Bruta
+2,48,116,0.016404,Fuerza_Bruta
+3,48,126,0.019772,Fuerza_Bruta
+4,48,149,0.018564,Fuerza_Bruta
+5,48,152,0.02616,Fuerza_Bruta
+6,48,169,0.034035,Fuerza_Bruta
+7,48,160,0.05762,Fuerza_Bruta
+8,48,222,0.084733,Fuerza_Bruta
+9,48,208,0.218961,Fuerza_Bruta
+10,48,173,0.29547,Fuerza_Bruta
+11,48,358,0.620327,Fuerza_Bruta
+12,48,324,1.25456,Fuerza_Bruta
+13,48,235,2.94427,Fuerza_Bruta
+14,48,175,6.01634,Fuerza_Bruta
+15,48,298,12.8071,Fuerza_Bruta
+16,48,288,22.802,Fuerza_Bruta
+17,48,125,46.4032,Fuerza_Bruta
+18,48,343,86.4041,Fuerza_Bruta
+19,48,354,170.517,Fuerza_Bruta
+20,48,349,343.899,Fuerza_Bruta
+21,48,466,697.633,Fuerza_Bruta
+22,48,284,1456.4,Fuerza_Bruta
+23,48,494,2932.52,Fuerza_Bruta
+24,48,356,6122.36,Fuerza_Bruta
+25,48,240,12445.5,Fuerza_Bruta
+26,48,451,25224.6,Fuerza_Bruta
+1,49,44,0.008885,Fuerza_Bruta
+2,49,130,0.023401,Fuerza_Bruta
+3,49,126,0.017294,Fuerza_Bruta
+4,49,142,0.021523,Fuerza_Bruta
+5,49,83,0.02657,Fuerza_Bruta
+6,49,244,0.031359,Fuerza_Bruta
+7,49,370,0.062772,Fuerza_Bruta
+8,49,216,0.128563,Fuerza_Bruta
+9,49,108,0.19021,Fuerza_Bruta
+10,49,189,0.371124,Fuerza_Bruta
+11,49,366,0.723791,Fuerza_Bruta
+12,49,219,1.4869,Fuerza_Bruta
+13,49,296,2.81939,Fuerza_Bruta
+14,49,238,5.95122,Fuerza_Bruta
+15,49,215,11.6259,Fuerza_Bruta
+16,49,293,20.6689,Fuerza_Bruta
+17,49,316,44.3836,Fuerza_Bruta
+18,49,270,86.4532,Fuerza_Bruta
+19,49,384,170.204,Fuerza_Bruta
+20,49,246,346.286,Fuerza_Bruta
+21,49,349,710.03,Fuerza_Bruta
+22,49,424,1434.55,Fuerza_Bruta
+23,49,205,2997.89,Fuerza_Bruta
+24,49,400,6044.94,Fuerza_Bruta
+25,49,166,12447.1,Fuerza_Bruta
+26,49,355,25206.6,Fuerza_Bruta
+1,50,17,0.007343,Fuerza_Bruta
+2,50,55,0.00966,Fuerza_Bruta
+3,50,106,0.017911,Fuerza_Bruta
+4,50,183,0.024127,Fuerza_Bruta
+5,50,171,0.02589,Fuerza_Bruta
+6,50,125,0.02975,Fuerza_Bruta
+7,50,173,0.059377,Fuerza_Bruta
+8,50,96,0.123331,Fuerza_Bruta
+9,50,290,0.246942,Fuerza_Bruta
+10,50,254,0.426188,Fuerza_Bruta
+11,50,238,1.19675,Fuerza_Bruta
+12,50,272,1.56607,Fuerza_Bruta
+13,50,220,3.52023,Fuerza_Bruta
+14,50,333,6.75609,Fuerza_Bruta
+15,50,170,14.0022,Fuerza_Bruta
+16,50,243,23.1766,Fuerza_Bruta
+17,50,249,43.4835,Fuerza_Bruta
+18,50,371,85.235,Fuerza_Bruta
+19,50,405,171.727,Fuerza_Bruta
+20,50,313,345.369,Fuerza_Bruta
+21,50,343,709.229,Fuerza_Bruta
+22,50,560,1435.31,Fuerza_Bruta
+23,50,295,2976.38,Fuerza_Bruta
+24,50,500,6008.52,Fuerza_Bruta
+25,50,448,12369.4,Fuerza_Bruta
+26,50,454,25188.7,Fuerza_Bruta
+1,51,58,0.006225,Fuerza_Bruta
+2,51,63,0.012481,Fuerza_Bruta
+3,51,71,0.027862,Fuerza_Bruta
+4,51,109,0.023574,Fuerza_Bruta
+5,51,210,0.021737,Fuerza_Bruta
+6,51,107,0.030336,Fuerza_Bruta
+7,51,186,0.052613,Fuerza_Bruta
+8,51,293,0.090743,Fuerza_Bruta
+9,51,135,0.185014,Fuerza_Bruta
+10,51,171,0.399634,Fuerza_Bruta
+11,51,181,0.735219,Fuerza_Bruta
+12,51,149,1.39738,Fuerza_Bruta
+13,51,305,3.09398,Fuerza_Bruta
+14,51,336,6.44599,Fuerza_Bruta
+15,51,461,10.3371,Fuerza_Bruta
+16,51,326,24.876,Fuerza_Bruta
+17,51,319,43.8463,Fuerza_Bruta
+18,51,413,86.9466,Fuerza_Bruta
+19,51,273,170.356,Fuerza_Bruta
+20,51,212,350.134,Fuerza_Bruta
+21,51,356,706.081,Fuerza_Bruta
+22,51,416,1443.08,Fuerza_Bruta
+23,51,426,2959.89,Fuerza_Bruta
+24,51,326,6089.23,Fuerza_Bruta
+25,51,394,12449.9,Fuerza_Bruta
+26,51,552,24962.7,Fuerza_Bruta
+1,52,49,0.00769,Fuerza_Bruta
+2,52,94,0.01273,Fuerza_Bruta
+3,52,154,0.016094,Fuerza_Bruta
+4,52,211,0.017136,Fuerza_Bruta
+5,52,220,0.022139,Fuerza_Bruta
+6,52,75,0.029769,Fuerza_Bruta
+7,52,264,0.081445,Fuerza_Bruta
+8,52,152,0.090493,Fuerza_Bruta
+9,52,112,0.2099,Fuerza_Bruta
+10,52,215,0.47191,Fuerza_Bruta
+11,52,314,0.830255,Fuerza_Bruta
+12,52,261,1.33046,Fuerza_Bruta
+13,52,161,2.61793,Fuerza_Bruta
+14,52,206,5.17341,Fuerza_Bruta
+15,52,300,13.4815,Fuerza_Bruta
+16,52,293,25.1783,Fuerza_Bruta
+17,52,210,47.0022,Fuerza_Bruta
+18,52,365,87.2203,Fuerza_Bruta
+19,52,435,167.643,Fuerza_Bruta
+20,52,519,340.472,Fuerza_Bruta
+21,52,462,712.293,Fuerza_Bruta
+22,52,375,1480.41,Fuerza_Bruta
+23,52,302,2972.33,Fuerza_Bruta
+24,52,207,6099.68,Fuerza_Bruta
+25,52,322,12408.2,Fuerza_Bruta
+26,52,466,25075.6,Fuerza_Bruta
+1,53,79,0.00866,Fuerza_Bruta
+2,53,164,0.015109,Fuerza_Bruta
+3,53,85,0.02703,Fuerza_Bruta
+4,53,127,0.017726,Fuerza_Bruta
+5,53,214,0.020904,Fuerza_Bruta
+6,53,155,0.039664,Fuerza_Bruta
+7,53,187,0.048238,Fuerza_Bruta
+8,53,263,0.108181,Fuerza_Bruta
+9,53,129,0.164723,Fuerza_Bruta
+10,53,208,0.328013,Fuerza_Bruta
+11,53,154,0.591421,Fuerza_Bruta
+12,53,200,1.44694,Fuerza_Bruta
+13,53,310,2.99176,Fuerza_Bruta
+14,53,171,5.7937,Fuerza_Bruta
+15,53,417,10.0263,Fuerza_Bruta
+16,53,350,24.2196,Fuerza_Bruta
+17,53,240,45.7649,Fuerza_Bruta
+18,53,365,84.8152,Fuerza_Bruta
+19,53,385,170.674,Fuerza_Bruta
+20,53,357,346.056,Fuerza_Bruta
+21,53,371,705.245,Fuerza_Bruta
+22,53,374,1441.25,Fuerza_Bruta
+23,53,297,2977.34,Fuerza_Bruta
+24,53,428,6056.2,Fuerza_Bruta
+25,53,265,12441.3,Fuerza_Bruta
+26,53,284,25288.9,Fuerza_Bruta
+1,54,49,0.010933,Fuerza_Bruta
+2,54,115,0.019317,Fuerza_Bruta
+3,54,99,0.034122,Fuerza_Bruta
+4,54,171,0.037139,Fuerza_Bruta
+5,54,215,0.022955,Fuerza_Bruta
+6,54,191,0.027801,Fuerza_Bruta
+7,54,155,0.05823,Fuerza_Bruta
+8,54,247,0.104972,Fuerza_Bruta
+9,54,170,0.158838,Fuerza_Bruta
+10,54,256,0.326714,Fuerza_Bruta
+11,54,303,0.66044,Fuerza_Bruta
+12,54,226,1.46301,Fuerza_Bruta
+13,54,331,2.81509,Fuerza_Bruta
+14,54,277,5.84742,Fuerza_Bruta
+15,54,350,10.5126,Fuerza_Bruta
+16,54,266,23.5142,Fuerza_Bruta
+17,54,94,44.2904,Fuerza_Bruta
+18,54,290,85.0147,Fuerza_Bruta
+19,54,267,171.416,Fuerza_Bruta
+20,54,302,347.039,Fuerza_Bruta
+21,54,434,700.51,Fuerza_Bruta
+22,54,387,1440.56,Fuerza_Bruta
+23,54,282,2979.1,Fuerza_Bruta
+24,54,427,6068.67,Fuerza_Bruta
+25,54,285,12458.1,Fuerza_Bruta
+26,54,580,24898.8,Fuerza_Bruta
+1,55,9,0.006989,Fuerza_Bruta
+2,55,19,0.012648,Fuerza_Bruta
+3,55,125,0.015074,Fuerza_Bruta
+4,55,153,0.027204,Fuerza_Bruta
+5,55,233,0.030542,Fuerza_Bruta
+6,55,116,0.043618,Fuerza_Bruta
+7,55,173,0.063374,Fuerza_Bruta
+8,55,280,0.081751,Fuerza_Bruta
+9,55,260,0.146017,Fuerza_Bruta
+10,55,193,0.30801,Fuerza_Bruta
+11,55,186,0.768069,Fuerza_Bruta
+12,55,195,1.37363,Fuerza_Bruta
+13,55,132,3.01584,Fuerza_Bruta
+14,55,164,6.62272,Fuerza_Bruta
+15,55,166,15.2506,Fuerza_Bruta
+16,55,295,23.664,Fuerza_Bruta
+17,55,307,46.3418,Fuerza_Bruta
+18,55,378,82.2021,Fuerza_Bruta
+19,55,494,169.13,Fuerza_Bruta
+20,55,396,344.579,Fuerza_Bruta
+21,55,419,697.632,Fuerza_Bruta
+22,55,289,1453.44,Fuerza_Bruta
+23,55,304,2982.06,Fuerza_Bruta
+24,55,387,6061.3,Fuerza_Bruta
+25,55,377,12357.3,Fuerza_Bruta
+26,55,318,25238.5,Fuerza_Bruta
+1,56,40,0.010737,Fuerza_Bruta
+2,56,57,0.016882,Fuerza_Bruta
+3,56,93,0.04056,Fuerza_Bruta
+4,56,149,0.02012,Fuerza_Bruta
+5,56,122,0.037207,Fuerza_Bruta
+6,56,161,0.042507,Fuerza_Bruta
+7,56,251,0.059957,Fuerza_Bruta
+8,56,226,0.083083,Fuerza_Bruta
+9,56,124,0.257756,Fuerza_Bruta
+10,56,217,0.436104,Fuerza_Bruta
+11,56,254,0.7255,Fuerza_Bruta
+12,56,306,1.73002,Fuerza_Bruta
+13,56,292,2.69544,Fuerza_Bruta
+14,56,206,5.70916,Fuerza_Bruta
+15,56,196,13.2759,Fuerza_Bruta
+16,56,153,26.2573,Fuerza_Bruta
+17,56,277,45.1306,Fuerza_Bruta
+18,56,313,85.3385,Fuerza_Bruta
+19,56,258,171.311,Fuerza_Bruta
+20,56,406,341.075,Fuerza_Bruta
+21,56,292,705.127,Fuerza_Bruta
+22,56,388,1442.53,Fuerza_Bruta
+23,56,376,2964.21,Fuerza_Bruta
+24,56,476,6003.82,Fuerza_Bruta
+25,56,426,12375.3,Fuerza_Bruta
+26,56,296,25305.1,Fuerza_Bruta
+1,57,61,0.007515,Fuerza_Bruta
+2,57,78,0.017397,Fuerza_Bruta
+3,57,87,0.014456,Fuerza_Bruta
+4,57,150,0.026175,Fuerza_Bruta
+5,57,203,0.02285,Fuerza_Bruta
+6,57,125,0.055612,Fuerza_Bruta
+7,57,216,0.052958,Fuerza_Bruta
+8,57,146,0.092195,Fuerza_Bruta
+9,57,156,0.153694,Fuerza_Bruta
+10,57,190,0.374994,Fuerza_Bruta
+11,57,279,0.756086,Fuerza_Bruta
+12,57,234,1.51374,Fuerza_Bruta
+13,57,374,3.40014,Fuerza_Bruta
+14,57,243,7.48616,Fuerza_Bruta
+15,57,359,10.5438,Fuerza_Bruta
+16,57,351,22.3715,Fuerza_Bruta
+17,57,354,44.6634,Fuerza_Bruta
+18,57,302,83.4579,Fuerza_Bruta
+19,57,257,174.5,Fuerza_Bruta
+20,57,339,343.811,Fuerza_Bruta
+21,57,586,693.661,Fuerza_Bruta
+22,57,344,1447.18,Fuerza_Bruta
+23,57,355,2986.04,Fuerza_Bruta
+24,57,255,6067.17,Fuerza_Bruta
+25,57,623,12171.4,Fuerza_Bruta
+26,57,320,25198.1,Fuerza_Bruta
+1,58,43,0.00805,Fuerza_Bruta
+2,58,108,0.01814,Fuerza_Bruta
+3,58,130,0.026669,Fuerza_Bruta
+4,58,84,0.01742,Fuerza_Bruta
+5,58,248,0.025604,Fuerza_Bruta
+6,58,155,0.028978,Fuerza_Bruta
+7,58,158,0.053593,Fuerza_Bruta
+8,58,247,0.086595,Fuerza_Bruta
+9,58,192,0.160243,Fuerza_Bruta
+10,58,181,0.500891,Fuerza_Bruta
+11,58,278,1.00337,Fuerza_Bruta
+12,58,284,1.90381,Fuerza_Bruta
+13,58,253,3.20662,Fuerza_Bruta
+14,58,347,6.65545,Fuerza_Bruta
+15,58,249,9.9168,Fuerza_Bruta
+16,58,364,20.0298,Fuerza_Bruta
+17,58,215,45.4019,Fuerza_Bruta
+18,58,259,85.8709,Fuerza_Bruta
+19,58,514,170.052,Fuerza_Bruta
+20,58,413,343.982,Fuerza_Bruta
+21,58,410,703.437,Fuerza_Bruta
+22,58,358,1442.69,Fuerza_Bruta
+23,58,373,2977.27,Fuerza_Bruta
+24,58,381,6075.26,Fuerza_Bruta
+25,58,270,12410.2,Fuerza_Bruta
+26,58,343,25241.2,Fuerza_Bruta
+1,59,4,0.00773,Fuerza_Bruta
+2,59,98,0.025961,Fuerza_Bruta
+3,59,94,0.026548,Fuerza_Bruta
+4,59,125,0.021086,Fuerza_Bruta
+5,59,171,0.029547,Fuerza_Bruta
+6,59,224,0.041543,Fuerza_Bruta
+7,59,183,0.057979,Fuerza_Bruta
+8,59,233,0.1049,Fuerza_Bruta
+9,59,161,0.181141,Fuerza_Bruta
+10,59,235,0.330154,Fuerza_Bruta
+11,59,281,0.683904,Fuerza_Bruta
+12,59,303,1.62703,Fuerza_Bruta
+13,59,288,3.1906,Fuerza_Bruta
+14,59,409,5.78631,Fuerza_Bruta
+15,59,241,11.9507,Fuerza_Bruta
+16,59,167,20.3464,Fuerza_Bruta
+17,59,309,46.2954,Fuerza_Bruta
+18,59,345,85.8434,Fuerza_Bruta
+19,59,298,171.927,Fuerza_Bruta
+20,59,446,340.361,Fuerza_Bruta
+21,59,384,699.402,Fuerza_Bruta
+22,59,296,1456.47,Fuerza_Bruta
+23,59,322,2980.86,Fuerza_Bruta
+24,59,281,6099.62,Fuerza_Bruta
+25,59,348,12332.4,Fuerza_Bruta
+26,59,306,25255,Fuerza_Bruta
+1,60,53,0.009619,Fuerza_Bruta
+2,60,97,0.012872,Fuerza_Bruta
+3,60,97,0.024077,Fuerza_Bruta
+4,60,78,0.029307,Fuerza_Bruta
+5,60,177,0.030178,Fuerza_Bruta
+6,60,101,0.026087,Fuerza_Bruta
+7,60,188,0.100445,Fuerza_Bruta
+8,60,132,0.106906,Fuerza_Bruta
+9,60,246,0.171042,Fuerza_Bruta
+10,60,121,0.373005,Fuerza_Bruta
+11,60,218,0.738071,Fuerza_Bruta
+12,60,268,1.71936,Fuerza_Bruta
+13,60,216,2.61788,Fuerza_Bruta
+14,60,212,6.35023,Fuerza_Bruta
+15,60,262,14.0788,Fuerza_Bruta
+16,60,225,20.6777,Fuerza_Bruta
+17,60,338,42.9952,Fuerza_Bruta
+18,60,292,83.6952,Fuerza_Bruta
+19,60,291,172.484,Fuerza_Bruta
+20,60,290,346.979,Fuerza_Bruta
+21,60,282,712.292,Fuerza_Bruta
+22,60,312,1448.14,Fuerza_Bruta
+23,60,234,2995.27,Fuerza_Bruta
+24,60,376,6086.96,Fuerza_Bruta
+25,60,444,12305.6,Fuerza_Bruta
+26,60,405,25281.7,Fuerza_Bruta
+1,61,48,0.00759,Fuerza_Bruta
+2,61,84,0.008329,Fuerza_Bruta
+3,61,75,0.020279,Fuerza_Bruta
+4,61,80,0.017001,Fuerza_Bruta
+5,61,184,0.019839,Fuerza_Bruta
+6,61,385,0.035632,Fuerza_Bruta
+7,61,155,0.072569,Fuerza_Bruta
+8,61,168,0.100666,Fuerza_Bruta
+9,61,272,0.213957,Fuerza_Bruta
+10,61,252,0.414659,Fuerza_Bruta
+11,61,248,0.765957,Fuerza_Bruta
+12,61,401,1.44712,Fuerza_Bruta
+13,61,213,3.59958,Fuerza_Bruta
+14,61,242,5.19853,Fuerza_Bruta
+15,61,318,13.6137,Fuerza_Bruta
+16,61,332,24.744,Fuerza_Bruta
+17,61,221,46.8735,Fuerza_Bruta
+18,61,291,85.8702,Fuerza_Bruta
+19,61,238,171.953,Fuerza_Bruta
+20,61,290,345.382,Fuerza_Bruta
+21,61,256,712.624,Fuerza_Bruta
+22,61,294,1464.69,Fuerza_Bruta
+23,61,392,2981.95,Fuerza_Bruta
+24,61,379,6078.85,Fuerza_Bruta
+25,61,340,12447.4,Fuerza_Bruta
+26,61,259,25289.1,Fuerza_Bruta
+1,62,59,0.007323,Fuerza_Bruta
+2,62,47,0.01067,Fuerza_Bruta
+3,62,98,0.018496,Fuerza_Bruta
+4,62,69,0.033038,Fuerza_Bruta
+5,62,142,0.042997,Fuerza_Bruta
+6,62,192,0.03344,Fuerza_Bruta
+7,62,198,0.06457,Fuerza_Bruta
+8,62,229,0.146509,Fuerza_Bruta
+9,62,151,0.191595,Fuerza_Bruta
+10,62,189,0.344816,Fuerza_Bruta
+11,62,291,0.732522,Fuerza_Bruta
+12,62,261,1.40092,Fuerza_Bruta
+13,62,371,3.89181,Fuerza_Bruta
+14,62,300,6.71637,Fuerza_Bruta
+15,62,237,11.2515,Fuerza_Bruta
+16,62,288,26.4866,Fuerza_Bruta
+17,62,311,43.684,Fuerza_Bruta
+18,62,185,85.8113,Fuerza_Bruta
+19,62,259,172.823,Fuerza_Bruta
+20,62,317,346.604,Fuerza_Bruta
+21,62,291,709.179,Fuerza_Bruta
+22,62,387,1442.75,Fuerza_Bruta
+23,62,233,2983.52,Fuerza_Bruta
+24,62,290,6093.6,Fuerza_Bruta
+25,62,518,12286.1,Fuerza_Bruta
+26,62,463,25208.3,Fuerza_Bruta
+1,63,79,0.010509,Fuerza_Bruta
+2,63,95,0.011038,Fuerza_Bruta
+3,63,135,0.033018,Fuerza_Bruta
+4,63,88,0.015781,Fuerza_Bruta
+5,63,247,0.020008,Fuerza_Bruta
+6,63,182,0.057823,Fuerza_Bruta
+7,63,134,0.056251,Fuerza_Bruta
+8,63,132,0.129255,Fuerza_Bruta
+9,63,155,0.183302,Fuerza_Bruta
+10,63,275,0.425381,Fuerza_Bruta
+11,63,198,0.853182,Fuerza_Bruta
+12,63,255,1.82298,Fuerza_Bruta
+13,63,373,2.87978,Fuerza_Bruta
+14,63,230,6.42973,Fuerza_Bruta
+15,63,350,12.704,Fuerza_Bruta
+16,63,343,25.4214,Fuerza_Bruta
+17,63,233,47.2357,Fuerza_Bruta
+18,63,392,82.021,Fuerza_Bruta
+19,63,392,169.297,Fuerza_Bruta
+20,63,294,344.521,Fuerza_Bruta
+21,63,182,711.745,Fuerza_Bruta
+22,63,228,1452.18,Fuerza_Bruta
+23,63,330,2963.01,Fuerza_Bruta
+24,63,475,6048.75,Fuerza_Bruta
+25,63,381,12319,Fuerza_Bruta
+26,63,587,24831.2,Fuerza_Bruta
+1,64,93,0.013177,Fuerza_Bruta
+2,64,78,0.01389,Fuerza_Bruta
+3,64,155,0.030223,Fuerza_Bruta
+4,64,97,0.019088,Fuerza_Bruta
+5,64,52,0.042212,Fuerza_Bruta
+6,64,147,0.029209,Fuerza_Bruta
+7,64,162,0.0684,Fuerza_Bruta
+8,64,94,0.07853,Fuerza_Bruta
+9,64,142,0.235434,Fuerza_Bruta
+10,64,121,0.305313,Fuerza_Bruta
+11,64,159,0.652161,Fuerza_Bruta
+12,64,287,1.63792,Fuerza_Bruta
+13,64,312,3.08449,Fuerza_Bruta
+14,64,248,5.76757,Fuerza_Bruta
+15,64,264,13.3614,Fuerza_Bruta
+16,64,394,25.4519,Fuerza_Bruta
+17,64,371,45.5034,Fuerza_Bruta
+18,64,282,87.3099,Fuerza_Bruta
+19,64,604,173.289,Fuerza_Bruta
+20,64,332,348.904,Fuerza_Bruta
+21,64,375,697.916,Fuerza_Bruta
+22,64,301,1442.19,Fuerza_Bruta
+23,64,493,2929.3,Fuerza_Bruta
+24,64,274,6092.05,Fuerza_Bruta
+25,64,480,12361.7,Fuerza_Bruta
+26,64,326,25302.9,Fuerza_Bruta
+1,65,97,0.006407,Fuerza_Bruta
+2,65,114,0.011797,Fuerza_Bruta
+3,65,172,0.023303,Fuerza_Bruta
+4,65,43,0.021404,Fuerza_Bruta
+5,65,138,0.02673,Fuerza_Bruta
+6,65,147,0.027211,Fuerza_Bruta
+7,65,175,0.060721,Fuerza_Bruta
+8,65,149,0.096719,Fuerza_Bruta
+9,65,346,0.173355,Fuerza_Bruta
+10,65,88,0.338384,Fuerza_Bruta
+11,65,166,0.582502,Fuerza_Bruta
+12,65,195,1.63816,Fuerza_Bruta
+13,65,280,2.44889,Fuerza_Bruta
+14,65,258,5.02742,Fuerza_Bruta
+15,65,400,9.82602,Fuerza_Bruta
+16,65,224,24.1474,Fuerza_Bruta
+17,65,300,47.0079,Fuerza_Bruta
+18,65,297,85.7692,Fuerza_Bruta
+19,65,303,171.988,Fuerza_Bruta
+20,65,272,345.95,Fuerza_Bruta
+21,65,311,704.445,Fuerza_Bruta
+22,65,276,1456.74,Fuerza_Bruta
+23,65,353,2958.86,Fuerza_Bruta
+24,65,419,6089.29,Fuerza_Bruta
+25,65,271,12431.3,Fuerza_Bruta
+26,65,323,25241.5,Fuerza_Bruta
+1,66,42,0.008145,Fuerza_Bruta
+2,66,87,0.011304,Fuerza_Bruta
+3,66,90,0.018853,Fuerza_Bruta
+4,66,179,0.03711,Fuerza_Bruta
+5,66,150,0.027288,Fuerza_Bruta
+6,66,138,0.034907,Fuerza_Bruta
+7,66,209,0.056208,Fuerza_Bruta
+8,66,176,0.082243,Fuerza_Bruta
+9,66,259,0.159859,Fuerza_Bruta
+10,66,300,0.31094,Fuerza_Bruta
+11,66,192,0.789306,Fuerza_Bruta
+12,66,263,1.37786,Fuerza_Bruta
+13,66,377,2.50936,Fuerza_Bruta
+14,66,360,6.25249,Fuerza_Bruta
+15,66,419,10.6752,Fuerza_Bruta
+16,66,199,25.314,Fuerza_Bruta
+17,66,386,43.5851,Fuerza_Bruta
+18,66,341,88.2405,Fuerza_Bruta
+19,66,186,174.125,Fuerza_Bruta
+20,66,391,347.208,Fuerza_Bruta
+21,66,256,733.829,Fuerza_Bruta
+22,66,221,1456.71,Fuerza_Bruta
+23,66,341,2981.27,Fuerza_Bruta
+24,66,342,6068.59,Fuerza_Bruta
+25,66,287,12411.3,Fuerza_Bruta
+26,66,339,25200.3,Fuerza_Bruta
+1,67,31,0.008761,Fuerza_Bruta
+2,67,146,0.014449,Fuerza_Bruta
+3,67,194,0.021239,Fuerza_Bruta
+4,67,91,0.020637,Fuerza_Bruta
+5,67,158,0.034099,Fuerza_Bruta
+6,67,148,0.054422,Fuerza_Bruta
+7,67,205,0.052425,Fuerza_Bruta
+8,67,145,0.091102,Fuerza_Bruta
+9,67,268,0.198379,Fuerza_Bruta
+10,67,319,0.392108,Fuerza_Bruta
+11,67,246,0.89729,Fuerza_Bruta
+12,67,220,1.77269,Fuerza_Bruta
+13,67,152,3.21156,Fuerza_Bruta
+14,67,314,5.90349,Fuerza_Bruta
+15,67,249,12.6445,Fuerza_Bruta
+16,67,260,20.4121,Fuerza_Bruta
+17,67,335,43.4684,Fuerza_Bruta
+18,67,187,88.6444,Fuerza_Bruta
+19,67,185,172.317,Fuerza_Bruta
+20,67,306,352.725,Fuerza_Bruta
+21,67,177,710.372,Fuerza_Bruta
+22,67,359,1453.02,Fuerza_Bruta
+23,67,336,2964.45,Fuerza_Bruta
+24,67,460,6011.42,Fuerza_Bruta
+25,67,579,12231.7,Fuerza_Bruta
+26,67,399,25518.4,Fuerza_Bruta
+1,68,64,0.010031,Fuerza_Bruta
+2,68,90,0.011488,Fuerza_Bruta
+3,68,98,0.025585,Fuerza_Bruta
+4,68,43,0.022264,Fuerza_Bruta
+5,68,181,0.040723,Fuerza_Bruta
+6,68,158,0.047716,Fuerza_Bruta
+7,68,196,0.060522,Fuerza_Bruta
+8,68,122,0.081391,Fuerza_Bruta
+9,68,216,0.191719,Fuerza_Bruta
+10,68,246,0.436526,Fuerza_Bruta
+11,68,152,0.771678,Fuerza_Bruta
+12,68,264,1.56087,Fuerza_Bruta
+13,68,390,2.8987,Fuerza_Bruta
+14,68,258,6.95528,Fuerza_Bruta
+15,68,225,11.9944,Fuerza_Bruta
+16,68,153,25.3644,Fuerza_Bruta
+17,68,307,44.778,Fuerza_Bruta
+18,68,352,84.2328,Fuerza_Bruta
+19,68,324,169.412,Fuerza_Bruta
+20,68,278,350.525,Fuerza_Bruta
+21,68,204,714.858,Fuerza_Bruta
+22,68,491,1428.86,Fuerza_Bruta
+23,68,298,2986.85,Fuerza_Bruta
+24,68,380,6069.43,Fuerza_Bruta
+25,68,349,12415.5,Fuerza_Bruta
+26,68,306,25226.1,Fuerza_Bruta
+1,69,79,0.009718,Fuerza_Bruta
+2,69,92,0.015568,Fuerza_Bruta
+3,69,153,0.014421,Fuerza_Bruta
+4,69,142,0.016404,Fuerza_Bruta
+5,69,116,0.02492,Fuerza_Bruta
+6,69,146,0.062599,Fuerza_Bruta
+7,69,224,0.069932,Fuerza_Bruta
+8,69,91,0.11119,Fuerza_Bruta
+9,69,235,0.185353,Fuerza_Bruta
+10,69,157,0.367564,Fuerza_Bruta
+11,69,246,0.617992,Fuerza_Bruta
+12,69,177,1.92249,Fuerza_Bruta
+13,69,158,2.98565,Fuerza_Bruta
+14,69,280,5.62088,Fuerza_Bruta
+15,69,223,11.3653,Fuerza_Bruta
+16,69,185,20.5461,Fuerza_Bruta
+17,69,357,43.4451,Fuerza_Bruta
+18,69,399,82.2177,Fuerza_Bruta
+19,69,385,170.985,Fuerza_Bruta
+20,69,527,344.5,Fuerza_Bruta
+21,69,251,703.749,Fuerza_Bruta
+22,69,265,1454.68,Fuerza_Bruta
+23,69,245,2984.07,Fuerza_Bruta
+24,69,284,6098.97,Fuerza_Bruta
+25,69,381,12398.7,Fuerza_Bruta
+26,69,355,25242.1,Fuerza_Bruta
+1,70,79,0.007431,Fuerza_Bruta
+2,70,71,0.019872,Fuerza_Bruta
+3,70,99,0.042399,Fuerza_Bruta
+4,70,165,0.018997,Fuerza_Bruta
+5,70,156,0.023859,Fuerza_Bruta
+6,70,93,0.048752,Fuerza_Bruta
+7,70,189,0.046143,Fuerza_Bruta
+8,70,186,0.097832,Fuerza_Bruta
+9,70,192,0.189888,Fuerza_Bruta
+10,70,323,0.312497,Fuerza_Bruta
+11,70,250,0.689329,Fuerza_Bruta
+12,70,277,1.27317,Fuerza_Bruta
+13,70,324,3.31285,Fuerza_Bruta
+14,70,349,5.97057,Fuerza_Bruta
+15,70,322,10.0163,Fuerza_Bruta
+16,70,231,23.1455,Fuerza_Bruta
+17,70,316,40.6212,Fuerza_Bruta
+18,70,379,89.1298,Fuerza_Bruta
+19,70,174,171.757,Fuerza_Bruta
+20,70,374,343.338,Fuerza_Bruta
+21,70,337,709.772,Fuerza_Bruta
+22,70,359,1444.33,Fuerza_Bruta
+23,70,566,2938.42,Fuerza_Bruta
+24,70,274,6084.43,Fuerza_Bruta
+25,70,356,12348.3,Fuerza_Bruta
+26,70,611,25047.3,Fuerza_Bruta
+1,71,60,0.006323,Fuerza_Bruta
+2,71,103,0.011941,Fuerza_Bruta
+3,71,41,0.023348,Fuerza_Bruta
+4,71,143,0.026368,Fuerza_Bruta
+5,71,124,0.0204,Fuerza_Bruta
+6,71,175,0.038503,Fuerza_Bruta
+7,71,137,0.054731,Fuerza_Bruta
+8,71,310,0.088526,Fuerza_Bruta
+9,71,199,0.148418,Fuerza_Bruta
+10,71,331,0.387555,Fuerza_Bruta
+11,71,284,0.596868,Fuerza_Bruta
+12,71,239,1.1971,Fuerza_Bruta
+13,71,200,2.56941,Fuerza_Bruta
+14,71,399,6.00564,Fuerza_Bruta
+15,71,190,12.7201,Fuerza_Bruta
+16,71,339,20.2432,Fuerza_Bruta
+17,71,313,40.3619,Fuerza_Bruta
+18,71,364,87.3776,Fuerza_Bruta
+19,71,373,172.666,Fuerza_Bruta
+20,71,461,342.446,Fuerza_Bruta
+21,71,504,692.784,Fuerza_Bruta
+22,71,473,1419.25,Fuerza_Bruta
+23,71,271,2979.74,Fuerza_Bruta
+24,71,421,6038.11,Fuerza_Bruta
+25,71,589,12179,Fuerza_Bruta
+26,71,306,25234.6,Fuerza_Bruta
+1,72,13,0.00541,Fuerza_Bruta
+2,72,62,0.010291,Fuerza_Bruta
+3,72,148,0.044027,Fuerza_Bruta
+4,72,148,0.016522,Fuerza_Bruta
+5,72,164,0.024688,Fuerza_Bruta
+6,72,115,0.038671,Fuerza_Bruta
+7,72,166,0.055924,Fuerza_Bruta
+8,72,248,0.089659,Fuerza_Bruta
+9,72,163,0.209758,Fuerza_Bruta
+10,72,281,0.413003,Fuerza_Bruta
+11,72,308,0.936114,Fuerza_Bruta
+12,72,350,1.28926,Fuerza_Bruta
+13,72,200,2.55767,Fuerza_Bruta
+14,72,229,4.97912,Fuerza_Bruta
+15,72,317,12.8681,Fuerza_Bruta
+16,72,166,20.7421,Fuerza_Bruta
+17,72,272,41.1666,Fuerza_Bruta
+18,72,371,85.5876,Fuerza_Bruta
+19,72,245,169.179,Fuerza_Bruta
+20,72,528,337.147,Fuerza_Bruta
+21,72,229,709.827,Fuerza_Bruta
+22,72,405,1452.25,Fuerza_Bruta
+23,72,328,2979.52,Fuerza_Bruta
+24,72,467,6043.5,Fuerza_Bruta
+25,72,229,12419.8,Fuerza_Bruta
+26,72,226,25241.8,Fuerza_Bruta
+1,73,23,0.006508,Fuerza_Bruta
+2,73,88,0.010941,Fuerza_Bruta
+3,73,147,0.013089,Fuerza_Bruta
+4,73,83,0.015594,Fuerza_Bruta
+5,73,275,0.02275,Fuerza_Bruta
+6,73,112,0.046388,Fuerza_Bruta
+7,73,289,0.051469,Fuerza_Bruta
+8,73,121,0.080627,Fuerza_Bruta
+9,73,283,0.164197,Fuerza_Bruta
+10,73,170,0.36035,Fuerza_Bruta
+11,73,151,0.762037,Fuerza_Bruta
+12,73,191,1.55555,Fuerza_Bruta
+13,73,224,2.53176,Fuerza_Bruta
+14,73,263,6.42311,Fuerza_Bruta
+15,73,114,13.9771,Fuerza_Bruta
+16,73,311,24.4521,Fuerza_Bruta
+17,73,382,44.9701,Fuerza_Bruta
+18,73,389,87.6357,Fuerza_Bruta
+19,73,255,169.654,Fuerza_Bruta
+20,73,214,350.731,Fuerza_Bruta
+21,73,295,709.192,Fuerza_Bruta
+22,73,424,1441.04,Fuerza_Bruta
+23,73,329,2946.3,Fuerza_Bruta
+24,73,510,5999.81,Fuerza_Bruta
+25,73,430,12387.5,Fuerza_Bruta
+26,73,505,25022.6,Fuerza_Bruta
+1,74,39,0.01927,Fuerza_Bruta
+2,74,27,0.012586,Fuerza_Bruta
+3,74,55,0.017702,Fuerza_Bruta
+4,74,188,0.020972,Fuerza_Bruta
+5,74,142,0.027775,Fuerza_Bruta
+6,74,237,0.035082,Fuerza_Bruta
+7,74,227,0.042961,Fuerza_Bruta
+8,74,109,0.093641,Fuerza_Bruta
+9,74,265,0.152522,Fuerza_Bruta
+10,74,230,0.39161,Fuerza_Bruta
+11,74,232,0.740241,Fuerza_Bruta
+12,74,190,1.44298,Fuerza_Bruta
+13,74,214,3.09392,Fuerza_Bruta
+14,74,169,4.89304,Fuerza_Bruta
+15,74,141,10.3136,Fuerza_Bruta
+16,74,263,20.1815,Fuerza_Bruta
+17,74,303,46.3637,Fuerza_Bruta
+18,74,382,84.2418,Fuerza_Bruta
+19,74,250,171.642,Fuerza_Bruta
+20,74,293,342.748,Fuerza_Bruta
+21,74,409,699.039,Fuerza_Bruta
+22,74,278,1453.67,Fuerza_Bruta
+23,74,250,2977.41,Fuerza_Bruta
+24,74,237,6116.1,Fuerza_Bruta
+25,74,395,12405.9,Fuerza_Bruta
+26,74,365,25184,Fuerza_Bruta
+1,75,18,0.005837,Fuerza_Bruta
+2,75,91,0.014138,Fuerza_Bruta
+3,75,186,0.026562,Fuerza_Bruta
+4,75,113,0.02163,Fuerza_Bruta
+5,75,47,0.023547,Fuerza_Bruta
+6,75,139,0.029162,Fuerza_Bruta
+7,75,182,0.077518,Fuerza_Bruta
+8,75,107,0.085931,Fuerza_Bruta
+9,75,305,0.15439,Fuerza_Bruta
+10,75,293,0.451098,Fuerza_Bruta
+11,75,346,0.611826,Fuerza_Bruta
+12,75,253,1.7492,Fuerza_Bruta
+13,75,414,3.44421,Fuerza_Bruta
+14,75,226,6.38717,Fuerza_Bruta
+15,75,326,11.1041,Fuerza_Bruta
+16,75,423,27.1327,Fuerza_Bruta
+17,75,202,41.5336,Fuerza_Bruta
+18,75,242,90.0094,Fuerza_Bruta
+19,75,186,172.741,Fuerza_Bruta
+20,75,250,345.019,Fuerza_Bruta
+21,75,287,711.123,Fuerza_Bruta
+22,75,328,1449.17,Fuerza_Bruta
+23,75,331,2977.97,Fuerza_Bruta
+24,75,337,6087.85,Fuerza_Bruta
+25,75,228,12447.5,Fuerza_Bruta
+26,75,381,25191.7,Fuerza_Bruta
+1,76,43,0.005444,Fuerza_Bruta
+2,76,159,0.01356,Fuerza_Bruta
+3,76,79,0.025558,Fuerza_Bruta
+4,76,145,0.019795,Fuerza_Bruta
+5,76,168,0.037711,Fuerza_Bruta
+6,76,238,0.036756,Fuerza_Bruta
+7,76,202,0.068338,Fuerza_Bruta
+8,76,160,0.096171,Fuerza_Bruta
+9,76,153,0.173231,Fuerza_Bruta
+10,76,183,0.40613,Fuerza_Bruta
+11,76,206,0.88824,Fuerza_Bruta
+12,76,196,1.6348,Fuerza_Bruta
+13,76,459,3.31005,Fuerza_Bruta
+14,76,222,5.92512,Fuerza_Bruta
+15,76,384,13.6776,Fuerza_Bruta
+16,76,235,26.36,Fuerza_Bruta
+17,76,200,43.9518,Fuerza_Bruta
+18,76,344,85.1713,Fuerza_Bruta
+19,76,282,172.658,Fuerza_Bruta
+20,76,346,343.328,Fuerza_Bruta
+21,76,325,712.782,Fuerza_Bruta
+22,76,354,1444.24,Fuerza_Bruta
+23,76,244,2987.63,Fuerza_Bruta
+24,76,260,6048.22,Fuerza_Bruta
+25,76,425,12324.2,Fuerza_Bruta
+26,76,429,24892.9,Fuerza_Bruta
+1,77,33,0.00579,Fuerza_Bruta
+2,77,90,0.011355,Fuerza_Bruta
+3,77,158,0.023994,Fuerza_Bruta
+4,77,122,0.027348,Fuerza_Bruta
+5,77,85,0.036056,Fuerza_Bruta
+6,77,207,0.050179,Fuerza_Bruta
+7,77,158,0.046119,Fuerza_Bruta
+8,77,163,0.122124,Fuerza_Bruta
+9,77,181,0.186382,Fuerza_Bruta
+10,77,142,0.368741,Fuerza_Bruta
+11,77,143,0.757148,Fuerza_Bruta
+12,77,196,1.4827,Fuerza_Bruta
+13,77,256,2.94189,Fuerza_Bruta
+14,77,276,5.07571,Fuerza_Bruta
+15,77,216,10.2012,Fuerza_Bruta
+16,77,189,25.6992,Fuerza_Bruta
+17,77,472,44.7432,Fuerza_Bruta
+18,77,393,90.3391,Fuerza_Bruta
+19,77,424,168.096,Fuerza_Bruta
+20,77,326,344.715,Fuerza_Bruta
+21,77,312,702.938,Fuerza_Bruta
+22,77,385,1442.39,Fuerza_Bruta
+23,77,293,2982.68,Fuerza_Bruta
+24,77,483,6032.59,Fuerza_Bruta
+25,77,455,12328.6,Fuerza_Bruta
+26,77,501,25026.8,Fuerza_Bruta
+1,78,86,0.005927,Fuerza_Bruta
+2,78,44,0.011066,Fuerza_Bruta
+3,78,56,0.020421,Fuerza_Bruta
+4,78,144,0.019847,Fuerza_Bruta
+5,78,99,0.042658,Fuerza_Bruta
+6,78,85,0.029573,Fuerza_Bruta
+7,78,197,0.077015,Fuerza_Bruta
+8,78,272,0.113386,Fuerza_Bruta
+9,78,182,0.207926,Fuerza_Bruta
+10,78,213,0.39233,Fuerza_Bruta
+11,78,363,0.845367,Fuerza_Bruta
+12,78,268,1.63259,Fuerza_Bruta
+13,78,273,3.24541,Fuerza_Bruta
+14,78,291,5.5211,Fuerza_Bruta
+15,78,251,13.3359,Fuerza_Bruta
+16,78,416,25.1479,Fuerza_Bruta
+17,78,296,46.4195,Fuerza_Bruta
+18,78,269,85.9499,Fuerza_Bruta
+19,78,322,169.216,Fuerza_Bruta
+20,78,301,343.984,Fuerza_Bruta
+21,78,441,704.832,Fuerza_Bruta
+22,78,398,1440.78,Fuerza_Bruta
+23,78,376,2980.92,Fuerza_Bruta
+24,78,360,6095.37,Fuerza_Bruta
+25,78,353,12444.6,Fuerza_Bruta
+26,78,264,25330.9,Fuerza_Bruta
+1,79,78,0.006189,Fuerza_Bruta
+2,79,15,0.018612,Fuerza_Bruta
+3,79,53,0.024429,Fuerza_Bruta
+4,79,170,0.029474,Fuerza_Bruta
+5,79,184,0.025675,Fuerza_Bruta
+6,79,123,0.033066,Fuerza_Bruta
+7,79,189,0.053834,Fuerza_Bruta
+8,79,235,0.111713,Fuerza_Bruta
+9,79,149,0.250507,Fuerza_Bruta
+10,79,208,0.423958,Fuerza_Bruta
+11,79,257,0.608912,Fuerza_Bruta
+12,79,168,1.57463,Fuerza_Bruta
+13,79,207,2.85894,Fuerza_Bruta
+14,79,271,6.9892,Fuerza_Bruta
+15,79,243,11.424,Fuerza_Bruta
+16,79,286,20.0643,Fuerza_Bruta
+17,79,284,43.5123,Fuerza_Bruta
+18,79,357,84.4349,Fuerza_Bruta
+19,79,302,171.847,Fuerza_Bruta
+20,79,436,345.13,Fuerza_Bruta
+21,79,315,707.251,Fuerza_Bruta
+22,79,311,1451.9,Fuerza_Bruta
+23,79,208,2986.39,Fuerza_Bruta
+24,79,339,6085.25,Fuerza_Bruta
+25,79,424,12265.6,Fuerza_Bruta
+26,79,233,25324.1,Fuerza_Bruta
+1,80,22,0.006415,Fuerza_Bruta
+2,80,167,0.012617,Fuerza_Bruta
+3,80,92,0.035326,Fuerza_Bruta
+4,80,141,0.01976,Fuerza_Bruta
+5,80,134,0.019691,Fuerza_Bruta
+6,80,121,0.037213,Fuerza_Bruta
+7,80,102,0.064407,Fuerza_Bruta
+8,80,189,0.120483,Fuerza_Bruta
+9,80,165,0.213688,Fuerza_Bruta
+10,80,168,0.424274,Fuerza_Bruta
+11,80,244,0.765691,Fuerza_Bruta
+12,80,333,1.86401,Fuerza_Bruta
+13,80,232,2.95625,Fuerza_Bruta
+14,80,232,7.49683,Fuerza_Bruta
+15,80,303,12.8955,Fuerza_Bruta
+16,80,240,20.6247,Fuerza_Bruta
+17,80,429,43.1153,Fuerza_Bruta
+18,80,385,86.6425,Fuerza_Bruta
+19,80,249,172.794,Fuerza_Bruta
+20,80,334,344.384,Fuerza_Bruta
+21,80,411,704.491,Fuerza_Bruta
+22,80,311,1458.82,Fuerza_Bruta
+23,80,514,2971.9,Fuerza_Bruta
+24,80,455,6076.39,Fuerza_Bruta
+25,80,148,12447.9,Fuerza_Bruta
+26,80,451,25321.9,Fuerza_Bruta
+1,81,88,0.006889,Fuerza_Bruta
+2,81,56,0.012236,Fuerza_Bruta
+3,81,141,0.029753,Fuerza_Bruta
+4,81,77,0.040046,Fuerza_Bruta
+5,81,171,0.029229,Fuerza_Bruta
+6,81,199,0.036417,Fuerza_Bruta
+7,81,98,0.113943,Fuerza_Bruta
+8,81,132,0.124559,Fuerza_Bruta
+9,81,132,0.161249,Fuerza_Bruta
+10,81,154,0.375154,Fuerza_Bruta
+11,81,335,0.959711,Fuerza_Bruta
+12,81,263,1.59995,Fuerza_Bruta
+13,81,284,2.59436,Fuerza_Bruta
+14,81,527,6.26475,Fuerza_Bruta
+15,81,142,9.99892,Fuerza_Bruta
+16,81,406,19.7981,Fuerza_Bruta
+17,81,407,45.6104,Fuerza_Bruta
+18,81,422,86.02,Fuerza_Bruta
+19,81,250,172.764,Fuerza_Bruta
+20,81,437,343.615,Fuerza_Bruta
+21,81,358,699.12,Fuerza_Bruta
+22,81,303,1450.06,Fuerza_Bruta
+23,81,210,2981.05,Fuerza_Bruta
+24,81,339,6045.44,Fuerza_Bruta
+25,81,313,12446.1,Fuerza_Bruta
+26,81,389,25209.9,Fuerza_Bruta
+1,82,74,0.005476,Fuerza_Bruta
+2,82,66,0.014963,Fuerza_Bruta
+3,82,87,0.028769,Fuerza_Bruta
+4,82,166,0.021976,Fuerza_Bruta
+5,82,158,0.019188,Fuerza_Bruta
+6,82,151,0.040144,Fuerza_Bruta
+7,82,194,0.062034,Fuerza_Bruta
+8,82,166,0.10459,Fuerza_Bruta
+9,82,255,0.182259,Fuerza_Bruta
+10,82,142,0.458629,Fuerza_Bruta
+11,82,99,0.632929,Fuerza_Bruta
+12,82,294,1.6216,Fuerza_Bruta
+13,82,268,2.94088,Fuerza_Bruta
+14,82,265,5.39435,Fuerza_Bruta
+15,82,257,10.6026,Fuerza_Bruta
+16,82,328,25.0242,Fuerza_Bruta
+17,82,200,44.843,Fuerza_Bruta
+18,82,231,86.1344,Fuerza_Bruta
+19,82,424,170.051,Fuerza_Bruta
+20,82,313,346.76,Fuerza_Bruta
+21,82,226,713.649,Fuerza_Bruta
+22,82,350,1446.93,Fuerza_Bruta
+23,82,431,2970.16,Fuerza_Bruta
+24,82,287,6103.28,Fuerza_Bruta
+25,82,298,12436.9,Fuerza_Bruta
+26,82,291,25240.5,Fuerza_Bruta
+1,83,65,0.006687,Fuerza_Bruta
+2,83,71,0.012449,Fuerza_Bruta
+3,83,126,0.025711,Fuerza_Bruta
+4,83,99,0.02095,Fuerza_Bruta
+5,83,165,0.023484,Fuerza_Bruta
+6,83,186,0.031275,Fuerza_Bruta
+7,83,153,0.058995,Fuerza_Bruta
+8,83,196,0.088904,Fuerza_Bruta
+9,83,237,0.262258,Fuerza_Bruta
+10,83,311,0.422351,Fuerza_Bruta
+11,83,261,0.695813,Fuerza_Bruta
+12,83,368,1.74783,Fuerza_Bruta
+13,83,263,3.36436,Fuerza_Bruta
+14,83,232,6.91432,Fuerza_Bruta
+15,83,330,13.1826,Fuerza_Bruta
+16,83,360,25.2288,Fuerza_Bruta
+17,83,307,46.768,Fuerza_Bruta
+18,83,444,84.5774,Fuerza_Bruta
+19,83,385,169.988,Fuerza_Bruta
+20,83,424,345.26,Fuerza_Bruta
+21,83,330,707.1,Fuerza_Bruta
+22,83,309,1453.37,Fuerza_Bruta
+23,83,342,2976.37,Fuerza_Bruta
+24,83,449,6038.17,Fuerza_Bruta
+25,83,505,12239.2,Fuerza_Bruta
+26,83,323,25212.6,Fuerza_Bruta
+1,84,59,0.007336,Fuerza_Bruta
+2,84,60,0.012405,Fuerza_Bruta
+3,84,106,0.035483,Fuerza_Bruta
+4,84,142,0.022605,Fuerza_Bruta
+5,84,181,0.039572,Fuerza_Bruta
+6,84,164,0.038004,Fuerza_Bruta
+7,84,120,0.083007,Fuerza_Bruta
+8,84,246,0.111981,Fuerza_Bruta
+9,84,162,0.258689,Fuerza_Bruta
+10,84,162,0.322338,Fuerza_Bruta
+11,84,315,0.586065,Fuerza_Bruta
+12,84,160,1.93929,Fuerza_Bruta
+13,84,268,3.35801,Fuerza_Bruta
+14,84,219,6.4058,Fuerza_Bruta
+15,84,312,10.7356,Fuerza_Bruta
+16,84,356,20.1294,Fuerza_Bruta
+17,84,307,45.0754,Fuerza_Bruta
+18,84,321,84.9375,Fuerza_Bruta
+19,84,197,172.551,Fuerza_Bruta
+20,84,233,345.173,Fuerza_Bruta
+21,84,381,713.089,Fuerza_Bruta
+22,84,333,1442.2,Fuerza_Bruta
+23,84,300,2983.36,Fuerza_Bruta
+24,84,390,6073.16,Fuerza_Bruta
+25,84,352,12446.2,Fuerza_Bruta
+26,84,300,25311.1,Fuerza_Bruta
+1,85,85,0.005665,Fuerza_Bruta
+2,85,6,0.017921,Fuerza_Bruta
+3,85,131,0.040866,Fuerza_Bruta
+4,85,149,0.019827,Fuerza_Bruta
+5,85,165,0.02538,Fuerza_Bruta
+6,85,283,0.027446,Fuerza_Bruta
+7,85,189,0.047766,Fuerza_Bruta
+8,85,193,0.099844,Fuerza_Bruta
+9,85,311,0.169372,Fuerza_Bruta
+10,85,145,0.371113,Fuerza_Bruta
+11,85,260,0.808188,Fuerza_Bruta
+12,85,211,1.3897,Fuerza_Bruta
+13,85,277,3.72186,Fuerza_Bruta
+14,85,224,6.89987,Fuerza_Bruta
+15,85,315,10.4778,Fuerza_Bruta
+16,85,277,24.5204,Fuerza_Bruta
+17,85,249,41.4923,Fuerza_Bruta
+18,85,195,87.8994,Fuerza_Bruta
+19,85,237,169.57,Fuerza_Bruta
+20,85,431,344.043,Fuerza_Bruta
+21,85,418,698.081,Fuerza_Bruta
+22,85,357,1447.6,Fuerza_Bruta
+23,85,397,2992.18,Fuerza_Bruta
+24,85,272,6111.17,Fuerza_Bruta
+25,85,280,12436.1,Fuerza_Bruta
+26,85,540,24985.6,Fuerza_Bruta
+1,86,86,0.009747,Fuerza_Bruta
+2,86,77,0.013695,Fuerza_Bruta
+3,86,96,0.019044,Fuerza_Bruta
+4,86,84,0.023538,Fuerza_Bruta
+5,86,131,0.02229,Fuerza_Bruta
+6,86,210,0.035837,Fuerza_Bruta
+7,86,275,0.044373,Fuerza_Bruta
+8,86,276,0.108156,Fuerza_Bruta
+9,86,218,0.169221,Fuerza_Bruta
+10,86,158,0.378108,Fuerza_Bruta
+11,86,246,0.805132,Fuerza_Bruta
+12,86,283,1.45748,Fuerza_Bruta
+13,86,346,3.52818,Fuerza_Bruta
+14,86,329,7.61877,Fuerza_Bruta
+15,86,309,12.3049,Fuerza_Bruta
+16,86,264,25.3732,Fuerza_Bruta
+17,86,252,44.6431,Fuerza_Bruta
+18,86,403,85.6158,Fuerza_Bruta
+19,86,186,174.404,Fuerza_Bruta
+20,86,379,342.052,Fuerza_Bruta
+21,86,259,707.308,Fuerza_Bruta
+22,86,429,1424.31,Fuerza_Bruta
+23,86,227,2986.37,Fuerza_Bruta
+24,86,403,6092.37,Fuerza_Bruta
+25,86,373,12388.8,Fuerza_Bruta
+26,86,281,25253.2,Fuerza_Bruta
+1,87,31,0.007414,Fuerza_Bruta
+2,87,110,0.017237,Fuerza_Bruta
+3,87,144,0.038652,Fuerza_Bruta
+4,87,165,0.017191,Fuerza_Bruta
+5,87,281,0.021763,Fuerza_Bruta
+6,87,129,0.028441,Fuerza_Bruta
+7,87,187,0.056763,Fuerza_Bruta
+8,87,168,0.095498,Fuerza_Bruta
+9,87,154,0.255346,Fuerza_Bruta
+10,87,138,0.375694,Fuerza_Bruta
+11,87,184,0.721006,Fuerza_Bruta
+12,87,287,1.55235,Fuerza_Bruta
+13,87,234,3.57306,Fuerza_Bruta
+14,87,325,6.61752,Fuerza_Bruta
+15,87,332,12.3424,Fuerza_Bruta
+16,87,374,23.0057,Fuerza_Bruta
+17,87,169,44.9851,Fuerza_Bruta
+18,87,358,84.8859,Fuerza_Bruta
+19,87,197,172.622,Fuerza_Bruta
+20,87,258,350.471,Fuerza_Bruta
+21,87,244,713.308,Fuerza_Bruta
+22,87,342,1444.36,Fuerza_Bruta
+23,87,376,2981.86,Fuerza_Bruta
+24,87,387,6029.63,Fuerza_Bruta
+25,87,387,12396,Fuerza_Bruta
+26,87,355,25256.1,Fuerza_Bruta
+1,88,75,0.017922,Fuerza_Bruta
+2,88,85,0.015452,Fuerza_Bruta
+3,88,73,0.026332,Fuerza_Bruta
+4,88,165,0.024442,Fuerza_Bruta
+5,88,120,0.027505,Fuerza_Bruta
+6,88,213,0.027336,Fuerza_Bruta
+7,88,260,0.059612,Fuerza_Bruta
+8,88,254,0.095183,Fuerza_Bruta
+9,88,184,0.236669,Fuerza_Bruta
+10,88,168,0.469935,Fuerza_Bruta
+11,88,251,0.699352,Fuerza_Bruta
+12,88,369,1.62125,Fuerza_Bruta
+13,88,354,3.37909,Fuerza_Bruta
+14,88,240,6.26637,Fuerza_Bruta
+15,88,321,12.0538,Fuerza_Bruta
+16,88,205,25.0518,Fuerza_Bruta
+17,88,282,43.9571,Fuerza_Bruta
+18,88,249,86.7564,Fuerza_Bruta
+19,88,335,170.72,Fuerza_Bruta
+20,88,317,344.06,Fuerza_Bruta
+21,88,322,703.12,Fuerza_Bruta
+22,88,345,1451.16,Fuerza_Bruta
+23,88,371,2964.12,Fuerza_Bruta
+24,88,343,6047.96,Fuerza_Bruta
+25,88,434,12378.4,Fuerza_Bruta
+26,88,324,25271.7,Fuerza_Bruta
+1,89,73,0.008549,Fuerza_Bruta
+2,89,101,0.015053,Fuerza_Bruta
+3,89,125,0.01824,Fuerza_Bruta
+4,89,66,0.028976,Fuerza_Bruta
+5,89,136,0.02629,Fuerza_Bruta
+6,89,166,0.029416,Fuerza_Bruta
+7,89,183,0.048863,Fuerza_Bruta
+8,89,251,0.08407,Fuerza_Bruta
+9,89,239,0.272401,Fuerza_Bruta
+10,89,219,0.414891,Fuerza_Bruta
+11,89,180,1.0056,Fuerza_Bruta
+12,89,283,1.35256,Fuerza_Bruta
+13,89,218,3.6511,Fuerza_Bruta
+14,89,235,7.02366,Fuerza_Bruta
+15,89,334,10.0891,Fuerza_Bruta
+16,89,279,25.6246,Fuerza_Bruta
+17,89,200,40.9683,Fuerza_Bruta
+18,89,378,87.3382,Fuerza_Bruta
+19,89,273,174.713,Fuerza_Bruta
+20,89,431,342.289,Fuerza_Bruta
+21,89,453,690.683,Fuerza_Bruta
+22,89,326,1456.13,Fuerza_Bruta
+23,89,351,2980.37,Fuerza_Bruta
+24,89,321,6077.53,Fuerza_Bruta
+25,89,505,12240.9,Fuerza_Bruta
+26,89,354,25305.9,Fuerza_Bruta
+1,90,60,0.005951,Fuerza_Bruta
+2,90,128,0.014259,Fuerza_Bruta
+3,90,34,0.030707,Fuerza_Bruta
+4,90,186,0.030526,Fuerza_Bruta
+5,90,133,0.027563,Fuerza_Bruta
+6,90,116,0.02865,Fuerza_Bruta
+7,90,172,0.05085,Fuerza_Bruta
+8,90,197,0.128195,Fuerza_Bruta
+9,90,321,0.221923,Fuerza_Bruta
+10,90,216,0.361794,Fuerza_Bruta
+11,90,224,0.676827,Fuerza_Bruta
+12,90,269,1.38529,Fuerza_Bruta
+13,90,323,3.54752,Fuerza_Bruta
+14,90,156,5.71413,Fuerza_Bruta
+15,90,240,14.3676,Fuerza_Bruta
+16,90,402,25.7308,Fuerza_Bruta
+17,90,321,44.5837,Fuerza_Bruta
+18,90,439,83.8428,Fuerza_Bruta
+19,90,266,171.186,Fuerza_Bruta
+20,90,356,342.362,Fuerza_Bruta
+21,90,311,705.689,Fuerza_Bruta
+22,90,329,1436.68,Fuerza_Bruta
+23,90,296,2976.83,Fuerza_Bruta
+24,90,381,6049.65,Fuerza_Bruta
+25,90,446,12248.3,Fuerza_Bruta
+26,90,395,25119,Fuerza_Bruta
+1,91,66,0.006503,Fuerza_Bruta
+2,91,96,0.018226,Fuerza_Bruta
+3,91,99,0.03512,Fuerza_Bruta
+4,91,145,0.029053,Fuerza_Bruta
+5,91,131,0.022054,Fuerza_Bruta
+6,91,92,0.035858,Fuerza_Bruta
+7,91,278,0.058088,Fuerza_Bruta
+8,91,151,0.096671,Fuerza_Bruta
+9,91,256,0.218714,Fuerza_Bruta
+10,91,146,0.426587,Fuerza_Bruta
+11,91,233,0.613236,Fuerza_Bruta
+12,91,148,1.74536,Fuerza_Bruta
+13,91,268,2.69581,Fuerza_Bruta
+14,91,126,6.6918,Fuerza_Bruta
+15,91,234,13.7563,Fuerza_Bruta
+16,91,344,20.1738,Fuerza_Bruta
+17,91,335,45.6613,Fuerza_Bruta
+18,91,124,87.1024,Fuerza_Bruta
+19,91,252,171.087,Fuerza_Bruta
+20,91,379,344.167,Fuerza_Bruta
+21,91,274,707.84,Fuerza_Bruta
+22,91,358,1432.8,Fuerza_Bruta
+23,91,362,2974.5,Fuerza_Bruta
+24,91,229,6098.34,Fuerza_Bruta
+25,91,441,12411.7,Fuerza_Bruta
+26,91,550,25079.3,Fuerza_Bruta
+1,92,52,0.006891,Fuerza_Bruta
+2,92,29,0.010968,Fuerza_Bruta
+3,92,99,0.019524,Fuerza_Bruta
+4,92,125,0.035979,Fuerza_Bruta
+5,92,276,0.041968,Fuerza_Bruta
+6,92,156,0.046303,Fuerza_Bruta
+7,92,168,0.043196,Fuerza_Bruta
+8,92,184,0.080751,Fuerza_Bruta
+9,92,152,0.191822,Fuerza_Bruta
+10,92,143,0.388608,Fuerza_Bruta
+11,92,282,0.862889,Fuerza_Bruta
+12,92,279,1.55018,Fuerza_Bruta
+13,92,187,2.58535,Fuerza_Bruta
+14,92,211,5.15002,Fuerza_Bruta
+15,92,223,12.7615,Fuerza_Bruta
+16,92,218,23.9374,Fuerza_Bruta
+17,92,233,45.097,Fuerza_Bruta
+18,92,280,85.1814,Fuerza_Bruta
+19,92,295,170.588,Fuerza_Bruta
+20,92,386,343.233,Fuerza_Bruta
+21,92,411,703.386,Fuerza_Bruta
+22,92,329,1450.57,Fuerza_Bruta
+23,92,335,2968.06,Fuerza_Bruta
+24,92,178,6102.72,Fuerza_Bruta
+25,92,428,12361.9,Fuerza_Bruta
+26,92,394,25200.9,Fuerza_Bruta
+1,93,57,0.007778,Fuerza_Bruta
+2,93,113,0.029857,Fuerza_Bruta
+3,93,38,0.045599,Fuerza_Bruta
+4,93,123,0.02718,Fuerza_Bruta
+5,93,180,0.040094,Fuerza_Bruta
+6,93,250,0.026937,Fuerza_Bruta
+7,93,151,0.055844,Fuerza_Bruta
+8,93,184,0.126344,Fuerza_Bruta
+9,93,147,0.183951,Fuerza_Bruta
+10,93,266,0.423061,Fuerza_Bruta
+11,93,280,0.829531,Fuerza_Bruta
+12,93,202,1.47453,Fuerza_Bruta
+13,93,388,2.99093,Fuerza_Bruta
+14,93,185,5.19414,Fuerza_Bruta
+15,93,389,11.5434,Fuerza_Bruta
+16,93,287,25.2504,Fuerza_Bruta
+17,93,160,46.2078,Fuerza_Bruta
+18,93,300,85.8226,Fuerza_Bruta
+19,93,291,170.458,Fuerza_Bruta
+20,93,324,342.123,Fuerza_Bruta
+21,93,356,693.928,Fuerza_Bruta
+22,93,358,1452.46,Fuerza_Bruta
+23,93,288,2992.72,Fuerza_Bruta
+24,93,316,6071.17,Fuerza_Bruta
+25,93,398,12357.7,Fuerza_Bruta
+26,93,341,25278.6,Fuerza_Bruta
+1,94,80,0.004944,Fuerza_Bruta
+2,94,94,0.011264,Fuerza_Bruta
+3,94,68,0.041503,Fuerza_Bruta
+4,94,52,0.01614,Fuerza_Bruta
+5,94,110,0.026647,Fuerza_Bruta
+6,94,272,0.034154,Fuerza_Bruta
+7,94,158,0.064586,Fuerza_Bruta
+8,94,162,0.114807,Fuerza_Bruta
+9,94,116,0.175262,Fuerza_Bruta
+10,94,295,0.39543,Fuerza_Bruta
+11,94,264,0.726386,Fuerza_Bruta
+12,94,172,1.29203,Fuerza_Bruta
+13,94,295,2.6229,Fuerza_Bruta
+14,94,333,5.50162,Fuerza_Bruta
+15,94,433,12.7979,Fuerza_Bruta
+16,94,304,26.126,Fuerza_Bruta
+17,94,260,49.5159,Fuerza_Bruta
+18,94,362,82.4429,Fuerza_Bruta
+19,94,332,171.673,Fuerza_Bruta
+20,94,355,347.682,Fuerza_Bruta
+21,94,404,697.674,Fuerza_Bruta
+22,94,276,1447.21,Fuerza_Bruta
+23,94,463,2938.77,Fuerza_Bruta
+24,94,392,6101.36,Fuerza_Bruta
+25,94,326,12429.9,Fuerza_Bruta
+26,94,325,25304.4,Fuerza_Bruta
+1,95,73,0.00594,Fuerza_Bruta
+2,95,67,0.011118,Fuerza_Bruta
+3,95,145,0.02922,Fuerza_Bruta
+4,95,176,0.022844,Fuerza_Bruta
+5,95,147,0.021111,Fuerza_Bruta
+6,95,168,0.036162,Fuerza_Bruta
+7,95,157,0.057963,Fuerza_Bruta
+8,95,197,0.081495,Fuerza_Bruta
+9,95,132,0.148148,Fuerza_Bruta
+10,95,216,0.365532,Fuerza_Bruta
+11,95,275,0.788104,Fuerza_Bruta
+12,95,154,1.56508,Fuerza_Bruta
+13,95,340,3.02279,Fuerza_Bruta
+14,95,361,5.20792,Fuerza_Bruta
+15,95,372,10.0404,Fuerza_Bruta
+16,95,265,20.3954,Fuerza_Bruta
+17,95,231,46.992,Fuerza_Bruta
+18,95,284,82.4962,Fuerza_Bruta
+19,95,370,170.257,Fuerza_Bruta
+20,95,217,345.161,Fuerza_Bruta
+21,95,275,710.056,Fuerza_Bruta
+22,95,342,1447.43,Fuerza_Bruta
+23,95,341,2960.71,Fuerza_Bruta
+24,95,497,6016.58,Fuerza_Bruta
+25,95,251,12494.6,Fuerza_Bruta
+26,95,317,25207.1,Fuerza_Bruta
+1,96,30,0.006406,Fuerza_Bruta
+2,96,89,0.016888,Fuerza_Bruta
+3,96,57,0.032814,Fuerza_Bruta
+4,96,201,0.024194,Fuerza_Bruta
+5,96,68,0.025527,Fuerza_Bruta
+6,96,253,0.028115,Fuerza_Bruta
+7,96,230,0.065434,Fuerza_Bruta
+8,96,164,0.084971,Fuerza_Bruta
+9,96,283,0.27058,Fuerza_Bruta
+10,96,120,0.473606,Fuerza_Bruta
+11,96,120,0.852399,Fuerza_Bruta
+12,96,160,1.59699,Fuerza_Bruta
+13,96,267,2.60738,Fuerza_Bruta
+14,96,292,5.07108,Fuerza_Bruta
+15,96,405,13.3797,Fuerza_Bruta
+11,29,298,1.38678,Fuerza_Bruta
+16,96,198,21.1489,Fuerza_Bruta
+17,96,226,43.6824,Fuerza_Bruta
+18,96,472,84.8924,Fuerza_Bruta
+19,96,448,167.103,Fuerza_Bruta
+20,96,414,344.52,Fuerza_Bruta
+21,96,243,710.817,Fuerza_Bruta
+22,96,365,1440.1,Fuerza_Bruta
+23,96,248,2977.39,Fuerza_Bruta
+24,96,322,6087.17,Fuerza_Bruta
+25,96,394,12373,Fuerza_Bruta
+26,96,258,25312,Fuerza_Bruta
+1,97,43,0.007683,Fuerza_Bruta
+2,97,68,0.025649,Fuerza_Bruta
+3,97,34,0.027596,Fuerza_Bruta
+4,97,138,0.020593,Fuerza_Bruta
+5,97,137,0.025883,Fuerza_Bruta
+6,97,269,0.036629,Fuerza_Bruta
+7,97,154,0.088487,Fuerza_Bruta
+8,97,298,0.091948,Fuerza_Bruta
+9,97,185,0.193395,Fuerza_Bruta
+10,97,238,0.409105,Fuerza_Bruta
+11,97,393,0.805398,Fuerza_Bruta
+12,97,483,1.3482,Fuerza_Bruta
+13,97,306,2.60694,Fuerza_Bruta
+14,97,164,7.08385,Fuerza_Bruta
+15,97,359,12.7903,Fuerza_Bruta
+16,97,188,23.5303,Fuerza_Bruta
+17,97,225,45.8106,Fuerza_Bruta
+18,97,264,85.9504,Fuerza_Bruta
+19,97,321,170.374,Fuerza_Bruta
+20,97,237,351.752,Fuerza_Bruta
+21,97,386,701.224,Fuerza_Bruta
+22,97,339,1452.23,Fuerza_Bruta
+23,97,361,2970.52,Fuerza_Bruta
+24,97,365,6087.49,Fuerza_Bruta
+25,97,327,12430.3,Fuerza_Bruta
+26,97,320,25317.3,Fuerza_Bruta
+1,98,63,0.011266,Fuerza_Bruta
+2,98,72,0.010643,Fuerza_Bruta
+3,98,93,0.032033,Fuerza_Bruta
+4,98,189,0.026909,Fuerza_Bruta
+5,98,217,0.022106,Fuerza_Bruta
+6,98,311,0.036806,Fuerza_Bruta
+7,98,149,0.073143,Fuerza_Bruta
+8,98,237,0.113513,Fuerza_Bruta
+9,98,221,0.20746,Fuerza_Bruta
+10,98,287,0.327346,Fuerza_Bruta
+11,98,331,0.798717,Fuerza_Bruta
+12,98,166,1.60923,Fuerza_Bruta
+13,98,226,3.33301,Fuerza_Bruta
+14,98,260,5.82996,Fuerza_Bruta
+15,98,322,10.2665,Fuerza_Bruta
+16,98,247,25.1812,Fuerza_Bruta
+17,98,311,44.5058,Fuerza_Bruta
+18,98,219,86.2065,Fuerza_Bruta
+19,98,307,170.047,Fuerza_Bruta
+20,98,461,346.722,Fuerza_Bruta
+21,98,474,701.335,Fuerza_Bruta
+22,98,419,1425.73,Fuerza_Bruta
+23,98,380,2974.64,Fuerza_Bruta
+24,98,360,6043.46,Fuerza_Bruta
+25,98,389,12415.9,Fuerza_Bruta
+26,98,311,25149.2,Fuerza_Bruta
+1,99,52,0.006826,Fuerza_Bruta
+2,99,63,0.008456,Fuerza_Bruta
+3,99,95,0.024063,Fuerza_Bruta
+4,99,36,0.024226,Fuerza_Bruta
+5,99,122,0.039188,Fuerza_Bruta
+6,99,164,0.038267,Fuerza_Bruta
+7,99,193,0.058027,Fuerza_Bruta
+8,99,178,0.080611,Fuerza_Bruta
+9,99,143,0.175911,Fuerza_Bruta
+10,99,272,0.35019,Fuerza_Bruta
+11,99,107,0.823154,Fuerza_Bruta
+12,99,234,1.56591,Fuerza_Bruta
+13,99,256,3.2317,Fuerza_Bruta
+14,99,360,7.08577,Fuerza_Bruta
+15,99,394,11.1494,Fuerza_Bruta
+16,99,339,20.3571,Fuerza_Bruta
+17,99,330,40.4278,Fuerza_Bruta
+18,99,336,88.5173,Fuerza_Bruta
+19,99,186,172.299,Fuerza_Bruta
+20,99,330,345.111,Fuerza_Bruta
+21,99,350,709.149,Fuerza_Bruta
+22,99,319,1461.42,Fuerza_Bruta
+23,99,472,2956.45,Fuerza_Bruta
+24,99,443,6048.66,Fuerza_Bruta
+25,99,267,12446.6,Fuerza_Bruta
+26,99,393,25223.5,Fuerza_Bruta
+2,100,91,0.014459,Fuerza_Bruta
+3,100,73,0.017803,Fuerza_Bruta
+4,100,96,0.028423,Fuerza_Bruta
+5,100,136,0.040609,Fuerza_Bruta
+6,100,170,0.037616,Fuerza_Bruta
+7,100,166,0.043623,Fuerza_Bruta
+8,100,167,0.132644,Fuerza_Bruta
+9,100,168,0.162307,Fuerza_Bruta
+10,100,296,0.473725,Fuerza_Bruta
+11,100,192,0.854656,Fuerza_Bruta
+12,100,106,1.39939,Fuerza_Bruta
+13,100,224,3.00213,Fuerza_Bruta
+14,100,297,5.55607,Fuerza_Bruta
+15,100,239,15.2801,Fuerza_Bruta
+16,100,342,24.8256,Fuerza_Bruta
+17,100,278,42.8744,Fuerza_Bruta
+18,100,308,87.8226,Fuerza_Bruta
+19,100,217,177.941,Fuerza_Bruta
+20,100,336,364.966,Fuerza_Bruta
+21,100,431,726.759,Fuerza_Bruta
+22,100,258,1505.18,Fuerza_Bruta
+23,100,279,3135.02,Fuerza_Bruta
+24,100,366,6445.63,Fuerza_Bruta
+25,100,557,12868.1,Fuerza_Bruta
+26,100,273,25592.7,Fuerza_Bruta
+27,100,542,52205.9,Fuerza_Bruta
 9,50,317,0.265469,Fuerza_Bruta,
 25,50,330,10626.7,Fuerza_Bruta,
 29,50,452,180396,Fuerza_Bruta,
@@ -2684,3 +2684,53 @@ n,W,b,Tiempo,Metodo,nodos
 16,50,341,25.0987,Fuerza_Bruta,
 7,50,171,0.042594,Fuerza_Bruta,
 14,50,154,5.26034,Fuerza_Bruta,
+9,50,317,0.284716,Fuerza_Bruta,
+25,50,330,10848.2,Fuerza_Bruta,
+29,50,452,185156,Fuerza_Bruta,
+23,50,387,2654.85,Fuerza_Bruta,
+6,50,169,0.098116,Fuerza_Bruta,
+5,50,118,0.025357,Fuerza_Bruta,
+26,50,400,22047.2,Fuerza_Bruta,
+18,50,364,76.8539,Fuerza_Bruta,
+10,50,184,0.408636,Fuerza_Bruta,
+19,50,374,155.017,Fuerza_Bruta,
+28,50,375,92836.5,Fuerza_Bruta,
+8,50,187,0.229193,Fuerza_Bruta,
+17,50,251,41.8508,Fuerza_Bruta,
+12,50,289,2.0202,Fuerza_Bruta,
+11,50,281,0.675837,Fuerza_Bruta,
+24,50,237,5359.21,Fuerza_Bruta,
+21,50,240,626.103,Fuerza_Bruta,
+13,50,249,3.45971,Fuerza_Bruta,
+15,50,131,11.5271,Fuerza_Bruta,
+27,50,381,44602.7,Fuerza_Bruta,
+20,50,271,311.09,Fuerza_Bruta,
+22,50,345,1265.68,Fuerza_Bruta,
+16,50,341,22.8029,Fuerza_Bruta,
+7,50,171,0.10081,Fuerza_Bruta,
+14,50,154,7.43468,Fuerza_Bruta,
+9,50,317,0.19448,Fuerza_Bruta,
+25,50,330,10807.2,Fuerza_Bruta,
+29,50,452,186691,Fuerza_Bruta,
+23,50,387,2663.55,Fuerza_Bruta,
+6,50,169,0.032136,Fuerza_Bruta,
+5,50,118,0.030885,Fuerza_Bruta,
+26,50,400,22626.3,Fuerza_Bruta,
+18,50,364,90.0104,Fuerza_Bruta,
+10,50,184,0.257278,Fuerza_Bruta,
+19,50,374,151.111,Fuerza_Bruta,
+28,50,375,91924.2,Fuerza_Bruta,
+8,50,187,0.075747,Fuerza_Bruta,
+17,50,251,37.2298,Fuerza_Bruta,
+12,50,289,1.0616,Fuerza_Bruta,
+11,50,281,0.787087,Fuerza_Bruta,
+24,50,237,5448.89,Fuerza_Bruta,
+21,50,240,638.178,Fuerza_Bruta,
+13,50,249,2.1637,Fuerza_Bruta,
+15,50,131,9.13373,Fuerza_Bruta,
+27,50,381,45464.4,Fuerza_Bruta,
+20,50,271,330.843,Fuerza_Bruta,
+22,50,345,1283.26,Fuerza_Bruta,
+16,50,341,19.4592,Fuerza_Bruta,
+7,50,171,0.041383,Fuerza_Bruta,
+14,50,154,4.47849,Fuerza_Bruta,

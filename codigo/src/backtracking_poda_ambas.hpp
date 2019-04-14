@@ -28,14 +28,8 @@ unsigned int Poda(const ConjLineal& s, const DatosProblema& dp, int b, int t, un
 void Solve_Backtracking_Ambas(const ConjLineal& s, const DatosProblema& dp, unsigned int b_candidato, unsigned int t_candidato, unsigned int& sol, unsigned int idx_elem, unsigned int& nodos){
     nodos++;
 
-    if (b_candidato + dp.ps[s[idx_elem]] > sol && t_candidato + dp.ws[s[idx_elem]] <= dp.W){
+    if (b_candidato + dp.ps[s[idx_elem]] > sol && t_candidato + dp.ws[s[idx_elem]] <= dp.W)
         sol = b_candidato + dp.ps[s[idx_elem]];
-
-        /* cout<<"Cambio la solucion en nodo "<<idx_elem<<endl; */
-        /* cout<<"#Nodo: "<<nodos<<"| Beneficio: "<<b_candidato + dp.ps[s[idx_elem]] <<endl; */ 
-    }
-
-    /* cout<<"Nodo idx: "<<idx_elem<<"| Beneficio: "<<dp.ps[s[idx_elem]]<<"| Peso: "<<dp.ws[s[idx_elem]]<<endl; */
 
     if (idx_elem+1 < s.size()){
         if(t_candidato + dp.ws[s[idx_elem]] <= dp.W){
@@ -53,22 +47,22 @@ void Solve_Backtracking_Ambas(const ConjLineal& s, const DatosProblema& dp, unsi
 
 ResultadoProblema Backtracking_Ambas(const ConjLineal& s, const DatosProblema& dp){
     ResultadoProblema res;
+
     ConjLineal orig(s);
+
     auto start_time = chrono::steady_clock::now();
 
     // Ordenamos los elementos a poner en la mochila de mayor a menor segun la relacion beneficio/peso de cada uno
     // Esto permite podar el arbol de la forma en la que lo hacemos
     sort(orig.begin(), orig.end(), [dp](const int& a, const int& b){
-            return !((static_cast<float>(dp.ps[a])/static_cast<float>(dp.ws[a])) < (static_cast<float>(dp.ps[b])/static_cast<float>(dp.ws[b])));
+            return (static_cast<float>(dp.ps[a])/static_cast<float>(dp.ws[a])) > (static_cast<float>(dp.ps[b])/static_cast<float>(dp.ws[b]));
             });
     Solve_Backtracking_Ambas(orig, dp, 0, 0, res.b, 0, res.nodos);
 
     auto end_time = chrono::steady_clock::now();
     auto diff_time = end_time - start_time;
 
-    /* cout<<"Nodos recorridos backtracking ambas: "<<res.nodos<<endl; */
-
-    res.metodo = 3;
+    res.metodo = 2;
     res.tiempo = chrono::duration <double, milli> (diff_time);
 
     return res;

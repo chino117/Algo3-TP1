@@ -1,7 +1,6 @@
 #include "tipos_aux.h"
 #include "fuerza_bruta.hpp"
 #include "mitm.hpp"
-#include "backtracking_simple.hpp"
 #include "backtracking_poda_ambas.hpp"
 #include "dinamica_top_down.hpp"
 #include <iostream>
@@ -12,7 +11,7 @@
 
 using namespace std;
 
-const unsigned int CANT_MODOS = 7;
+const unsigned int CANT_MODOS = 6;
 const string red("\033[0;31m");
 const string green("\033[1;32m");
 const string yellow("\033[1;33m");
@@ -21,7 +20,6 @@ const string magenta("\033[0;35m");
 const string reset("\033[0m");
 const string nombres_metodos[CANT_MODOS] = {"Fuerza_Bruta", 
                                             "MITM", 
-                                            "Backtracking_simple", 
                                             "Backtracking_podas", 
                                             "Dinamica",
                                             "Todos",
@@ -55,7 +53,7 @@ void Mostrar_Ayuda()
     <<"Valores de Modo:\n";
     for(unsigned int i = 0; i < CANT_MODOS;i++)
         cout<<setw(18)<<i<<" = "<<nombres_metodos[i]<<".\n";
-    cout<<"Cuando ejecuta todos los metodos (metodo 5 y 6), compara los resultados e informa cuándo difieren y cuáles métodos difieren\n";
+    cout<<"Cuando ejecuta todos los metodos (metodo 4 y 5), compara los resultados e informa cuándo difieren y cuáles métodos difieren\n";
     cout<<"Archivo de salida: Debe ser un archivo de formato .csv donde se adjutaran datos del problema como n, W, Beneficio Alcanzado, Tiempo de computo, Metodo utilizado y, para los metodos de backtracking, cantidad de nodos recorridos."<<endl;
 }
 
@@ -120,23 +118,21 @@ int main(int argc, char** argv)
         cout<<"Error al leer el input"<<endl;
         return 1;
     }
-
     // Armo el conjunto original de elementos
     ConjLineal orig(r.n, 0);
-    for(ConjLineal::size_type i = 0;i < orig.size();i++)
+    for(ConjLineal::size_type i = 0;i < r.n;i++)
         orig[i] = i;
 
     vector<unsigned int> metodos_ejecutar;
     if(modo == CANT_MODOS-1)
-        metodos_ejecutar = {3, 4};
+        metodos_ejecutar = {2, 3};
     else if(modo == CANT_MODOS-2)
-        metodos_ejecutar = {0, 1, 2, 3, 4};
+        metodos_ejecutar = {0, 1, 2, 3};
     else
         metodos_ejecutar.push_back(modo);
 
     vector<ResultadoProblema> res;
     for(auto metodo : metodos_ejecutar){
-        cout<<"Ejecutando metodo "<<nombres_metodos[metodo]<<endl;
         ResultadoProblema t;
         switch (metodo){
             case 0: 
@@ -146,12 +142,9 @@ int main(int argc, char** argv)
                 t = MITM(orig, r);
                 break;
             case 2:
-                t = Backtracking_Simple(orig, r);
-                break;
-            case 3:
                 t = Backtracking_Ambas(orig, r);
                 break;
-            case 4:
+            case 3:
                 t = Dinamica_TD(orig, r);
                 break;
             default:

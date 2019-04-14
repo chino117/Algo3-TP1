@@ -5,8 +5,11 @@ import seaborn as sns
 import argparse
 
 def graficar_exp(mediciones, label_mediciones, label_cota):
+    n = mediciones.n.unique()
     ax1 = sns.lineplot(x="n", y="Tiempo", data=mediciones)
     ax1 = sns.lineplot(x="n", y="cota", data=mediciones)
+    plt.xlim([min(n), max(n)])
+    plt.ticklabel_format(style='sci', axis='y')
     plt.legend([label_mediciones, label_cota])
     plt.xlabel("n")
     plt.ylabel("Tiempo(ms)")
