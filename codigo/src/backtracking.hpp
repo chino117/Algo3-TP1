@@ -25,7 +25,7 @@ unsigned int Poda(const ConjLineal& s, const DatosProblema& dp, int b, int t, un
     return static_cast<unsigned int>(res) > sol;
 }
 
-void Solve_Backtracking_Ambas(const ConjLineal& s, const DatosProblema& dp, unsigned int b_candidato, unsigned int t_candidato, unsigned int& sol, unsigned int idx_elem, unsigned int& nodos){
+void Solve_Backtracking(const ConjLineal& s, const DatosProblema& dp, unsigned int b_candidato, unsigned int t_candidato, unsigned int& sol, unsigned int idx_elem, unsigned int& nodos){
     nodos++;
 
     if (b_candidato + dp.ps[s[idx_elem]] > sol && t_candidato + dp.ws[s[idx_elem]] <= dp.W)
@@ -36,16 +36,16 @@ void Solve_Backtracking_Ambas(const ConjLineal& s, const DatosProblema& dp, unsi
             b_candidato += dp.ps[s[idx_elem]];
             t_candidato += dp.ws[s[idx_elem]];
             if (Poda(s, dp, b_candidato, t_candidato, idx_elem+1, sol))
-                Solve_Backtracking_Ambas(s, dp, b_candidato, t_candidato,sol, idx_elem+1, nodos);
+                Solve_Backtracking(s, dp, b_candidato, t_candidato,sol, idx_elem+1, nodos);
             b_candidato -= dp.ps[s[idx_elem]];
             t_candidato -= dp.ws[s[idx_elem]];
         }
         if (Poda(s, dp, b_candidato, t_candidato, idx_elem+1, sol))
-            Solve_Backtracking_Ambas(s, dp, b_candidato, t_candidato,sol, idx_elem+1, nodos);
+            Solve_Backtracking(s, dp, b_candidato, t_candidato,sol, idx_elem+1, nodos);
     }
 }
 
-ResultadoProblema Backtracking_Ambas(const ConjLineal& s, const DatosProblema& dp){
+ResultadoProblema Backtracking(const ConjLineal& s, const DatosProblema& dp){
     ResultadoProblema res;
 
     ConjLineal orig(s);
@@ -57,7 +57,7 @@ ResultadoProblema Backtracking_Ambas(const ConjLineal& s, const DatosProblema& d
     sort(orig.begin(), orig.end(), [dp](const int& a, const int& b){
             return (static_cast<float>(dp.ps[a])/static_cast<float>(dp.ws[a])) > (static_cast<float>(dp.ps[b])/static_cast<float>(dp.ws[b]));
             });
-    Solve_Backtracking_Ambas(orig, dp, 0, 0, res.b, 0, res.nodos);
+    Solve_Backtracking(orig, dp, 0, 0, res.b, 0, res.nodos);
 
     auto end_time = chrono::steady_clock::now();
     auto diff_time = end_time - start_time;

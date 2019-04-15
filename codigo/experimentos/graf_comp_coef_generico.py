@@ -5,6 +5,9 @@ import seaborn as sns
 import argparse
 
 def graficar_exp(mediciones):
+    '''
+    Grafica correlacion entre Tiempo y cota para las mediciones
+    '''
     mediciones = mediciones[["cota", "Tiempo"]]
     coef = "r = %.5f" % mediciones.corr()["cota"][1]
     ax1 = sns.lmplot(x="Tiempo", y="cota", data=mediciones)

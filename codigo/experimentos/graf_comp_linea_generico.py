@@ -5,6 +5,9 @@ import seaborn as sns
 import argparse
 
 def graficar_exp(mediciones, label_mediciones, label_cota):
+    '''
+    Dibuja un grafico de lineas para Tiempo y cota, segun n
+    '''
     n = mediciones.n.unique()
     ax1 = sns.lineplot(x="n", y="Tiempo", data=mediciones)
     ax1 = sns.lineplot(x="n", y="cota", data=mediciones)

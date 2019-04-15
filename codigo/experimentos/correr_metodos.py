@@ -27,6 +27,11 @@ def correr_todos_metodos():
     correr_metodos(0, len(metodos), paths["casos_todos"])
     print("Fin experimentos")
 
+def correr_mitm():
+    print("Corriendo experimentos de todos los metodos")
+    correr_metodos(1, 2, paths["casos_todos"])
+    print("Fin experimentos")
+
 def correr_back_y_dinamica():
     print("Corriendo experimentos de back y dinamica")
     correr_metodos(2, len(metodos), paths["casos_random"])
@@ -48,8 +53,9 @@ def correr_exp_especial_dinamica():
     print("Fin experimentos")
 
 if __name__=="__main__":
-#     correr_todos_metodos()
+    # correr_mitm()
+    # correr_todos_metodos()
 #     correr_back_y_dinamica()
-    correr_exp_especial_back()
+    # correr_exp_especial_back()
 #     correr_exp_especial_dinamica()
 #     # correr_comparar_back_y_dinamica()

@@ -7,7 +7,7 @@ SRC = $(wildcard src/*.cpp)
 OBJ = $(SRC:.cpp=.o)
 
 %.o: %.cpp
-	$(CCX) $(DEBUG_FLAGS) -c -o $@ $^
+	$(CCX) $(FLAGS)	-c -o $@ $^
 
 all: $(OBJ)
 	$(CCX) $(FLAGS) -o main $^

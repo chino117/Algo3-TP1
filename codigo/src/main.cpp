@@ -1,8 +1,8 @@
 #include "tipos_aux.h"
 #include "fuerza_bruta.hpp"
 #include "mitm.hpp"
-#include "backtracking_poda_ambas.hpp"
-#include "dinamica_top_down.hpp"
+#include "backtracking.hpp"
+#include "dinamica.hpp"
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -142,10 +142,10 @@ int main(int argc, char** argv)
                 t = MITM(orig, r);
                 break;
             case 2:
-                t = Backtracking_Ambas(orig, r);
+                t = Backtracking(orig, r);
                 break;
             case 3:
-                t = Dinamica_TD(orig, r);
+                t = Dinamica(orig, r);
                 break;
             default:
                 break;

@@ -12,6 +12,9 @@ data_paths = ["datos_fuerza_bruta.csv", "datos_mitm.csv", "datos_backtracking.cs
 paths = setup.preparar_entorno()
 
 def comparar_todos(data):
+    '''
+    Dibuja un grafico de linea multiple para comparar los tiempos de cada algoritmo segun n
+    '''
     for i in data["Metodo"].unique():
         ax1 = sns.lineplot(x="n", y="Tiempo", data=data[data["Metodo"] == i])
     plt.xlabel("n")
@@ -20,6 +23,9 @@ def comparar_todos(data):
     plt.show()
 
 def comparar_back_din(data):
+    '''
+    Dibuja un grafico de linea multiple para comparar los tiempos de Backtracking y dinamica segun n
+    '''
     for i in data["Metodo"].unique():
         ax1 = sns.lineplot(x="n", y="Tiempo", data=data[data["Metodo"] == i])
     plt.xlabel("n")
@@ -28,7 +34,9 @@ def comparar_back_din(data):
     plt.show()
 
 if __name__=="__main__":
+    # Agrandamos letras
     sns.set(font_scale=1.1)
+
     todos = [pd.read_csv(os.path.join(paths["datos"], i)) for i in data_paths]
     data = pd.concat(todos, sort=False)
 

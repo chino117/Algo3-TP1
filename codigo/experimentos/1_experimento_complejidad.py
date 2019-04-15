@@ -12,6 +12,10 @@ data_paths = ["datos_fuerza_bruta.csv", "datos_mitm.csv", "datos_backtracking.cs
 paths = setup.preparar_entorno()
 
 def plot_graf(path, metodo, cota):
+    '''
+    Filtra los datos leidos del path, crea la columna cota según la fórmula pasada en cota y
+    dibuja el grafico de linea y el de correlacion correspondiente.abs
+    '''
     datos = pd.read_csv(os.path.join(paths["datos"], path))
 
     datos = setup.filtrar_tiempos_outliers(datos)
@@ -24,6 +28,9 @@ def plot_graf(path, metodo, cota):
     lg.graficar_exp(datos, metodo, cota)
     
 def graf_heat(data):
+    '''
+    Dibuja el heatmap para Programacion Dinamica
+    '''
     data = data.drop_duplicates(["n", "W"])
     data = data[data["n"] >= 1000]
     data = data[data["W"] >= 1000]
@@ -33,6 +40,9 @@ def graf_heat(data):
     plt.show()
 
 def graf_lineas(data):
+    '''
+    Dibuja el grafico de multiples lineas para Dinamica
+    '''
     fig = plt.figure()
 
     Ws = [1000, 5000, 10000]
@@ -53,6 +63,9 @@ def graf_lineas(data):
     plt.show()
 
 def plot_graf_multi_dinamica(path):
+    '''
+    Lee los datos de dinamica y dibuja todos los graficos correspondientes.
+    '''
     data = pd.read_csv(os.path.join(paths["datos"], path))
     data = data[data["n"] >= 100]
     data = data[data["W"] >= 100]
@@ -63,6 +76,9 @@ def plot_graf_multi_dinamica(path):
     cg.graficar_exp(data)
 
 def plot_graf_back(path):
+    '''
+    Lee los datos de backtracking y dibuja todos los graficos correspondientes.
+    '''
     datos = pd.read_csv(os.path.join(paths["datos"], path))
     datos = datos[datos["Metodo"] != "Dinamica"]
     datos = datos[datos["n"] <= 100]
@@ -75,11 +91,16 @@ def plot_graf_back(path):
     lg.graficar_exp(datos, "Backtracking", "n*(2^n)/1e6")
 
 if __name__=="__main__":
+    # Agrandamos la letra
     sns.set(font_scale=1.1)
+
     cotas = ["n*(2**n)/1e5", "(n/2)*(2**(n/2))/5e4"]
     metodos = ["Fuerza Bruta", "MITM"]
+
+    # Dibujamos FB y MITM
     for i, j, k in zip(data_paths[:2], metodos, cotas):
         plot_graf(i, j, k)
+
     plot_graf_back(data_paths[3])
     plot_graf_back("datos_problematico_backtracking.csv")
     plot_graf_multi_dinamica(data_paths[-1])
