@@ -5,9 +5,7 @@ import numpy as np
 
 def compilar(path):
     '''
-
     Ejecuta el Makefile que se encuentra en la carpeta indicada por el path
-
     '''
     prev = os.getcwd()
     os.chdir(path)
@@ -17,11 +15,9 @@ def compilar(path):
 
 def filtrar_tiempos_outliers(data):
     '''
-
     Filtra outliers de los tiempos medidos para cada n del DataFrame data.
     Asume solo un tipo de metodo y un solo valor de W.
     Ignora b.
-
     '''
     res = pd.DataFrame(columns=["n", "Tiempo", "Metodo", "W", "nodos"])
     res.n = sorted(data.n.unique())
@@ -67,11 +63,9 @@ def filtrar_tiempos_outliers(data):
     
 def filtrar_tiempos_outliers_mult_var(data):
     '''
-
     Filtra outliers de los tiempos medidos para cada n y W del DataFrame data.
     Asume solo un tipo de metodo.
     Ignora b y nodos.
-
     '''
     res = pd.DataFrame(columns=["n","W", "Tiempo", "Metodo"]) 
     cada_nw = data.drop_duplicates()[["n", "W"]].sort_values(["n", "W"])
@@ -99,11 +93,8 @@ def filtrar_tiempos_outliers_mult_var(data):
 
 def preparar_entorno():
     '''
-
     Compila el tp y devuelve un diccionario con los paths de cada carpeta a utilizar
-
     '''
-
     main_dir = exp_dir = os.getcwd()
     if main_dir.split(os.sep)[-1] != "codigo":
         main_dir = os.path.join("/", *main_dir.split(os.sep)[:-1])

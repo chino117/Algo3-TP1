@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import setup
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -7,7 +8,7 @@ import os
 import graf_comp_linea_generico as lg
 import graf_comp_coef_generico as cg
 
-data_paths = ["datos_fuerza_bruta.csv", "datos_mitm.csv", "datos_backtracking.csv", "datos_especial_backtracking.csv", "datos_dinamica.csv", "datos_especial_dinamica.csv"]
+data_paths = ["datos_fuerza_bruta.csv", "datos_backtracking.csv", "datos_problematico_backtracking.csv", "datos_dinamica.csv", "datos_especial_dinamica.csv", "datos_especial_backtracking.csv"]
 
 paths = setup.preparar_entorno()
 
@@ -41,7 +42,7 @@ def graf_heat(data):
 
 def graf_lineas(data):
     '''
-    Dibuja el grafico de multiples lineas para Dinamica
+    Dibuja el grafico de multiples lineas para comparar tiempo fijando n o W
     '''
     fig = plt.figure()
 
@@ -62,7 +63,7 @@ def graf_lineas(data):
 
     plt.show()
 
-def plot_graf_multi_dinamica(path):
+def plot_graf_multi(path):
     '''
     Lee los datos de dinamica y dibuja todos los graficos correspondientes.
     '''
@@ -94,13 +95,10 @@ if __name__=="__main__":
     # Agrandamos la letra
     sns.set(font_scale=1.1)
 
-    cotas = ["n*(2**n)/1e5", "(n/2)*(2**(n/2))/5e4"]
-    metodos = ["Fuerza Bruta", "MITM"]
+    # Dibujamos FB 
+    plot_graf(data_paths[0], "Fuerza Bruta", "n*(2**n)/1e5")
 
-    # Dibujamos FB y MITM
-    for i, j, k in zip(data_paths[:2], metodos, cotas):
-        plot_graf(i, j, k)
-
-    plot_graf_back(data_paths[3])
-    plot_graf_back("datos_problematico_backtracking.csv")
-    plot_graf_multi_dinamica(data_paths[-1])
+    plot_graf_back(data_paths[1])
+    plot_graf_back(data_paths[2])
+    plot_graf_multi(data_paths[4])
+    plot_graf_multi(data_paths[5])

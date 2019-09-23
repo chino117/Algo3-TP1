@@ -1,6 +1,5 @@
 #include "tipos_aux.h"
 #include "fuerza_bruta.hpp"
-#include "mitm.hpp"
 #include "backtracking.hpp"
 #include "dinamica.hpp"
 #include <iostream>
@@ -11,7 +10,7 @@
 
 using namespace std;
 
-const unsigned int CANT_MODOS = 6;
+const unsigned int CANT_MODOS = 5;
 const string red("\033[0;31m");
 const string green("\033[1;32m");
 const string yellow("\033[1;33m");
@@ -19,7 +18,6 @@ const string cyan("\033[0;36m");
 const string magenta("\033[0;35m");
 const string reset("\033[0m");
 const string nombres_metodos[CANT_MODOS] = {"Fuerza_Bruta", 
-                                            "MITM", 
                                             "Backtracking_podas", 
                                             "Dinamica",
                                             "Todos",
@@ -53,7 +51,7 @@ void Mostrar_Ayuda()
     <<"Valores de Modo:\n";
     for(unsigned int i = 0; i < CANT_MODOS;i++)
         cout<<setw(18)<<i<<" = "<<nombres_metodos[i]<<".\n";
-    cout<<"Cuando ejecuta todos los metodos (metodo 4 y 5), compara los resultados e informa cuándo difieren y cuáles métodos difieren\n";
+    cout<<"Cuando ejecuta todos los metodos (metodo 3 y 4), compara los resultados e informa cuándo difieren y cuáles métodos difieren\n";
     cout<<"Archivo de salida: Debe ser un archivo de formato .csv donde se adjutaran datos del problema como n, W, Beneficio Alcanzado, Tiempo de computo, Metodo utilizado y, para los metodos de backtracking, cantidad de nodos recorridos."<<endl;
 }
 
@@ -139,12 +137,9 @@ int main(int argc, char** argv)
                 t = Fuerza_Bruta(r, orig);
                 break;
             case 1:
-                t = MITM(orig, r);
-                break;
-            case 2:
                 t = Backtracking(orig, r);
                 break;
-            case 3:
+            case 2:
                 t = Dinamica(orig, r);
                 break;
             default:
